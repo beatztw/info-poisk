@@ -1,0 +1,2440 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Фрегат (дождевальная машина) — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+
+<meta content="MediaWiki 1.44.0-wmf.20" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/9/97/%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="578" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png/800px-%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="385" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png/640px-%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="308" property="og:image:height"/>
+<meta content="width=1120" name="viewport"/>
+<meta content="Фрегат (дождевальная машина) — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Фрегат_дождевальная_машина rootpage-Фрегат_дождевальная_машина skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span class="skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Фрегат (дождевальная машина)</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-stable-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">Стабильная версия</a>, проверенная 7 июля 2024.</div></div></div></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB,_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png"><img class="mw-file-element" data-file-height="575" data-file-width="1194" decoding="async" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png/300px-%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png/450px-%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png/600px-%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB%2C_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B2%D0%B8%D0%B4.png 2x" width="300"/></a><figcaption>МДМ «Фрегат» в работе</figcaption></figure>
+<p><b>ДМ «Фрегат»</b> и её модификации — советские, российские и украинские самоходные многоопорные широкозахватные <a class="mw-redirect" href="/wiki/%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0" title="Дождевальная машина">дождевальные машины</a> вантовой конструкции, кругового перемещения с забором воды от гидранта трубопровода или из водозаборной скважины, расположенных в центре кругового участка. Приводятся в движение при помощи <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4" title="Гидропривод">гидропривода</a>.
+</p><p>Производство начато в <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Украинская Советская Социалистическая Республика">Украинской ССР</a> в 1971 году на основе лицензии компании <span data-interwiki-article="Valmont Industries" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Valmont_Industries&amp;action=edit&amp;redlink=1" title="Valmont Industries (страница отсутствует)">Valmont Industries</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Valmont_Industries" title="en:Valmont Industries"><span title="Valmont Industries — версия статьи «Valmont Industries» на английском языке">[англ.]</span></a></sup> (США) на аналогичные машины марки Valley. Машины семейства ДМ «Фрегат» применяются для автоматизированного <a href="/wiki/%D0%9E%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5" title="Орошение">полива</a> сельскохозяйственных культур, в том числе высокостебельных, <a href="/wiki/%D0%9B%D1%83%D0%B3" title="Луг">лугов</a> и <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B1%D0%B8%D1%89%D0%B5" title="Пастбище">пастбищ</a> и до сих пор остаются одними из наиболее распространённых дождевальных машин в России и Украине.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Устройство"><span class="tocnumber">1</span> <span class="toctext">Устройство</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Производство_и_модификации"><span class="tocnumber">2</span> <span class="toctext">Производство и модификации</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Применение"><span class="tocnumber">3</span> <span class="toctext">Применение</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Технические_характеристики"><span class="tocnumber">4</span> <span class="toctext">Технические характеристики</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="Устройство"><span id=".D0.A3.D1.81.D1.82.D1.80.D0.BE.D0.B9.D1.81.D1.82.D0.B2.D0.BE"></span>Устройство</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Устройство»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Устройство»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82.png"><img class="mw-file-element" data-file-height="983" data-file-width="947" decoding="async" height="228" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82.png/220px-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82.png/330px-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82.png/440px-%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BA%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82.png 2x" width="220"/></a><figcaption>Схема участка работы «Фрегата»: 1 — гидрант; 2 — дождевальная машина; 3 — распределительный трубопровод; 4 — полевой трубопровод; 5 — распределительный колодец; 6 — граница полива при использовании концевого дальнеструйного аппарата; 7 — граница полива; 8 — полевая дорога; 9 — лесополоса</figcaption></figure>
+<p>Машина представляет собой <span data-interwiki-article="Center pivot irrigation" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9A%D1%80%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5_%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" title="Круговое орошение (страница отсутствует)">движущийся по кругу</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Center_pivot_irrigation" title="en:Center pivot irrigation"><span title="Center pivot irrigation — версия статьи «Круговое орошение» на английском языке">[англ.]</span></a></sup> водопроводящий пояс (трубопровод) с <a class="new" href="/w/index.php?title=%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82&amp;action=edit&amp;redlink=1" title="Дождевальный аппарат (страница отсутствует)">дождевальными аппаратами</a>, который опирается на самоходные опоры и соединён с неподвижной опорой в центре кругового участка.
+</p><p>Вода в машину подаётся от гидранта закрытой (подземной) оросительной сети или в более редких<sup class="reference" id="cite_ref-OROSHENIE_DOZHDEVANIEM_1-0"><a href="#cite_note-OROSHENIE_DOZHDEVANIEM-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> случаях из скважины. Далее она пропускается через фильтр и идёт по стояку, вокруг которого вращается машина, далее в горизонтально расположенный водопроводящий пояс. Стояк закреплён в неподвижной опоре, которая представляет собой пирамидальную металлическую конструкцию на бетонном фундаменте<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-0"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>.
+</p><p>Металлический водопроводящий пояс (почти равный радиусу кругового участка) расположен на высоте 2,2 м над землёй. Пояс машин типа ДМУ оснащён среднеструйными дождевальными аппаратами четырёх типоразмеров кругового действия (в количестве 2-3 штук на пролёт), а также может иметь концевой дальнеструйный дождевальный аппарат, который работает по части углового сектора участка. Аппараты орошают кольца разной площади, пропорциональной расстоянию от центральной опоры. Для обеспечения жёсткости конструкции и поддержания водопроводящего пояса в горизонтальном положении предусмотрена система тросовых растяжек. При орошении участков со сложным рельефом и местными уклонами до 0,1 (по другим данным, до 0,22) водопроводящий пояс снабжают гибкими вставками. Машины без гибких вставок работают на уклонах до 0,08. Водопроводящий пояс опирается на самоходные опоры. Поздние модификации «Фрегата» имеют дополнительный трубопровод, улучшающий снабжение гидроприводов водой<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-1"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-GUSEYN-ZADE_3-0"><a href="#cite_note-GUSEYN-ZADE-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-LISTOPAD_4-0"><a href="#cite_note-LISTOPAD-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>.
+</p>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B_%D0%94%D0%9C%D0%A3_%D0%B8_%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB.png"><img class="mw-file-element" data-file-height="570" data-file-width="1278" decoding="async" height="134" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B_%D0%94%D0%9C%D0%A3_%D0%B8_%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB.png/300px-%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B_%D0%94%D0%9C%D0%A3_%D0%B8_%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B_%D0%94%D0%9C%D0%A3_%D0%B8_%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB.png/450px-%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B_%D0%94%D0%9C%D0%A3_%D0%B8_%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B_%D0%94%D0%9C%D0%A3_%D0%B8_%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB.png/600px-%D0%9D%D0%B5%D0%BF%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B_%D0%94%D0%9C%D0%A3_%D0%B8_%D0%9C%D0%94%D0%9C_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB.png 2x" width="300"/></a><figcaption>Неподвижные опоры машин модификаций ДМУ «Фрегат» (слева) и МДМ «Фрегат» (справа)</figcaption></figure>
+<p>Существуют модификации «Фрегата» с числом самоходных опор от 7 до 20 включительно, упоминается также модификация длиной 611,8 м с 22 опорами. Они представляют собой двухколёсные тележки с <a class="mw-redirect" href="/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D0%B2%D0%BE%D0%B4" title="Гидропривод">гидроприводом</a>, работающим от энергии воды, идущей на полив. Механизм гидропривода включает гидроцилиндр с системой рычагов, передающих усилие почвозацепам ходовых колёс самоходных опор. На тележки опираются А-образные фермы с системой тросового крепления прилегающих участков водопроводящего пояса. Самоходные опоры, кроме последней, имеют системы автоматической синхронизации движения, которые контролируют изгиб водопроводящего пояса в горизонтальной плоскости и регулируют расход воды, подаваемой в гидропривод. Кроме того, машина оборудована системами механической и электрической защиты, которые предназначены для аварийной остановки при недопустимом изгибе трубопровода<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-2"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-GUSEYN-ZADE_3-1"><a href="#cite_note-GUSEYN-ZADE-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-LISTOPAD_4-1"><a href="#cite_note-LISTOPAD-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>.
+</p><p>Скорость вращения машины вокруг центра задаётся краном на гидроприводе периферийной тележки. Остановка «Фрегата» происходит после прекращения подачи воды. Принудительную остановку выполняет оператор размыканием выключателя на неподвижной опоре или ручным управлением <a class="new" href="/w/index.php?title=%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%80%D0%B5%D0%BB%D0%B5&amp;action=edit&amp;redlink=1" title="Электрогидрореле (страница отсутствует)">электрогидрореле</a>, а в поздних модификациях также дистанционно. Оставшаяся вода автоматически выливается через сливные клапаны<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-3"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-GUSEYN-ZADE_3-2"><a href="#cite_note-GUSEYN-ZADE-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-LISTOPAD_4-2"><a href="#cite_note-LISTOPAD-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>.
+</p><p>Дополнительное оборудование: комплект внешней системы электрозащиты, узлы системы отключения концевого дождевателя, комплект механического тормоза промежуточной тележки, <a class="new" href="/w/index.php?title=%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B4%D0%BA%D0%BE%D1%80%D0%BC%D1%89%D0%B8%D0%BA&amp;action=edit&amp;redlink=1" title="Гидроподкормщик (страница отсутствует)">гидроподкормщик</a><sup class="reference" id="cite_ref-LISTOPAD_4-3"><a href="#cite_note-LISTOPAD-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. Поздние модификации «Фрегата» могут иметь бортовой компьютер<sup class="reference" id="cite_ref-KORVET_5-0"><a href="#cite_note-KORVET-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Производство_и_модификации"><span id=".D0.9F.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.BE_.D0.B8_.D0.BC.D0.BE.D0.B4.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B8"></span>Производство и модификации</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Производство и модификации»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Производство и модификации»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В 1950-х годах в США были запатентованы многоопорные дождевальные машины кругового действия с гидроприводами для использования на напорных пластах подземных вод, в дальнейшем они постоянно улучшались компанией «Вальмонт Индастриз» (<span data-interwiki-article="Valmont Industries" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Valmont_Industries&amp;action=edit&amp;redlink=1" title="Valmont Industries (страница отсутствует)">Valmont Industries</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Valmont_Industries" title="en:Valmont Industries"><span title="Valmont Industries — версия статьи «Valmont Industries» на английском языке">[англ.]</span></a></sup>). СССР купил опытные образцы таких машин в 1968 году, спустя два года после выхода постановления ЦК КПСС и Совмина СССР «О широком развитии мелиорации земель для получения высоких и устойчивых урожаев зерновых и других сельскохозяйственных культур», которое запустило масштабную программу по орошению. Была куплена лицензия Valmont Industries на наиболее отработанные и совершённые на тот момент машины «Валлей» (Valley 1060 и Valley 1076). Выпуск их аналога под маркой <b>ДМ «Фрегат»</b> (<b>д</b>ождевальная <b>м</b>ашина) начался в 1971 году на <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%C2%AB%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82%C2%BB" title="Первомайский завод «Фрегат»">заводе «Фрегат»</a> в <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA_(%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Первомайск (Николаевская область)">Первомайске</a> (<a href="/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Николаевская область">Николаевская область</a>)<sup class="reference" id="cite_ref-KIM_6-0"><a href="#cite_note-KIM-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-ZHURAVLEVA_11-0"><a href="#cite_note-ZHURAVLEVA-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-0"><a href="#cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-ETAPY_13-0"><a href="#cite_note-ETAPY-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>. В СССР для орошения в основном стали использовать поверхностные воды, поэтому оросительные системы с машинами кругового действия оказались иными, нежели в США. Развитая сеть подземных трубопроводов с высоконапорными «Фрегатами» требовала <a href="/wiki/%D0%9D%D0%B0%D1%81%D0%BE%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Насосная станция">насосной станции</a> с напором 1-1,2 МПа. Эти системы оказались крайне энергоёмкими<sup class="reference" id="cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-1"><a href="#cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>.
+</p><p>Для расширения зоны применения машин в 1979 году<sup class="reference" id="cite_ref-ETAPY_13-1"><a href="#cite_note-ETAPY-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup> начат серийный выпуск модификаций <b>ДМУ-А «Фрегат»</b> и <b>ДМУ-Б «Фрегат»</b> (<b>д</b>ождевальная <b>м</b>ашина <b>у</b>нифицированная). Устройство и принцип действия машин ДМ и ДМУ аналогичны. Изменения были внесены в следующие узлы: водопроводящий пояс, система тросов, механический тормоз, последняя тележка. Машины типа ДМУ стали оснащаться более скоростными клапанами в гидроприводах<sup class="reference" id="cite_ref-MAZHUGIN_14-0"><a href="#cite_note-MAZHUGIN-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>. Машины с гибкими вставками и водопроводящим поясом постоянного диаметра 152,4 мм имеют индекс «<b>А</b>», без гибких вставок и с поясом переменного диаметра 177,8 и 152,4 мм — индекс «<b>Б</b>»<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-4"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>.
+</p><p>За первые 20 лет производства выпущено более 35 тысяч «Фрегатов»<sup class="reference" id="cite_ref-FOKIN_NOSOV_15-0"><a href="#cite_note-FOKIN_NOSOV-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>.
+</p><p>В советское время были разработаны специальные модификации машин ДМУ. Для работы на почвах с низкой несущей способностью, где наиболее существенна проблема колееобразования, разработаны «Фрегаты» на пневматических шинах низкого давления 15,5-38Р<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-5"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Модификация Всероссийского НИИ механизации и техники полива (будущий <a class="new" href="/w/index.php?title=%D0%92%D1%81%D0%B5%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC_%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B8_%D1%81%D0%B5%D0%BB%D1%8C%D1%85%D0%BE%D0%B7%D0%B2%D0%BE%D0%B4%D0%BE%D1%81%D0%BD%D0%B0%D0%B1%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%C2%AB%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0%C2%BB&amp;action=edit&amp;redlink=1" title="Всероссийский научно-исследовательский институт систем орошения и сельхозводоснабжения «Радуга» (страница отсутствует)">Всероссийский НИИ «Радуга»</a>) <b>ДМУ-Асс</b> была предназначена для орошения водой с добавлением <a class="new" href="/w/index.php?title=%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%BE%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" title="Животноводческие стоки (страница отсутствует)">животноводческих стоков</a><sup class="reference" id="cite_ref-SPRAVOCHNIK_2-6"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-ETAPY_13-2"><a href="#cite_note-ETAPY-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>.
+</p><p>Наиболее перспективным путём модернизации «Фрегатов» оказалась разработка низконапорных машин<sup class="reference" id="cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-2"><a href="#cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>. Для реализации работы при низких напорах могут вноситься различные конструктивные изменения, обеспечивающие необходимые тягово-скоростные характеристики тележек и параметры полива. Первые низконапорные «Фрегаты» были изготовлены опытной партией ещё во 2-й половине 1970-х годов во Всероссийском НИИ механизации и техники полива. В них были применены дождевальные аппараты другой серии и уменьшено плечо силового рычага (для сохранения тяговых параметров тележек). В 1986—1987 годах там же создана модификация на пневмошинах и с увеличенными диаметрами гидроцилиндров. Она была рекомендована к серийному производству, до которого так и не дошла<sup class="reference" id="cite_ref-ZHURAVLEVA_11-1"><a href="#cite_note-ZHURAVLEVA-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>. В 1989 году начат выпуск низконапорной модификации <b>ДМУ-Бнм</b>, разработанной в СКБ ДМ «Дождь»<sup class="reference" id="cite_ref-SHEVCHENKO_17-0"><a href="#cite_note-SHEVCHENKO-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>. Машины типа ДМУ-Бнм могут иметь как металлические колёса, так и колёса с пневмошинами. В первом случае применены гидроцилиндры увеличенного диаметра, во втором случае — уменьшено плечо силового рычага<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-7"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Производство низконапорных дождевальных машин — общемировая тенденция. Необходимость экономичных низконапорных «Фрегатов» стала ощущаться особенно явно с наступлением новых рыночных экономических реалий и по мере износа оросительной системы<sup class="reference" id="cite_ref-ZHURAVLEVA_11-2"><a href="#cite_note-ZHURAVLEVA-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-3"><a href="#cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-NOVYE_18-0"><a href="#cite_note-NOVYE-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>. В результате совместной работы Всероссийского НИИ «Радуга» и СКБ «Дождь» создана и внедрена в производство низконапорная машина <b>ДМУ-А «Фрегат-Н»</b><sup class="reference" id="cite_ref-ZHURAVLEVA_11-3"><a href="#cite_note-ZHURAVLEVA-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>. Её новшество состоит в применении малоинтенсивных, экологически безопасных, экономичных дождевальных аппаратов секторного действия. Её государственные испытания в 2004 году показали снижение интенсивности дождя, снижение потерь воды, увеличение равномерности распределения воды, уменьшение колееобразования, снижение энергоёмкости<sup class="reference" id="cite_ref-19"><a href="#cite_note-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup> Исследования по переводу «Фрегатов» на низкое давление велись также в <a class="new" href="/w/index.php?title=%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%BC%D0%B5%D0%BB%D0%B8%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Волжский научно-исследовательский институт гидротехники и мелиорации (страница отсутствует)">Волжском НИИ гидротехники и мелиорации</a>, <a class="new" href="/w/index.php?title=%D0%A1%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%BC%D0%B5%D0%BB%D0%B8%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Ставропольский научно-исследовательский институт гидротехники и мелиорации (страница отсутствует)">Ставропольском НИИ гидротехники и мелиорации</a>, <a class="new" href="/w/index.php?title=%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%BC%D0%B5%D0%BB%D0%B8%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Украинский научно-исследовательский институт гидротехники и мелиорации (страница отсутствует)">Украинском НИИ гидротехники и мелиорации</a>, <a class="new" href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC_%D0%BC%D0%B5%D0%BB%D0%B8%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Российский научно-исследовательский институт проблем мелиорации (страница отсутствует)">Российском НИИ проблем мелиорации</a>, <a class="mw-redirect" href="/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B3%D1%80%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Саратовский государственный аграрный университет">Саратовском аграрном университете</a> и других организациях<sup class="reference" id="cite_ref-NOVYE_18-1"><a href="#cite_note-NOVYE-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>.
+</p><p>В 2010-х годах начали внедряться низконапорные модификации с дополнительным трубопроводом<sup class="reference" id="cite_ref-NOVYE_18-2"><a href="#cite_note-NOVYE-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>. Этим предполагается улучшить энергоснабжение последних наиболее нагруженных тележек и повысить проходимость машины<sup class="reference" id="cite_ref-FOKIN_NOSOV_15-1"><a href="#cite_note-FOKIN_NOSOV-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>. В 2015 году при участии Всероссийского НИИ «Радуга» появилась низконапорная машина с дополнительным трубопроводом <b>МДМ «Фрегат»</b> (<b>м</b>одернизированная <b>д</b>ождевальная <b>м</b>ашина). Разделение на полиэтиленовый трубопровод, подающий воду к гидроприводам тележек, и металлический водопроводящий пояс, по заверению Всероссийского НИИ «Радуга», снизило энергоёмкость и повысило эксплуатационные качества. Машина имеет три дополнительных режима работы: режим холостого хода, низконапорный режим, режим внесения удобрений при поливе. МДМ имеет 11 модификаций<sup class="reference" id="cite_ref-:0_20-0"><a href="#cite_note-:0-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-21"><a href="#cite_note-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-ANALITC_22-0"><a href="#cite_note-ANALITC-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup>. Серийное производство российской дождевальной техники после многолетнего перерыва возобновилось в 2016 году. К 2020 году сельскохозяйственным производителям поставлено 60 новых машин МДМ «Фрегат»<sup class="reference" id="cite_ref-ANALITC_22-1"><a href="#cite_note-ANALITC-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup>. Аналогичная машина <b>ДМУМ «Корвет»</b> разработана коллективом объединения «Мелиорация — внутрихозяйственные сети» и <a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Самарский государственный технический университет">Самарского технического университета</a>. В 2021 году в количестве 30 штук машина поступила в одно из сельхозпредприятий <a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Самарская область">Самарской области</a><sup class="reference" id="cite_ref-KORVET_5-1"><a href="#cite_note-KORVET-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup>. Ещё одна низконапорная модификация с раздельными трубопроводами — машина <b>ДМ «Волга-СМ»</b>, разработанная сотрудниками ВолжНИИГиМ совместно с <a href="/wiki/%D0%AD%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82" title="Энгельсский технологический институт">Энгельсским филиалом</a> <a href="/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Саратовский государственный технический университет">Саратовского технического университета</a>. Основной трубопровод машины — полиэтиленовый или стеклопластиковый. Дополнительный металлический трубопровод предназначен для подачи воды в гидроприводы и небольшого расхода воды на дождеватели и концевой дождевальный аппарат. ДМ «Волга-СМ» — машина реверсивного движения (может передвигаться как по часовой стрелке, так и в обратном направлении)<sup class="reference" id="cite_ref-24"><a href="#cite_note-24"><span class="cite-bracket">[</span>24<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-25"><a href="#cite_note-25"><span class="cite-bracket">[</span>25<span class="cite-bracket">]</span></a></sup>.
+</p><p>С использованием элементов машин типа ДМУ сконструированы предназначенные для работы на мелкоконтурных участках укороченные машины «Мини-Фрегат-К»<sup class="reference" id="cite_ref-MAZHUGIN_14-1"><a href="#cite_note-MAZHUGIN-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>.
+</p><p>В России модификации ДМ «Фрегат» выпускают ООО «САБОНагро» из <a href="/wiki/%D0%93%D1%83%D0%BB%D1%8C%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%D0%B8" title="Гулькевичи">Гулькевичей</a> (<a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9" title="Краснодарский край">Краснодарский край</a>), ОАО «Фрегат» из <a href="/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" title="Нижний Новгород">Нижнего Новгорода</a>, ООО «АгроТехСервис» (в том числе ДМ «Волга-СМ») из <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%81_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Маркс (город)">Маркса</a> (<a href="/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Саратовская область">Саратовская область</a>), ООО «БСГ» (в том числе МДМ «Фрегат») из <a href="/wiki/%D0%A2%D0%BE%D0%BB%D1%8C%D1%8F%D1%82%D1%82%D0%B8" title="Тольятти">Тольятти</a> (Самарская область), ООО НПО «СЗСМ» (в том числе ДМУМ «Корвет») из <a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0" title="Самара">Самары</a><sup class="reference" id="cite_ref-KORVET_5-2"><a href="#cite_note-KORVET-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-KOLGANOV_26-0"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-KONCEPTUALNYE_27-0"><a href="#cite_note-KONCEPTUALNYE-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-28"><a href="#cite_note-28"><span class="cite-bracket">[</span>28<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-29"><a href="#cite_note-29"><span class="cite-bracket">[</span>29<span class="cite-bracket">]</span></a></sup>. В Украине — первомайский ЧАО «Завод „Фрегат“», входящий в пятёрку крупнейших игроков на украинском рынке оросительных систем<sup class="reference" id="cite_ref-30"><a href="#cite_note-30"><span class="cite-bracket">[</span>30<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Применение"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5"></span>Применение</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Применение»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=edit&amp;section=3" title="Редактировать код раздела «Применение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Irrigation_Landsat8.jpg"><img class="mw-file-element" data-file-height="3509" data-file-width="2478" decoding="async" height="312" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Irrigation_Landsat8.jpg/220px-Irrigation_Landsat8.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Irrigation_Landsat8.jpg/330px-Irrigation_Landsat8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Irrigation_Landsat8.jpg/440px-Irrigation_Landsat8.jpg 2x" width="220"/></a><figcaption>Участки работы «Фрегатов» на спутниковом снимке. <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина">Украина</a>, <a href="/wiki/%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Херсонская область">Херсонская область</a></figcaption></figure>
+<table class="infobox infobox-44ecb0d12e5eaf14 noprint" style="width:230px;"><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style="text-align:left; font-style:normal; font-size:100%; background:#eaecf0;"><span class="mw-default-size skin-invert" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/1/1a/Silk-film.png" width="16"/></span></span> Внешние видеофайлы</th></tr>
+<tr>
+<th class="plainlist" scope="row" style="text-align:left; flex:0;"><span class="mw-default-size skin-invert" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/1/1a/Silk-film.png" width="16"/></span></span></th>
+<td class="plainlist">
+<a class="external text" href="https://www.youtube.com/watch?app=desktop&amp;v=J4p-rGQJAyk" rel="nofollow">Работа «Фрегата», оборудованного устройствами приповерхностного дождевания (УПД)</a></td>
+</tr>
+</tbody></table>
+<p>Машины семейства «Фрегат» применяются для автоматизированного <a href="/wiki/%D0%9E%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B5" title="Орошение">полива</a> сельскохозяйственных культур, в том числе высокостебельных, <a href="/wiki/%D0%9B%D1%83%D0%B3" title="Луг">лугов</a> и <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B1%D0%B8%D1%89%D0%B5" title="Пастбище">пастбищ</a><sup class="reference" id="cite_ref-SPRAVOCHNIK_2-8"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Для орошения овощных культур «Фрегат» (в сочетании с дальнеструйными дождевальными аппаратами или другой техникой для полива углов за пределами крговых участков) рекомендуют использовать там, где затруднено применение двухконсольных агрегатов (<a href="/wiki/%D0%94%D0%94%D0%90-100" title="ДДА-100">ДДА-100МА</a>), то есть на лёгких минеральных почвах, на участках с относительно сложным рельефом, на тяжёлых слабоводопроницаемых почвах, а также при больших нормах полива (в пустынных и засушливых регионах). Конкретную модификацию «Фрегата» и их расположение выбирают исходя из размеров полей севооборота и общей конфигурации орошаемой территории<sup class="reference" id="cite_ref-ACADEMY_31-0"><a href="#cite_note-ACADEMY-31"><span class="cite-bracket">[</span>31<span class="cite-bracket">]</span></a></sup>.
+</p><p>Величина поливной нормы регулируется изменением скорости движения машины. Величина поливной нормы и природно-климатические условия позволяют в некоторых случаях использовать одну машину на двух и даже трёх (в лесостепи) позициях в поливном сезоне. На другую позицию машину перевозят в осевом направлении трактором, при этом колёса тележек предварительно поворачивают на 90°<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-9"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_32-0"><a href="#cite_note-:2-32"><span class="cite-bracket">[</span>32<span class="cite-bracket">]</span></a></sup>. Скорость транспортирования на новую позицию составляет 5 км/ч<sup class="reference" id="cite_ref-KOLGANOV_26-1"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup>. На практике эта возможность используется редко<sup class="reference" id="cite_ref-OROSHENIE_DOZHDEVANIEM_1-1"><a href="#cite_note-OROSHENIE_DOZHDEVANIEM-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>.
+</p><p>«Фрегаты» получили широкое распространение, так как они имеют большой срок службы и простую конструкцию, дешевле зарубежной техники с электроприводами и проще неё в эксплуатации. Машина имеет и другие преимущества: автоматизация полива, высокая производительность труда, проведение поливов в широком диапазоне поливных норм, использование энергии воды одновременно для полива и передвижения, возможность круглосуточной работы, возможность полива высокостебельных культур<sup class="reference" id="cite_ref-KIM_6-1"><a href="#cite_note-KIM-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-KOLGANOV_26-2"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-NECHYOTKOE_33-0"><a href="#cite_note-NECHYOTKOE-33"><span class="cite-bracket">[</span>33<span class="cite-bracket">]</span></a></sup>.
+</p><p>К недостаткам серийных машин типа ДМ и ДМУ относят недополив углов поля, высокую металлоёмкость на подземные трубопроводы<sup class="reference" id="cite_ref-KOLGANOV_26-3"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup>, негативное воздействие на почву (колееобразование; излишне высокая интенсивность дождя, приводящая к поверхностному стоку и глубинной фильтрации воды, заболачиванию почвы и подъёму уровня грунтовых вод; большой диаметр капель, достигающий 2,5—3,5 мм, что оказывает значительное энергетическое воздействие на почву, разрушая и уплотняя её верхний слой)<sup class="reference" id="cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-4"><a href="#cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-34"><a href="#cite_note-34"><span class="cite-bracket">[</span>34<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-35"><a href="#cite_note-35"><span class="cite-bracket">[</span>35<span class="cite-bracket">]</span></a></sup>, невозможность регулировки поливной нормы в процессе работы, неэффективность на участках со сложным рельефом<sup class="reference" id="cite_ref-NECHYOTKOE_33-1"><a href="#cite_note-NECHYOTKOE-33"><span class="cite-bracket">[</span>33<span class="cite-bracket">]</span></a></sup>, неэкономичность расходования воды<sup class="reference" id="cite_ref-36"><a href="#cite_note-36"><span class="cite-bracket">[</span>36<span class="cite-bracket">]</span></a></sup>, и одна из самых существенных проблем — огромная энергоёмкость, обусловленная в первую очередь работой на высоком давлении (энергоёмкость на подачу 1000 м<sup>3</sup> находится в пределах 350—680 кВт⋅ч)<sup class="reference" id="cite_ref-ZHURAVLEVA_11-4"><a href="#cite_note-ZHURAVLEVA-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-5"><a href="#cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-KOLGANOV_26-4"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-37"><a href="#cite_note-37"><span class="cite-bracket">[</span>37<span class="cite-bracket">]</span></a></sup>.
+</p><p>Некоторые проблемы решены в модернизированных «Фрегатах». Применение низконапорных машин даёт возможность сократить затраты электроэнергии на работу насосных станций, увеличить число машин, работающих одновременно от одного насосного агрегата, за счёт этого сокращается продолжительность полива орошаемых территорий. Снижение давления на входе на 0,1 МПа позволяет экономить от 10 % до 30 % потребляемой энергии<sup class="reference" id="cite_ref-ZHURAVLEVA_11-5"><a href="#cite_note-ZHURAVLEVA-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-KOLGANOV_26-5"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup>. Экономический эффект достигается только вкупе с модернизацией насосно-силового оборудования оросительной системы<sup class="reference" id="cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-6"><a href="#cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-NOVYE_18-3"><a href="#cite_note-NOVYE-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>. Переход на низконапорные машины в сочетании с модернизацией насосно-силового оборудования, оптимизацией его работы может сократить затраты электроэнергии в 1,15—2 раза, до 266—270 кВт⋅ч на подачу 1000 м<sup>3</sup><sup class="reference" id="cite_ref-KOLGANOV_26-6"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-38"><a href="#cite_note-38"><span class="cite-bracket">[</span>38<span class="cite-bracket">]</span></a></sup>. Оснащение машин более совершенными дождевальными аппаратами, в том числе короткоструйными, <a class="new" href="/w/index.php?title=%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B5%D1%84%D0%BB%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0%D1%81%D0%B0%D0%B4%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Дождевальная дефлекторная насадка (страница отсутствует)">дефлекторными насадками</a> способствует экономии воды и энергии, улучшению качества полива и снижению негативного воздействия на почву. Снизить расход воды и минимизировать негативное воздействие на почву позволяет также применение <a class="new" href="/w/index.php?title=%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D1%80%D0%B8%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" title="Устройство приповерхностного дождевания (страница отсутствует)">устройств приповерхностного дождевания (УПД)</a><sup class="reference" id="cite_ref-39"><a href="#cite_note-39"><span class="cite-bracket">[</span>39<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-TEHNICHESKIY_UROVEN_40-0"><a href="#cite_note-TEHNICHESKIY_UROVEN-40"><span class="cite-bracket">[</span>40<span class="cite-bracket">]</span></a></sup>. Достоинство модификаций с реверсивным движением состоит в возможности использовать одну машину на нескольких сельскохозяйственных культурах с различными биологическими особенностями и требованиями к поливу, что позволяет экономить воду и получать стабильные урожаи<sup class="reference" id="cite_ref-TEHNICHESKIY_UROVEN_40-1"><a href="#cite_note-TEHNICHESKIY_UROVEN-40"><span class="cite-bracket">[</span>40<span class="cite-bracket">]</span></a></sup>.
+</p><p>Как и <a href="/wiki/%D0%94%D0%9A%D0%A8-64_%C2%AB%D0%92%D0%BE%D0%BB%D0%B6%D0%B0%D0%BD%D0%BA%D0%B0%C2%BB" title="ДКШ-64 «Волжанка»">ДКШ-64 «Волжанка»</a> данные «Фрегаты» являются дождевальными машинами второго поколения<sup class="reference" id="cite_ref-KOLGANOV_26-7"><a href="#cite_note-KOLGANOV-26"><span class="cite-bracket">[</span>26<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-TEHNICHESKIY_UROVEN_40-2"><a href="#cite_note-TEHNICHESKIY_UROVEN-40"><span class="cite-bracket">[</span>40<span class="cite-bracket">]</span></a></sup>. «Фрегаты» — наиболее распространённые дождевальные машины советского и российского производства. В 2005 году в России имелось 8317 машин (40,4 % парка дождевальной техники страны), в 2014 году — 4269 машин (30,5 %), в 2019 году — 2772 машины (23,3 %). В 2019 году площадь орошения «Фрегатами» в России составляла 190 тысяч га (29,7 %)<sup class="reference" id="cite_ref-ANALITC_22-2"><a href="#cite_note-ANALITC-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup>. В Украине «Фрегаты» также широко распространены. По состоянию на 2016 год в Украине работало около 4900 машин, что составляло чуть больше половины парка<sup class="reference" id="cite_ref-41"><a href="#cite_note-41"><span class="cite-bracket">[</span>41<span class="cite-bracket">]</span></a></sup>. Большинство из существующих «Фрегатов» имеет значительный износ, многие из них ещё советского производства. Эти машины уже морально и материально устарели, требуют замены или модернизации<sup class="reference" id="cite_ref-ZHURAVLEVA_11-6"><a href="#cite_note-ZHURAVLEVA-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-TEHNICHESKIY_UROVEN_40-3"><a href="#cite_note-TEHNICHESKIY_UROVEN-40"><span class="cite-bracket">[</span>40<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Технические_характеристики"><span id=".D0.A2.D0.B5.D1.85.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B8"></span>Технические характеристики</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Технические характеристики»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Технические характеристики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable" style="width:100%;">
+<tbody><tr>
+<th colspan="2" rowspan="2">Показатель
+</th>
+<th colspan="5">ДМ «Фрегат»<sup class="reference" id="cite_ref-:2_32-1"><a href="#cite_note-:2-32"><span class="cite-bracket">[</span>32<span class="cite-bracket">]</span></a></sup>
+</th>
+<th>ДМУ<br/><small>«Фрегат-Н»</small><br/><sup class="reference" id="cite_ref-:1_42-0"><a href="#cite_note-:1-42"><span class="cite-bracket">[</span>42<span class="cite-bracket">]</span></a></sup>
+</th>
+<th colspan="11">ДМУ-А «Фрегат»<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-10"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-ACADEMY_31-1"><a href="#cite_note-ACADEMY-31"><span class="cite-bracket">[</span>31<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:3_43-0"><a href="#cite_note-:3-43"><span class="cite-bracket">[</span>43<span class="cite-bracket">]</span></a></sup> *
+</th></tr>
+<tr>
+<th>ДМ-<br/>335-58
+</th>
+<th>ДМ-<br/>365-68
+</th>
+<th>ДМ-<br/>394-80
+</th>
+<th>ДМ-<br/>424-90
+</th>
+<th>ДМ-<br/>454-100
+</th>
+<th>ДМУ-А<br/>199-28
+</th>
+<th>ДМУ-А<br/>199-28
+</th>
+<th>ДМУ-А<br/>229-32
+</th>
+<th>ДМУ-А<br/>253-38
+</th>
+<th>ДМУ-А<br/>283-45
+</th>
+<th>ДМУ-А<br/>308-55
+</th>
+<th>ДМУ-А<br/>308-30
+</th>
+<th>ДМУ-А<br/>337-65
+</th>
+<th>ДМУ-А<br/>337-45
+</th>
+<th>ДМУ-А<br/>362-50
+</th>
+<th>ДМУ-А<br/>392-50
+</th>
+<th>ДМУ-А<br/>417-55
+</th></tr>
+<tr>
+<td colspan="2">Число дождевальных аппаратов
+</td>
+<td>38
+</td>
+<td>41
+</td>
+<td>44
+</td>
+<td>48
+</td>
+<td>50
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Число тележек
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td></tr>
+<tr>
+<td colspan="2">Длина машины, м
+</td>
+<td>335
+</td>
+<td>365
+</td>
+<td>394
+</td>
+<td>424
+</td>
+<td>454,5
+</td>
+<td>199,0
+</td>
+<td>199,0
+</td>
+<td>228,7
+</td>
+<td>253,4
+</td>
+<td>283,0
+</td>
+<td>307,8
+</td>
+<td>307,8
+</td>
+<td>337,4
+</td>
+<td>337,4
+</td>
+<td>362,2
+</td>
+<td>391,8
+</td>
+<td>416,5
+</td></tr>
+<tr>
+<td colspan="2">Максимальный радиус полива, м
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>224
+</td>
+<td>254
+</td>
+<td>278
+</td>
+<td>308
+</td>
+<td>333
+</td>
+<td>333
+</td>
+<td>362
+</td>
+<td>362
+</td>
+<td>387
+</td>
+<td>417
+</td>
+<td>442
+</td></tr>
+<tr>
+<td colspan="2">Общий расход воды, л/с
+</td>
+<td>58
+</td>
+<td>68
+</td>
+<td>80
+</td>
+<td>90
+</td>
+<td>100
+</td>
+<td>19,7
+</td>
+<td>20
+<p>28
+</p>
+</td>
+<td>25
+<p>32
+</p>
+</td>
+<td>28
+<p>38
+</p>
+</td>
+<td>30
+<p>45
+</p>
+</td>
+<td>45
+<p>55
+</p>
+</td>
+<td>50
+</td>
+<td>55
+<p>65
+</p>
+</td>
+<td>35
+<p>45
+</p>
+</td>
+<td>40
+<p>50
+</p>
+</td>
+<td>40
+<p>50
+</p>
+</td>
+<td>45
+<p>55
+</p>
+</td></tr>
+<tr>
+<td colspan="2">Требуемое давление воды на входе в машину при нулевом общем уклоне, МПа
+</td>
+<td>0,52-0,57
+</td>
+<td>0,57-0,59
+</td>
+<td>0,59-0,64
+</td>
+<td>0,64-0,69
+</td>
+<td>0,64-0,69
+</td>
+<td>0,37
+</td>
+<td>0,47
+</td>
+<td>0,47
+<p>0,48
+</p>
+</td>
+<td>0,47
+<p>0,50
+</p>
+</td>
+<td>0,48
+<p>0,51
+</p>
+</td>
+<td>0,52
+<p>0,54
+</p>
+</td>
+<td>0,48
+</td>
+<td>0,55
+<p>0,59
+</p>
+</td>
+<td>0,50
+<p>0,52
+</p>
+</td>
+<td>0,51
+<p>0,54
+</p>
+</td>
+<td>0,52
+<p>0,55
+</p>
+</td>
+<td>0,54
+<p>0,57
+</p>
+</td></tr>
+<tr>
+<td colspan="2">Средняя интенсивность дождя по длине машины, мм/мин
+</td>
+<td>0,19
+</td>
+<td>0,23
+</td>
+<td>0,26
+</td>
+<td>0,29
+</td>
+<td>0,32
+</td>
+<td>0,22
+</td>
+<td>0,17
+<p>0,22
+</p>
+</td>
+<td>0,18
+<p>0,22
+</p>
+</td>
+<td>0,19
+<p>0,24
+</p>
+</td>
+<td>0,18
+<p>0,25
+</p>
+</td>
+<td>0,23
+<p>0,27
+</p>
+</td>
+<td>0,16
+</td>
+<td>0,25
+<p>0,29
+</p>
+</td>
+<td>0,17
+<p>0,21
+</p>
+</td>
+<td>0,18
+<p>0,21
+</p>
+</td>
+<td>0,17
+<p>0,2
+</p>
+</td>
+<td>0,17
+<p>0,21
+</p>
+</td></tr>
+<tr>
+<td colspan="2">Средний размер капель, мм
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>0,87
+</td>
+<td>1,17<sup class="reference" id="cite_ref-:1_42-1"><a href="#cite_note-:1-42"><span class="cite-bracket">[</span>42<span class="cite-bracket">]</span></a></sup>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Максимальная площадь полива при работе на одной позиции, га
+</td>
+<td>42,0
+</td>
+<td>49,5
+</td>
+<td>57,0
+</td>
+<td>65,5
+</td>
+<td>72,0
+</td>
+<td>
+</td>
+<td>15,8
+</td>
+<td>20,2
+</td>
+<td>24,4
+</td>
+<td>29,8
+</td>
+<td>34,8
+</td>
+<td>34,8
+</td>
+<td>41,3
+</td>
+<td>41,3
+</td>
+<td>47,1
+</td>
+<td>54,6
+</td>
+<td>61,2
+</td></tr>
+<tr>
+<td colspan="2">Минимальная норма полива за один оборот машины <small>(для ДМУ при частоте ходов гидроцилиндра последней тележки 5,5 ход/мин)</small>, м<sup>3</sup>/га
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>98
+<p>137
+</p>
+</td>
+<td>111
+<p>142
+</p>
+</td>
+<td>114
+<p>156
+</p>
+</td>
+<td>113
+<p>170
+</p>
+</td>
+<td>159
+<p>195
+</p>
+</td>
+<td>106
+</td>
+<td>180
+<p>213
+</p>
+</td>
+<td>114
+<p>147
+</p>
+</td>
+<td>124
+<p>155
+</p>
+</td>
+<td>116
+<p>145
+</p>
+</td>
+<td>124
+<p>152
+</p>
+</td></tr>
+<tr>
+<td rowspan="2" style="width:130px;">Масса машины, т
+</td>
+<td style="width:80px;">без воды
+</td>
+<td>11,4
+</td>
+<td>12,3
+</td>
+<td>13,2
+</td>
+<td>14,1
+</td>
+<td>15,0
+</td>
+<td>
+</td>
+<td>6,5
+</td>
+<td>7,4
+</td>
+<td>8,2
+</td>
+<td>9,2
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10,9
+</td>
+<td>10,9
+</td>
+<td>11,7
+</td>
+<td>12,6
+</td>
+<td>13,4
+</td></tr>
+<tr>
+<td>с водой
+</td>
+<td>22,8
+</td>
+<td>23,7
+</td>
+<td>24,6
+</td>
+<td>25,5
+</td>
+<td>27,0
+</td>
+<td>
+</td>
+<td>10,1
+</td>
+<td>11,5
+</td>
+<td>12,7
+</td>
+<td>14,3
+</td>
+<td>15,5
+</td>
+<td>15,5
+</td>
+<td>16,9
+</td>
+<td>16,9
+</td>
+<td>18,2
+</td>
+<td>19,6
+</td>
+<td>20,8
+</td></tr>
+<tr>
+<td colspan="2">Минимальное время одного оборота, час
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Число машин, обслуживаемое 1 человеком
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td></tr>
+</tbody></table>
+<table class="wikitable" style="width:100%;">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2" rowspan="2">Показатель
+</th>
+<th colspan="10">ДМУ-Б «Фрегат»<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-11"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-ACADEMY_31-2"><a href="#cite_note-ACADEMY-31"><span class="cite-bracket">[</span>31<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:3_43-1"><a href="#cite_note-:3-43"><span class="cite-bracket">[</span>43<span class="cite-bracket">]</span></a></sup> *
+</th>
+<th colspan="4">ДМУ-Бнм «Фрегат»<sup class="reference" id="cite_ref-SPRAVOCHNIK_2-12"><a href="#cite_note-SPRAVOCHNIK-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:3_43-2"><a href="#cite_note-:3-43"><span class="cite-bracket">[</span>43<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:4_44-0"><a href="#cite_note-:4-44"><span class="cite-bracket">[</span>44<span class="cite-bracket">]</span></a></sup>
+</th>
+<th colspan="5">ДМУ-Асс «Фрегат»<sup class="reference" id="cite_ref-45"><a href="#cite_note-45"><span class="cite-bracket">[</span>45<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-46"><a href="#cite_note-46"><span class="cite-bracket">[</span>46<span class="cite-bracket">]</span></a></sup>
+</th></tr>
+<tr>
+<th>ДМУ-Б<br/>379-75
+</th>
+<th>ДМУ-Б<br/>409-80
+</th>
+<th>ДМУ-Б<br/>434-90
+</th>
+<th>ДМУ-Б<br/>463-90
+</th>
+<th>ДМУ-Б<br/>463-60
+</th>
+<th>ДМУ-Б<br/>488-90
+</th>
+<th>ДМУ-Б<br/>488-65
+</th>
+<th>ДМУ-Б<br/>518-90
+</th>
+<th>ДМУ-Б<br/>542-90
+</th>
+<th>ДМУ-Б<br/>572-90
+</th>
+<th>ДМУ-<br/>Б<small>нм</small><br/>379-50
+</th>
+<th>ДМУ-<br/>Б<small>нм</small><br/>409-57
+</th>
+<th>ДМУ-<br/>Б<small>нм</small><br/>434-63
+</th>
+<th>ДМУ-<br/>Б<small>нм</small><br/>463-72
+</th>
+<th>ДМУ-<br/>А<small>сс</small><br/>283-30
+</th>
+<th>ДМУ-<br/>А<small>сс</small><br/>337-45
+</th>
+<th>ДМУ-<br/>А<small>сс</small><br/>362-50
+</th>
+<th>ДМУ-<br/>А<small>сс</small><br/>392-50
+</th>
+<th>ДМУ-<br/>А<small>сс</small><br/>417-55
+</th></tr>
+<tr>
+<td colspan="2">Число дождевальных аппаратов
+</td>
+<td>
+</td>
+<td>44<sup class="reference" id="cite_ref-:0_20-1"><a href="#cite_note-:0-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Число тележек
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>10
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td></tr>
+<tr>
+<td colspan="2">Длина машины, м
+</td>
+<td>379,2
+</td>
+<td>408,8
+</td>
+<td>433,6
+</td>
+<td>463,2
+</td>
+<td>463,2
+</td>
+<td>487,9
+</td>
+<td>487,9
+</td>
+<td>517,6
+</td>
+<td>542,3
+</td>
+<td>571,9
+</td>
+<td>379,2
+</td>
+<td>408,8
+</td>
+<td>433,6
+</td>
+<td>463,2
+</td>
+<td>283
+</td>
+<td>337,5
+</td>
+<td>362,3
+</td>
+<td>391,9
+</td>
+<td>416,6
+</td></tr>
+<tr>
+<td colspan="2">Максимальный радиус полива, м
+</td>
+<td>404
+</td>
+<td>434
+</td>
+<td>459
+</td>
+<td>488
+</td>
+<td>488
+</td>
+<td>513
+</td>
+<td>513
+</td>
+<td>543
+</td>
+<td>567
+</td>
+<td>597
+</td>
+<td>399
+</td>
+<td>429
+</td>
+<td>454
+</td>
+<td>483
+</td>
+<td colspan="5"><center>314-447</center>
+</td></tr>
+<tr>
+<td colspan="2">Общий расход воды, л/с
+</td>
+<td>60
+<p>68
+</p><p>75
+</p>
+</td>
+<td>65
+<p>72
+</p><p>80
+</p>
+</td>
+<td>70
+<p>80
+</p><p>90
+</p>
+</td>
+<td>72
+<p>80
+</p><p>90
+</p>
+</td>
+<td>50
+<p>60
+</p>
+</td>
+<td>80
+<p>90
+</p>
+</td>
+<td>55
+<p>65
+</p>
+</td>
+<td>72
+<p>80
+</p><p>90
+</p>
+</td>
+<td>72
+<p>80
+</p><p>90
+</p>
+</td>
+<td>72
+<p>80
+</p><p>90
+</p>
+</td>
+<td>50
+</td>
+<td>57
+</td>
+<td>63
+</td>
+<td>72
+</td>
+<td>32
+</td>
+<td>48
+</td>
+<td>53
+</td>
+<td>53
+</td>
+<td>58
+</td></tr>
+<tr>
+<td colspan="2">Требуемое давление воды на входе в машину, МПа
+</td>
+<td>0,53
+<p>0,55
+</p><p>0,57
+</p>
+</td>
+<td>0,54
+<p>0,56
+</p><p>0,58
+</p>
+</td>
+<td>0,56
+<p>0,59
+</p><p>0,62
+</p>
+</td>
+<td>0,57
+<p>0,59
+</p><p>0,63
+</p>
+</td>
+<td>0,51
+<p>0,54
+</p>
+</td>
+<td>0,6
+<p>0,64
+</p>
+</td>
+<td>0,53
+<p>0,56
+</p>
+</td>
+<td>0,58
+<p>0,61
+</p><p>0,64
+</p>
+</td>
+<td>0,58
+<p>0,61
+</p><p>0,65
+</p>
+</td>
+<td>0,59
+<p>0,62
+</p><p>0,66
+</p>
+</td>
+<td>0,41
+</td>
+<td>0,41
+</td>
+<td>0,41
+</td>
+<td>0,41
+</td>
+<td colspan="5"><center>0,48-0,57</center>
+</td></tr>
+<tr>
+<td colspan="2">Средняя интенсивность дождя по длине машины, мм/мин
+</td>
+<td>0,24
+<p>0,27
+</p><p>0,29
+</p>
+</td>
+<td>0,24
+<p>0,26
+</p><p>0,29
+</p>
+</td>
+<td>0,24
+<p>0,28
+</p><p>0,31
+</p>
+</td>
+<td>0,23
+<p>0,26
+</p><p>0,29
+</p>
+</td>
+<td>0,18
+<p>0,2
+</p>
+</td>
+<td>0,25
+<p>0,27
+</p>
+</td>
+<td>0,18
+<p>0,21
+</p>
+</td>
+<td>0,21
+<p>0,23
+</p><p>0,26
+</p>
+</td>
+<td>0,21
+<p>0,23
+</p><p>0,25
+</p>
+</td>
+<td>0,2
+<p>0,22
+</p><p>0,24
+</p>
+</td>
+<td>0,53
+</td>
+<td>0,58
+</td>
+<td>0,57
+</td>
+<td>0,61
+</td>
+<td>0,33
+</td>
+<td>0,33
+</td>
+<td>0,33
+</td>
+<td>0,33
+</td>
+<td>0,33
+</td></tr>
+<tr>
+<td colspan="2">Средний размер капель, мм
+</td>
+<td>
+</td>
+<td>1,5<sup class="reference" id="cite_ref-:0_20-2"><a href="#cite_note-:0-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>1
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Максимальная площадь полива при работе на одной позиции, га
+</td>
+<td>51,3
+</td>
+<td>59,1
+</td>
+<td>66,1
+</td>
+<td>74,9
+</td>
+<td>74,9
+</td>
+<td>82,6
+</td>
+<td>82,6
+</td>
+<td>92,5
+</td>
+<td>102,2
+</td>
+<td>111,3
+</td>
+<td>50,0
+</td>
+<td>57,8
+</td>
+<td>64,7
+</td>
+<td>73,3
+</td>
+<td>31,8
+</td>
+<td>43,5
+</td>
+<td>49,6
+</td>
+<td>57,2
+</td>
+<td>64
+</td></tr>
+<tr>
+<td colspan="2">Минимальная норма полива за один оборот машины <small>(для ДМУ при частоте ходов гидроцилиндра последней тележки 5,5 ход/мин)</small>, м<sup>3</sup>/га
+</td>
+<td>178
+<p>202
+</p><p>222
+</p>
+</td>
+<td>181
+<p>200
+</p><p>223
+</p>
+</td>
+<td>185
+<p>212
+</p><p>238
+</p>
+</td>
+<td>180
+<p>200
+</p><p>225
+</p>
+</td>
+<td>125
+<p>150
+</p>
+</td>
+<td>192
+<p>216
+</p>
+</td>
+<td>132
+<p>156
+</p>
+</td>
+<td>164
+<p>182
+</p><p>205
+</p>
+</td>
+<td>155
+<p>173
+</p><p>194
+</p>
+</td>
+<td>151
+<p>168
+</p><p>189
+</p>
+</td>
+<td>277
+</td>
+<td>295
+</td>
+<td>310
+</td>
+<td>335
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2" style="width:130px;">Масса машины, т
+</td>
+<td style="width:80px;">без воды
+</td>
+<td>12,2
+</td>
+<td>13,2
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>15
+</td>
+<td>15,8
+</td>
+<td>15,8
+</td>
+<td>16,8
+</td>
+<td>17,6
+</td>
+<td>18,6
+</td>
+<td>11,8
+</td>
+<td>12,7
+</td>
+<td>13,5
+</td>
+<td>14,5 <br/>(<small>по др.<br/>дан.</small> 15)
+<p>21 **
+</p>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>с водой
+</td>
+<td>20,2
+</td>
+<td>21,9
+</td>
+<td>23,3
+</td>
+<td>25
+</td>
+<td>25
+</td>
+<td>26,4
+</td>
+<td>26,4
+</td>
+<td>28,2
+</td>
+<td>29,5
+</td>
+<td>31,3
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Минимальное время одного оборота, час
+</td>
+<td>
+</td>
+<td>45,7<sup class="reference" id="cite_ref-:0_20-3"><a href="#cite_note-:0-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>76,8
+</td>
+<td>83,1
+</td>
+<td>88,4
+</td>
+<td>94,7
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Число машин, обслуживаемое 1 человеком
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>3-4
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>4
+</td>
+<td>4
+</td></tr>
+</tbody></table>
+<table class="wikitable" style="width:100%;">
+<caption>
+</caption>
+<tbody><tr>
+<th colspan="2" rowspan="2">Показатель
+</th>
+<th colspan="17">ДМУМ «Корвет»<sup class="reference" id="cite_ref-:5_47-0"><a href="#cite_note-:5-47"><span class="cite-bracket">[</span>47<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:6_48-0"><a href="#cite_note-:6-48"><span class="cite-bracket">[</span>48<span class="cite-bracket">]</span></a></sup> *
+</th>
+<th rowspan="2">ДМ<br/>«Волга<br/>-СМ»<br/><sup class="reference" id="cite_ref-KONCEPTUALNYE_27-1"><a href="#cite_note-KONCEPTUALNYE-27"><span class="cite-bracket">[</span>27<span class="cite-bracket">]</span></a></sup>
+</th>
+<th>МДМ<br/>«Фрегат»<br/><sup class="reference" id="cite_ref-:0_20-4"><a href="#cite_note-:0-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>
+</th></tr>
+<tr>
+<th>ДМУМ-<br/>7А-199
+</th>
+<th>ДМУМ-<br/>8А-229
+</th>
+<th>ДМУМ-<br/>9А-253
+</th>
+<th>ДМУМ-<br/>10А-283
+</th>
+<th>ДМУМ-<br/>11А-308
+</th>
+<th>ДМУМ-<br/>12А-337
+</th>
+<th>ДМУМ-<br/>13А-362
+</th>
+<th>ДМУМ-<br/>14А-392
+</th>
+<th>ДМУМ-<br/>15А-417
+</th>
+<th>ДМУМ-<br/>13Б-379
+</th>
+<th>ДМУМ-<br/>14Б-409
+</th>
+<th>ДМУМ-<br/>15Б-434
+</th>
+<th>ДМУМ-<br/>16Б-463
+</th>
+<th>ДМУМ-<br/>17Б-488
+</th>
+<th>ДМУМ-<br/>18Б-518
+</th>
+<th>ДМУМ-<br/>19Б-542
+</th>
+<th>ДМУМ-<br/>20Б-572
+</th>
+<th>МДМ-<br/>Б-409
+</th></tr>
+<tr>
+<td colspan="2">Число дождевальных аппаратов
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>151
+</td></tr>
+<tr>
+<td colspan="2">Число тележек
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>13
+</td>
+<td>14
+</td>
+<td>15
+</td>
+<td>16
+</td>
+<td>17
+</td>
+<td>18
+</td>
+<td>19
+</td>
+<td>20
+</td>
+<td>1-16
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Длина машины, м
+</td>
+<td>199
+</td>
+<td>229
+</td>
+<td>253
+</td>
+<td>283
+</td>
+<td>308
+</td>
+<td>337
+</td>
+<td>362
+</td>
+<td>392
+</td>
+<td>417
+</td>
+<td>379
+</td>
+<td>409
+</td>
+<td>434
+</td>
+<td>463
+</td>
+<td>488
+</td>
+<td>518
+</td>
+<td>542
+</td>
+<td>572
+</td>
+<td>35-463
+</td>
+<td>409
+</td></tr>
+<tr>
+<td colspan="2">Максимальный радиус полива, м
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Общий расход воды, л/с
+</td>
+<td>20
+<p>28
+</p>
+</td>
+<td>25
+<p>30
+</p>
+</td>
+<td>28
+<p>40
+</p>
+</td>
+<td>28
+<p>45
+</p>
+</td>
+<td>30
+<p>45
+</p><p>55
+</p>
+</td>
+<td>35
+<p>45
+</p><p>55
+</p>
+</td>
+<td>40
+<p>50
+</p><p>60
+</p>
+</td>
+<td>40
+<p>50
+</p><p>65
+</p>
+</td>
+<td>45
+<p>55
+</p><p>75
+</p>
+</td>
+<td>45
+<p>55
+</p><p>65
+</p>
+</td>
+<td>50
+<p>60
+</p><p>75
+</p>
+</td>
+<td>50
+<p>70
+</p><p>85
+</p>
+</td>
+<td>50
+<p>70
+</p><p>90
+</p>
+</td>
+<td>55
+<p>72
+</p><p>90
+</p>
+</td>
+<td>65
+<p>72
+</p><p>90
+</p>
+</td>
+<td>65
+<p>72
+</p><p>90
+</p>
+</td>
+<td>65
+<p>72
+</p><p>90
+</p>
+</td>
+<td>7-90
+</td>
+<td>65
+</td></tr>
+<tr>
+<td colspan="2">Требуемое давление воды на входе в машину, МПа
+</td>
+<td>0,29-0,32
+</td>
+<td>0,3-0,32
+</td>
+<td>0,3-0,33
+</td>
+<td>0,3-0,33
+</td>
+<td>0,3-0,33
+</td>
+<td>0,3-0,34
+</td>
+<td>0,3-0,34
+</td>
+<td>0,3-0,34
+</td>
+<td>0,3-0,34
+</td>
+<td>0,3-0,34
+</td>
+<td>0,3-0,35
+</td>
+<td>0,35-0,4
+</td>
+<td>0,35-0,4
+</td>
+<td>0,37-0,42
+</td>
+<td>0,38-0,43
+</td>
+<td>0,38-0,43
+</td>
+<td>0,39-0,44
+</td>
+<td>0,35-0,45
+</td>
+<td>0,36
+</td></tr>
+<tr>
+<td colspan="2">Средняя интенсивность дождя по длине машины, мм/мин
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>1,1
+</td>
+<td>
+</td>
+<td>0,14-0,16
+</td></tr>
+<tr>
+<td colspan="2">Средний размер капель, мм
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>1,5
+</td>
+<td>
+</td>
+<td>0,8-1,2
+</td></tr>
+<tr>
+<td colspan="2">Максимальная площадь полива при работе на одной позиции, га
+</td>
+<td>15,6
+</td>
+<td>20,1
+</td>
+<td>24,0
+</td>
+<td>29,2
+</td>
+<td>34,2
+</td>
+<td>40,3
+</td>
+<td>46,1
+</td>
+<td>53,2
+</td>
+<td>59,8
+</td>
+<td>50,3
+</td>
+<td>57,7
+</td>
+<td>64,3
+</td>
+<td>72,7
+</td>
+<td>80,3
+</td>
+<td>90,1
+</td>
+<td>98,6
+</td>
+<td>108,9
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Минимальная норма полива за один оборот машины, м<sup>3</sup>/га
+</td>
+<td colspan="17"><center>200-600</center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2" style="width:130px;">Масса машины, т
+</td>
+<td style="width:80px;">без воды
+</td>
+<td>6,5
+</td>
+<td>7,4
+</td>
+<td>8,2
+</td>
+<td>9,2
+</td>
+<td>10
+</td>
+<td>10,9
+</td>
+<td>11,7
+</td>
+<td>12,6
+</td>
+<td>13,4
+</td>
+<td>11,9
+</td>
+<td>12,8
+</td>
+<td>13,6
+</td>
+<td>14,5
+</td>
+<td>15,3
+</td>
+<td>16,2
+</td>
+<td>17,0
+</td>
+<td>17,9
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>с водой
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td colspan="2">Минимальное время одного оборота <small>(для ДМУМ при частоте ходов гидроцилиндра последней тележки 3,5 ход/мин)</small>, час
+</td>
+<td>34,3
+</td>
+<td>39,8
+</td>
+<td>44,4
+</td>
+<td>50,0
+</td>
+<td>54,6
+</td>
+<td>60,1
+</td>
+<td>64,7
+</td>
+<td>70,3
+</td>
+<td>74,9
+</td>
+<td>67,5
+</td>
+<td>73,0
+</td>
+<td>77,6
+</td>
+<td>83,5
+</td>
+<td>87,8
+</td>
+<td>93,3
+</td>
+<td>98,0
+</td>
+<td>103,5
+</td>
+<td>
+</td>
+<td>89
+</td></tr>
+<tr>
+<td colspan="2">Число машин, обслуживаемое 1 человеком
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>10
+</td>
+<td>3-4<sup class="reference" id="cite_ref-49"><a href="#cite_note-49"><span class="cite-bracket">[</span>49<span class="cite-bracket">]</span></a></sup>
+</td>
+<td>10
+</td></tr>
+<tr>
+<td colspan="21">* <i>Несколько расходов воды на машине одной марки обеспечивается установкой различных наборов дождевальных аппаратов</i><br/>** <i>На пневмоколёсах</i>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=edit&amp;section=5" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-OROSHENIE_DOZHDEVANIEM-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-OROSHENIE_DOZHDEVANIEM_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-OROSHENIE_DOZHDEVANIEM_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Полетаев Ю.Б., Криулин К.Н., Патрина М.Ю.</i> Дождевальные машины // <a class="external text" href="https://fermer.ru/files/v2/forum/316454/orosheniedozhdevaniemmelioraciya.pdf" rel="nofollow">Орошение дождеванием: Учебное пособие</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220128183235/https://fermer.ru/files/v2/forum/316454/orosheniedozhdevaniemmelioraciya.pdf" rel="nofollow">арх.</a> 28 января 2022</span>]. — СПб : гос. Политехн. ун-т, 2003. — С. 40—43. — 53 с.</span></span>
+</li>
+<li id="cite_note-SPRAVOCHNIK-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-SPRAVOCHNIK_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-9"><sup><i><b>10</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-10"><sup><i><b>11</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-11"><sup><i><b>12</b></i></sup></a> <a href="#cite_ref-SPRAVOCHNIK_2-12"><sup><i><b>13</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Штепа Б.Г., Носенко В.Ф., Винникова Н.В. и др.</i> <a class="external text" href="https://vk.com/doc-101721739_439911387" rel="nofollow">Механизация полива: Справочник</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220118182755/https://vk.com/doc-101721739_439911387" rel="nofollow">арх.</a> 18 января 2022</span>]. — <abbr title="Москва">М.</abbr> : Агропромиздат, 1990. — С. 192—206. — 336 с.</span></span>
+</li>
+<li id="cite_note-GUSEYN-ZADE-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-GUSEYN-ZADE_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-GUSEYN-ZADE_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-GUSEYN-ZADE_3-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Гусейн-заде С.Х., Перевезенцев Л.А., Коваленко В.И., Луцкий В.Г.</i> <a class="external text" href="https://booksee.org/book/475395" rel="nofollow">Многоопорные дождевальные машины</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220121184803/https://booksee.org/book/475395" rel="nofollow">арх.</a> 21 января 2022</span>]. — <abbr title="Москва">М.</abbr> : Колос, 1984. — С. 39—48. — 191 с.</span></span>
+</li>
+<li id="cite_note-LISTOPAD-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-LISTOPAD_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-LISTOPAD_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-LISTOPAD_4-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-LISTOPAD_4-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Листопад Г. Е., Демидов Г. К., Зонов Б. Д.</i> Сельскохозяйственные и мелиоративные машины. — <abbr title="Москва">М.</abbr> : Агропромиздат, 1986. — С. 412—415. — 688 с.</span></span>
+</li>
+<li id="cite_note-KORVET-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-KORVET_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-KORVET_5-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-KORVET_5-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Введенский Андрей.</i> <a class="external text" href="http://www.agro-inform.ru/files/Agroinform/21-06_agroinform.pdf" rel="nofollow">«Корвет» пришвартовался в Приволжье</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220116175500/http://www.agro-inform.ru/files/Agroinform/21-06_agroinform.pdf" rel="nofollow">арх.</a> 16 января 2022</span>] // Агро-Информ. — 2021. — № 6 (272). — С. 7—9.</span></span>
+</li>
+<li id="cite_note-KIM-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-KIM_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-KIM_6-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Ким А. И., Ким И. И.</i> <a class="external text" href="http://arch.kyrlibnet.kg/uploads/KRSUKIMA.I.2005-7.pdf" rel="nofollow">Низконапорная дождевальная система</a> // Вестник КРСУ. — 2005. — Т. 5, № 7.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><i>Филимонов К. Н.</i> <a class="external text" href="https://books.google.ru/books?id=6GwYAAAAMAAJ&amp;q=начат+выпуск+дождевальной+волжанка&amp;dq=начат+выпуск+дождевальной+волжанка&amp;hl=ru&amp;sa=X&amp;ved=0ahUKEwiMyf2CxrLkAhUU5aYKHQABBFgQ6AEIODAD" rel="nofollow">Организация и нормирование труда на поливе сельскохозяйственных культур</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220112185312/https://books.google.ru/books?id=6GwYAAAAMAAJ&amp;q=начат+выпуск+дождевальной+волжанка&amp;dq=начат+выпуск+дождевальной+волжанка&amp;hl=ru&amp;sa=X&amp;ved=0ahUKEwiMyf2CxrLkAhUU5aYKHQABBFgQ6AEIODAD" rel="nofollow">арх.</a> 12 января 2022</span>]. — <abbr title="Москва">М.</abbr> : Колос, 1981. — С. 22. — 191 с.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="https://www.google.ru/books/edition/Nikolaevskai︠a︡_oblastʹ/rMZBAAAAYAAJ?hl=ru&amp;gbpv=1&amp;bsq=фрегат+машина+разработана+первомайск&amp;dq=фрегат+машина+разработана+первомайск&amp;printsec=frontcover" rel="nofollow">История городов и сёл Украинской ССР: Николаевская область</a>. — Киев : Глав. ред. Украинской Сов. Энциклопедии, 1981. — 710 с.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="https://latifundist.com/interview/143-aleksandr-stafeev-skoro-pridetsya-oroshat-vsyu-territoriyu-ukrainy-blits-intervyu" rel="nofollow">Александр Стафеев: Скоро придется орошать всю территорию Украины (блиц-интервью)</a> // Latifundist.com. — 2014. — 11 августа.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="https://latifundist.com/interview/490-artur-heruvimov-fregat-stanovitsya-international" rel="nofollow">Артур Херувимов: Фрегат становится INTERNATIONAL</a> // Latifundist.com. — 2019. — 25 октября.</span></span>
+</li>
+<li id="cite_note-ZHURAVLEVA-11"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ZHURAVLEVA_11-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ZHURAVLEVA_11-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ZHURAVLEVA_11-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-ZHURAVLEVA_11-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-ZHURAVLEVA_11-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-ZHURAVLEVA_11-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-ZHURAVLEVA_11-6"><sup><i><b>7</b></i></sup></a></span> <span class="reference-text"><i>Журавлёва Л. А.</i> <a class="external text" href="https://www.sgau.ru/files/pages/37201/1531981497_Диссертация%20Журавлева%2003.07.2018.pdf" rel="nofollow">Ресурсосберегающие широкозахватные дождевальные машины кругового действия</a> <a class="external text" href="https://web.archive.org/web/20220116184851/https://www.sgau.ru/files/pages/37201/1531981497_Диссертация%20Журавлева%2003.07.2018.pdf" rel="nofollow">Архивная копия</a> от 16 января 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Диссертация на соискание ученой степени доктора технических наук. — Саратов, 2018</span>
+</li>
+<li id="cite_note-VOPROSY_PRIMENENIYA_OTECHESTVENNYH-12"><span class="mw-cite-backlink">↑ <a href="#cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-VOPROSY_PRIMENENIYA_OTECHESTVENNYH_12-6"><sup><i><b>7</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Фокин Б. П., Бобрышов А. В.</i> <a class="external text" href="https://elibrary.ru/item.asp?id=20182273" rel="nofollow">Вопросы применения отечественных широкозахватных дождевальных машин</a> // Вестник АПК Ставрополья. — 2013. — № 2 (10).</span></span>
+</li>
+<li id="cite_note-ETAPY-13"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ETAPY_13-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ETAPY_13-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ETAPY_13-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Рязанцев А. И., Антипов А. О.</i> <a class="external text" href="https://elibrary.ru/item.asp?id=35056436" rel="nofollow">Краткий анализ этапов развития дождевальной техники</a> // Вестник РГАТУ. — 2018. — № 1 (37).</span></span>
+</li>
+<li id="cite_note-MAZHUGIN-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-MAZHUGIN_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-MAZHUGIN_14-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Мажугин Е. И., Казаков А. Л., Ворошко Е. А.</i> Машины и установки для орошения // <a class="external text" href="https://bstudy.net/822666/agro/meliorativnye_mashiny" rel="nofollow">Мелиоративные машины</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20210123224837/https://bstudy.net/822666/agro/meliorativnye_mashiny" rel="nofollow">арх.</a> 23 января 2021</span>]. — Рипо, 2018. — 311 с.</span></span>
+</li>
+<li id="cite_note-FOKIN_NOSOV-15"><span class="mw-cite-backlink">↑ <a href="#cite_ref-FOKIN_NOSOV_15-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-FOKIN_NOSOV_15-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Фокин Б. П., Носов А.К.</i> <a class="external text" href="https://old.sevkavgiprovodhoz.ru/sites/default/files/files/book/sppmdm.pdf" rel="nofollow">Современные проблемы применения многоопорных дождевальных машин</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220118183048/https://old.sevkavgiprovodhoz.ru/sites/default/files/files/book/sppmdm.pdf" rel="nofollow">арх.</a> 18 января 2022</span>]. — Ставрополь, 2011. — С. 19—26. — 80 с.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><i>Рязанцев А.И., Егоров Н.Н., Шереметьев А. В.</i> <a class="external text" href="https://www.elibrary.ru/item.asp?id=15186995" rel="nofollow">Энерговодосберегающий «Фрегат» для нечернозёмной зоны</a> // Мелиорация и водное хозяйство. — 2010. — № 2.</span></span>
+</li>
+<li id="cite_note-SHEVCHENKO-17"><span class="mw-cite-backlink"><a href="#cite_ref-SHEVCHENKO_17-0">↑</a></span> <span class="reference-text"><i>Шевченко А. В.</i> <a class="external text" href="https://earthpapers.net/povyshenie-energeticheskoy-effektivnosti-zakrytyh-orositelnyh-sistem-s-dozhdevalnymi-mashinami-fregat-i-dnepr" rel="nofollow">Повышение энергетической эффективности закрытых оросительных систем с дождевальными машинами «Фрегат» и «Днепр»</a> <a class="external text" href="https://web.archive.org/web/20220116012214/https://earthpapers.net/povyshenie-energeticheskoy-effektivnosti-zakrytyh-orositelnyh-sistem-s-dozhdevalnymi-mashinami-fregat-i-dnepr" rel="nofollow">Архивная копия</a> от 16 января 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Диссертация на соискание ученой степени доктора технических наук. — Киев, 1993</span>
+</li>
+<li id="cite_note-NOVYE-18"><span class="mw-cite-backlink">↑ <a href="#cite_ref-NOVYE_18-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-NOVYE_18-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-NOVYE_18-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-NOVYE_18-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Рыжко Н.Ф., Рыжко Н.В., Рыжко С.Н., Шишенин Е.А.</i> <a class="external text" href="https://www.elibrary.ru/item.asp?id=42964337" rel="nofollow">Новые технические разработки для обеспечения ресурсосбережения  при поливе многоопорными дождевальными машинами</a> // Орошаемое земледелие. — 2019. — № 4.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://бурятмелиоводхоз.рус/equipment/tools/36.html" rel="nofollow">Дождевальная машина ДМУ Фрегат-Н кругового действия с модернизированным дождевым поясом для работы на пониженном напоре</a> // ФГБУ «Управление Бурятмелиоводхоз».</span></span>
+</li>
+<li id="cite_note-:0-20"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:0_20-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:0_20-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:0_20-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:0_20-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-:0_20-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://agrotek2012.ru/fregat.html" rel="nofollow">Рецензия Минсельхоза России, ФГБНУ НИИ «Радуга» на МДМ «Фрегат»</a>.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><i>Медведев А. В., Медведева Л. Н.</i> <a class="external text" href="https://www.elibrary.ru/item.asp?id=36293446" rel="nofollow">Современная оросительная техника — основа для получения высоких урожаев и устойчивого развития бизнеса</a> // Естественные науки. — 2018. — № 1 (62).</span></span>
+</li>
+<li id="cite_note-ANALITC-22"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ANALITC_22-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ANALITC_22-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ANALITC_22-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Ольгаренко Г.В., Турапин С.С.</i> <a class="external text" href="http://vniiraduga.ru/wp-content/uploads/2020/07/analit-issled-tehniki-oroshenija_1.pdf" rel="nofollow">Аналитические исследования перспектив развития техники орошения в России: Информационно-аналитическое издание</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220113183044/http://vniiraduga.ru/wp-content/uploads/2020/07/analit-issled-tehniki-oroshenija_1.pdf" rel="nofollow">арх.</a> 13 января 2022</span>]. — Коломна : ИП Лавренов А.В., 2020. — 128 с.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><i>Комаров С.А.</i> <a class="external text" href="http://www.povmis.ru/component/content/article/1-2010-03-19-05-09-10/1114-2015-09-23-05-49-45" rel="nofollow">На испытаниях новая дождевальная машина «Корвет»</a> // ФГБУ «Поволжская МИС».</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><i>Барсукова Надежда.</i> <a class="external text" href="https://saratov.mk.ru/articles/2015/07/15/v-volzhskom-nii-gidrotekhniki-i-melioracii-obsudili-voprosy-importozameshheniya-v-melioracii-i-prezentovali-novuyu-dozhdevalnuyu-mashinu-volgasm-s-saratovskoy-propiskoy.html" rel="nofollow">В Волжском НИИ гидротехники и мелиорации обсудили вопросы импортозамещения в мелиорации и презентовали новую дождевальную машину «Волга-СМ» с саратовской пропиской</a> // МК в Саратове. — 2015. — 15 июля.</span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><i>Рыжко Н.Ф, Смирнов Е.С., Шушпанов И.А.</i> <a class="external text" href="https://www.elibrary.ru/item.asp?id=41217780" rel="nofollow">Дождевальная машина вантовой конструкции с полиэтиленовым трубопроводом</a> // Новости науки в АПК. — 2018. — № 2 (11).</span></span>
+</li>
+<li id="cite_note-KOLGANOV-26"><span class="mw-cite-backlink">↑ <a href="#cite_ref-KOLGANOV_26-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-KOLGANOV_26-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-KOLGANOV_26-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-KOLGANOV_26-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-KOLGANOV_26-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-KOLGANOV_26-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-KOLGANOV_26-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-KOLGANOV_26-7"><sup><i><b>8</b></i></sup></a></span> <span class="reference-text"><i>Колганов Д. А.</i> <a class="external text" href="http://www.sgau.ru/files/pages/33116/15083944410.pdf" rel="nofollow">Дождевальная машина «Фрегат» с усовершенствованной системой водоподачи для полива в низконапорном режиме</a> <a class="external text" href="https://web.archive.org/web/20190831230244/http://www.sgau.ru/files/pages/33116/15083944410.pdf" rel="nofollow">Архивная копия</a> от 31 августа 2019 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Диссертация на соискание ученой степени кандидата технических наук. — Саратов, 2017</span>
+</li>
+<li id="cite_note-KONCEPTUALNYE-27"><span class="mw-cite-backlink">↑ <a href="#cite_ref-KONCEPTUALNYE_27-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-KONCEPTUALNYE_27-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Рыжко Н.Ф., Рыжко С.Н., Смаржиев А.В.</i> <a class="external text" href="https://xn--b1aciiabqneh.xn--p1ai/ckfinder/userfiles/files/-373536921.pdf" rel="nofollow">Инновационные технические решения при совершенствовании многоопорных дождевальных машин</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220725094255/https://xn--b1aciiabqneh.xn--p1ai/ckfinder/userfiles/files/-373536921.pdf" rel="nofollow">арх.</a> 25 июля 2022</span>] // Концептуальные аспекты современного состояния и развития мелиорации и эффективного использования водных ресурсов»: Сборник научных трудов по матер. научно-практ. конф. ФГБНУ «ВолжНИИГиМ». — Энгельс : ООО Издательский Центр «Наука», 2021. — С. 121—126. — 194 с.</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://catalog.newsapk.ru/services/сельхозтехника/оросительная-техника/дождевальные-машины-фрегат/" rel="nofollow">Дождевальные машины «Фрегат»</a> // Pro АгроПром. — 2015. — 23 апреля.</span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation"><i>Рыжко Н.Ф., Рыжко Н.В., Рыжко С.Н., Шишенин Е.А.</i> <a class="external text" href="http://vniioz.ru/arhiv/orz/01-2020/oz_2001_st_12.pdf" rel="nofollow">Эффективность технологии приповерхностного полива многоопорными дождевальными машинами кругового действия</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220118182642/http://vniioz.ru/arhiv/orz/01-2020/oz_2001_st_12.pdf" rel="nofollow">арх.</a> 18 января 2022</span>] // Орошаемое земледелие. — 2020. — № 1.</span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="https://latifundist.com/rating/rejting-proizvoditelej-sistem-orosheniya-v-ukraine-2021" rel="nofollow">ТОП-10 производителей оросительного оборудования за 1 полугодие 2021 г.</a> // Latifundist.com. — 2021. — 23 октября.</span></span>
+</li>
+<li id="cite_note-ACADEMY-31"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ACADEMY_31-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ACADEMY_31-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ACADEMY_31-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://www.eecca-water.net/file/rosacademy.pdf" rel="nofollow">Режим орошения, способы и техника полива овощных и бахчевых культур в различных зонах РФ</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20181024114646/http://www.eecca-water.net/file/rosacademy.pdf" rel="nofollow">арх.</a> 24 октября 2018</span>]. — <abbr title="Москва">М.</abbr> : Российская академия сельскохозяйственных наук, 2010.</span></span>
+</li>
+<li id="cite_note-:2-32"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:2_32-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:2_32-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Андреев А. В.</i> <a class="external text" href="http://elib.cnshb.ru/books/free/0348/348230/files/assets/basic-html/page-1.html" rel="nofollow">Культурные пастбища в южных районах</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220113124903/http://elib.cnshb.ru/books/free/0348/348230/files/assets/basic-html/page-1.html" rel="nofollow">арх.</a> 13 января 2022</span>]. — <abbr title="Москва">М.</abbr> : Россельхозиздат, 1974. — С. 176—177. — 256 с.</span></span>
+</li>
+<li id="cite_note-NECHYOTKOE-33"><span class="mw-cite-backlink">↑ <a href="#cite_ref-NECHYOTKOE_33-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-NECHYOTKOE_33-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Романов П.С., Рязанцев А.И., Антипов А.О., Романова И.П.</i> <a class="external text" href="http://www.ivdon.ru/uploads/article/pdf/IVD_8_romanov_ryazantsev.pdf_7f72565c67.pdf" rel="nofollow">Нечеткое управление роботизированной дождевальной машиной типа «Фрегат»</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220124181241/http://www.ivdon.ru/uploads/article/pdf/IVD_8_romanov_ryazantsev.pdf_7f72565c67.pdf" rel="nofollow">арх.</a> 24 января 2022</span>] // Инженерный вестник Дона. — 2018. — № 2.</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><i>Русинов А.В., Слюсаренко В.В.</i> <a class="external text" href="https://www.elibrary.ru/item.asp?id=26225344" rel="nofollow">Определение негативного воздействия дождевальных машин на почву</a> // Вестник УМО. — 2016. — № 9.</span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><i>Рязанцев А.И., Кириленко Н.Я., Егоров Н.Н., Шереметьев А.В.</i> <a class="external text" href="https://cyberleninka.ru/article/n/sovershenstvovanie-tehnologii-poliva-i-sozdanie-energovodosberegayuschey-dozhdevalnoy-mashiny-fregat-dlya-usloviy-nechernozemnoy" rel="nofollow">Совершенствование технологии полива и создание энерговодосберегающей дождевальной машины «Фрегат» для условий нечернозёмной зоны РФ</a> // Агроинженерия. — 2010. — <span class="nowrap">№ 1</span>. <a class="external text" href="https://web.archive.org/web/20220124210321/https://cyberleninka.ru/article/n/sovershenstvovanie-tehnologii-poliva-i-sozdanie-energovodosberegayuschey-dozhdevalnoy-mashiny-fregat-dlya-usloviy-nechernozemnoy" rel="nofollow">Архивировано</a> 24 января 2022 года.</span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation"><i>Соловьев Д.А., Карпова О.В., Рыжко Н.Ф., Рыжко С.Н.</i> <a class="external text" href="https://www.elibrary.ru/item.asp?id=25954946" rel="nofollow">Совершенствование устройств приповерхностного дождевания для ДМ «Фрегат»</a> // Аграрный научный журнал. — 2016. — № 3.</span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><i>Рыжко Н.Ф., Рыжко Н.В., Рыжко С.Н., Смирнов Е.С.</i> <a class="external text" href="http://vniioz.ru/arhiv/orz/02-2019/oz_1902_st_06.pdf" rel="nofollow">Технические решения по модернизации дождевальных машин кругового действия и результаты их внедрения</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220315012637/http://vniioz.ru/arhiv/orz/02-2019/oz_1902_st_06.pdf" rel="nofollow">арх.</a> 15 марта 2022</span>] // Орошаемое земледелие. — 2019. — № 2.</span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation"><i>Рыжко Н.Ф., Рыжко Н.В., Рыжко С.Н., Карпова О.В.</i> <a class="external text" href="https://www.elibrary.ru/item.asp?id=38737652" rel="nofollow">Модернизация и реконструкция орошаемых участков Саратовской области</a> // Конструирование, использование и надежность машин сельскохозяйственного назначения. — 2019. — № 1 (18).</span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="citation"><i>Рыжко Н.Ф.</i> <a class="external text" href="https://cyberleninka.ru/article/n/povyshenie-ravnomernosti-poliva-dm-fregat-pri-vetre" rel="nofollow">Повышение равномерности полива ДМ «Фрегат» при ветре</a> // Нива Поволжья. — 2011. — <span class="nowrap">№ 2 (19)</span>. <a class="external text" href="https://web.archive.org/web/20220127205755/https://cyberleninka.ru/article/n/povyshenie-ravnomernosti-poliva-dm-fregat-pri-vetre" rel="nofollow">Архивировано</a> 27 января 2022 года.</span></span>
+</li>
+<li id="cite_note-TEHNICHESKIY_UROVEN-40"><span class="mw-cite-backlink">↑ <a href="#cite_ref-TEHNICHESKIY_UROVEN_40-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-TEHNICHESKIY_UROVEN_40-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-TEHNICHESKIY_UROVEN_40-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-TEHNICHESKIY_UROVEN_40-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://www.agriculture.uz/filesarchive/texnicheskiyuroven.pdf" rel="nofollow">Технический уровень отечественного и зарубежного оборудования, применяемого в мелиорации: Информационный сборник</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20220118182427/http://www.agriculture.uz/filesarchive/texnicheskiyuroven.pdf" rel="nofollow">арх.</a> 18 января 2022</span>]. — <abbr title="Москва">М.</abbr> : ФГНУ ЦНТИ «Мелиоводинформ», 2011. — С. 15—20. — 215 с.</span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="https://propozitsiya.com/ukrainskie-dozhdevalnye-mashiny-pochti-ne-ustupayut-zagranichnym-analogam" rel="nofollow">Украинские дождевальные машины почти не уступают заграничным аналогам</a> // Пропозиція. — 2016. — 28 октября.</span></span>
+</li>
+<li id="cite_note-:1-42"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:1_42-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:1_42-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://www.eecca-water.net/file/resursosberegayushchiye_energoeffektivnyye_ekologicheski_bezopasnyye_tekhnologii_orosheniya.pdf" rel="nofollow">Ресурсосберегающие энергоэффективные экологически безопасные технологии и технические средства орошения : справочник</a> / Под общ. ред. Ольгаренко Г.В. (ФГБНУ ВНИИ «Радуга»). — <abbr title="Москва">М.</abbr> : ФГБНУ «Росинформагротех», 2015. — 264 с.</span></span>
+</li>
+<li id="cite_note-:3-43"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:3_43-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:3_43-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:3_43-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><a class="external text" href="http://www.ruskontrakt.ru/?id=111" rel="nofollow">Дождевальные машины унифицированные ДМУ «Фрегат»</a> // ООО «РусКонтракт».</span></span>
+</li>
+<li id="cite_note-:4-44"><span class="mw-cite-backlink"><a href="#cite_ref-:4_44-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Потехин В. Н.</i> <a class="external text" href="https://втораяиндустриализация.рф/dozhdevalnyie-mashinyi-fregat/" rel="nofollow">Дождевальные машины «Фрегат» для полива и внесения удобрений</a> // Вторая индустриализация России. — 2016. — 15 февраля.</span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://files.stroyinf.ru/Data1/46/46696/index.htm" rel="nofollow">Пособие к ВНТП 01-98 «Оросительные системы с использованием сточных вод и животноводческих стоков»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 марта 2022. <a class="external text" href="https://web.archive.org/web/20220119021315/https://files.stroyinf.ru/Data1/46/46696/index.htm" rel="nofollow">Архивировано</a> 19 января 2022 года.</span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://files.stroyinf.ru/Data2/1/4293744/4293744156.pdf" rel="nofollow">РД-АПК 3.10.15.01-17. «Методические рекомендации по проектированию систем удаления, обработки, обеззараживания, хранения и утилизации навоза и помета»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 марта 2022. <a class="external text" href="https://web.archive.org/web/20220401112811/https://files.stroyinf.ru/Data2/1/4293744/4293744156.pdf" rel="nofollow">Архивировано</a> 1 апреля 2022 года.</span></span>
+</li>
+<li id="cite_note-:5-47"><span class="mw-cite-backlink"><a href="#cite_ref-:5_47-0">↑</a></span> <span class="reference-text"><span class="citation"><a class="external text" href="https://mcx.gov.ru/upload/iblock/100/10066d946f5310cccea55020bd2ac7bf.pdf" rel="nofollow">Мелиоративный комплекс Российской Федерации : информационное издание</a> : [<span title="архивировано из первоисточника"><a class="external text" href="https://web.archive.org/web/20210830055813/https://mcx.gov.ru/upload/iblock/100/10066d946f5310cccea55020bd2ac7bf.pdf" rel="nofollow">арх.</a> 30 августа 2021</span>]. — <abbr title="Москва">М.</abbr> : ФГБНУ «Росинформагротех», 2020. — 304 с.</span></span>
+</li>
+<li id="cite_note-:6-48"><span class="mw-cite-backlink"><a href="#cite_ref-:6_48-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a class="external text" href="https://fermer.ru/files/v2/sale/352964/harakteristikidm.pdf" rel="nofollow">Техническая характеристика и основные параметры дождевальных машин «Корвет»</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. Дата обращения: 7 марта 2022. <a class="external text" href="https://web.archive.org/web/20220117185028/https://fermer.ru/files/v2/sale/352964/harakteristikidm.pdf" rel="nofollow">Архивировано</a> 17 января 2022 года.</span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.rosniipm.ru/DOC/2021/Projects_database/Examples/DiMT/DiMT-7.pdf" rel="nofollow">Дождевальная машина «Волга-СМ» с полиэтиленовым трубопроводом. Проектная документация</a> <a class="external text" href="https://web.archive.org/web/20220116194335/http://www.rosniipm.ru/DOC/2021/Projects_database/Examples/DiMT/DiMT-7.pdf" rel="nofollow">Архивная копия</a> от 16 января 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. — Энгельс, 2021</span>
+</li>
+</ol></div></div>
+<div aria-labelledby="Дождевальные_машины,_агрегаты_и_установки_СССР" class="navbox" data-name="Дождевальные машины СССР" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="background:#BCDEBA"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Перейти к шаблону «Дождевальные машины СССР»"><img alt="Перейти к шаблону «Дождевальные машины СССР»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Дождевальные_машины,_агрегаты_и_установки_СССР" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0" title="Дождевальная техника">Дождевальные машины, агрегаты и установки</a> СССР</div></th></tr><tr><th class="navbox-group" scope="row" style="background:#BCDEBA;width:1px;background:#BCDEBA">Широкозахватные многоопорные дождевальные машины</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th class="navbox-group" scope="row" style="background:#BCDEBA;width:1px">Фронтального перемещения</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%9A%D0%A8-64_%C2%AB%D0%92%D0%BE%D0%BB%D0%B6%D0%B0%D0%BD%D0%BA%D0%B0%C2%BB" title="ДКШ-64 «Волжанка»">ДКШ-64 «Волжанка»</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%9A%D0%9D-80&amp;action=edit&amp;redlink=1" title="ДКН-80 (страница отсутствует)">ДКН-80</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%9A%D0%AD-80&amp;action=edit&amp;redlink=1" title="ДКЭ-80 (страница отсутствует)">ДКЭ-80</a></li>
+<li><a href="/wiki/%D0%94%D0%A4-120_%C2%AB%D0%94%D0%BD%D0%B5%D0%BF%D1%80%C2%BB" title="ДФ-120 «Днепр»">ДФ-120 «Днепр»</a></li>
+<li><a href="/wiki/%D0%9A%D0%94%D0%A2-25" title="КДТ-25">КДТ-25</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%9A-60&amp;action=edit&amp;redlink=1" title="ДК-60 (страница отсутствует)">ДК-60</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%9C%D0%A4%D0%94_%C2%AB%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%B0-100%C2%BB&amp;action=edit&amp;redlink=1" title="ДМФД «Коломенка-100» (страница отсутствует)">ДМФД «Коломенка-100»</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D0%94%D0%AD%D0%A4_%C2%AB%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C%C2%BB&amp;action=edit&amp;redlink=1" title="МДЭФ «Кубань» (страница отсутствует)">МДЭФ «Кубань»</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%9A%D0%93-80_%C2%AB%D0%9E%D0%BA%D0%B0%C2%BB&amp;action=edit&amp;redlink=1" title="ДКГ-80 «Ока» (страница отсутствует)">ДКГ-80 «Ока»</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9C%D0%94%D0%A4%D0%90-200/800_%C2%AB%D0%A2%D0%B0%D0%B2%D1%80%D0%B8%D1%8F%C2%BB&amp;action=edit&amp;redlink=1" title="МДФА-200/800 «Таврия» (страница отсутствует)">МДФА-200/800 «Таврия»</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#BCDEBA;width:1px">Кругового перемещения</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=%D0%9C%D0%94%D0%AD_%C2%AB%D0%9A%D1%83%D0%B1%D0%B0%D0%BD%D1%8C-%D0%9B%D0%9A-1%C2%BB&amp;action=edit&amp;redlink=1" title="МДЭ «Кубань-ЛК-1» (страница отсутствует)">МДЭ «Кубань-ЛК-1»</a></li>
+<li><a class="mw-selflink selflink">ДМ «Фрегат»</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th class="navbox-group" scope="row" style="background:#BCDEBA;width:1px;background:#BCDEBA">Консольные навесные дождевальные агрегаты</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%94%D0%90-100" title="ДДА-100">ДДА-100 (ДДА-100МА)</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%94%D0%9F%D0%90-130/140&amp;action=edit&amp;redlink=1" title="ДДПА-130/140 (страница отсутствует)">ДДПА-130/140</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%94%D0%90-145&amp;action=edit&amp;redlink=1" title="ДДА-145 (страница отсутствует)">ДДА-145</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%9C_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82)&amp;action=edit&amp;redlink=1" title="ДМ (дождевальный агрегат) (страница отсутствует)">ДМ</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#BCDEBA;width:1px;background:#BCDEBA">Навесные дождевальные агрегаты / машины (дальнеструйные)</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="new" href="/w/index.php?title=%D0%94%D0%94%D0%9D-45&amp;action=edit&amp;redlink=1" title="ДДН-45 (страница отсутствует)">ДДН-45</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%94%D0%9D-70&amp;action=edit&amp;redlink=1" title="ДДН-70 (страница отсутствует)">ДДН-70</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%94%D0%9D-100&amp;action=edit&amp;redlink=1" title="ДДН-100 (страница отсутствует)">ДДН-100</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%94%D0%9F-30%D0%A1&amp;action=edit&amp;redlink=1" title="ДДП-30С (страница отсутствует)">ДДП-30С</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A2%D0%9A%D0%A3-100&amp;action=edit&amp;redlink=1" title="ТКУ-100 (страница отсутствует)">ТКУ-100</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#BCDEBA;width:1px;background:#BCDEBA">Прочие</th><td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D0%9D%D0%98%D0%98%D0%93%D0%B8%D0%9C-I" title="ВНИИГиМ-I">ВНИИГиМ-I</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%94%D0%A1-30&amp;action=edit&amp;redlink=1" title="ДДС-30 (страница отсутствует)">ДДС-30</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%A8-10&amp;action=edit&amp;redlink=1" title="ДШ-10 (страница отсутствует)">ДШ-10</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%A8-30&amp;action=edit&amp;redlink=1" title="ДШ-30 (страница отсутствует)">ДШ-30</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%94%D0%A8-25/300&amp;action=edit&amp;redlink=1" title="ДШ-25/300 (страница отсутствует)">ДШ-25/300</a></li>
+<li><a href="/wiki/%D0%9A%D0%94%D0%A3-38" title="КДУ-38">КДУ-38</a></li>
+<li><a href="/wiki/%D0%9A%D0%94%D0%A3-41" title="КДУ-41">КДУ-41</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%94%D0%A3-45&amp;action=edit&amp;redlink=1" title="КДУ-45 (страница отсутствует)">КДУ-45</a></li>
+<li><a href="/wiki/%D0%9A%D0%94%D0%A3-47" title="КДУ-47">КДУ-47</a></li>
+<li><a href="/wiki/%D0%9A%D0%94%D0%A3-48" title="КДУ-48">КДУ-48</a></li>
+<li><a href="/wiki/%D0%9A%D0%94%D0%A3-55" title="КДУ-55">КДУ-55</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%98-25&amp;action=edit&amp;redlink=1" title="КИ-25 (страница отсутствует)">КИ-25</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%A1%D0%98%D0%94-10&amp;action=edit&amp;redlink=1" title="КСИД-10 (страница отсутствует)">КСИД-10</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%A1%D0%98%D0%94-30&amp;action=edit&amp;redlink=1" title="КСИД-30 (страница отсутствует)">КСИД-30</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%98-25&amp;action=edit&amp;redlink=1" title="КИ-25 (страница отсутствует)">КИ-25</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%9A%D0%98-50_%C2%AB_%D0%A0%D0%B0%D0%B4%D1%83%D0%B3%D0%B0%C2%BB&amp;action=edit&amp;redlink=1" title="КИ-50 « Радуга» (страница отсутствует)">КИ-50 « Радуга»</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%94%D0%A3-10&amp;action=edit&amp;redlink=1" title="СДУ-10 (страница отсутствует)">СДУ-10 / СДУ-20</a></li>
+<li><a href="/wiki/%D0%A1%D0%94%D0%A3-60" title="СДУ-60">СДУ-60</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A3%D0%94%D0%A1-25&amp;action=edit&amp;redlink=1" title="УДС-25 (страница отсутствует)">УДС-25 / УДС-50</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="background:#BCDEBA;width:1px;background:#BCDEBA">См. также</th><td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D0%BC%D0%B1%D0%B0%D0%B9%D0%BD%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Шаблон:Комбайны СССР">Сельскохозяйственные комбайны СССР</a></b></li>
+<li><b><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A2%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Шаблон:Тракторы СССР">Тракторы СССР</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Фрегат_(дождевальная_машина)&amp;oldid=138782010">https://ru.wikipedia.org/w/index.php?title=Фрегат_(дождевальная_машина)&amp;oldid=138782010</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B,_%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D1%8B_%D0%B8_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8" title="Категория:Дождевальные машины, агрегаты и установки">Дождевальные машины, агрегаты и установки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8F%D0%B2%D0%B8%D0%BB%D0%B8%D1%81%D1%8C_%D0%B2_1971_%D0%B3%D0%BE%D0%B4%D1%83_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B5" title="Категория:Появились в 1971 году на Украине">Появились в 1971 году на Украине</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Категория:Транспортные средства Украины">Транспортные средства Украины</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Транспортные средства России">Транспортные средства России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B5_%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Транспортные средства СССР">Транспортные средства СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Категория:Сельское хозяйство Украины">Сельское хозяйство Украины</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Сельское хозяйство России">Сельское хозяйство России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Сельское хозяйство СССР">Сельское хозяйство СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1970-%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%B2_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8" title="Категория:1970-е годы в Николаевской области">1970-е годы в Николаевской области</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи о технике">Википедия:Хорошие статьи о технике</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82+%28%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82+%28%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;oldid=138782010" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_%28%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%29&amp;id=138782010&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D1%2580%25D0%25B5%25D0%25B3%25D0%25B0%25D1%2582_%28%25D0%25B4%25D0%25BE%25D0%25B6%25D0%25B4%25D0%25B5%25D0%25B2%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B0%25D1%258F_%25D0%25BC%25D0%25B0%25D1%2588%25D0%25B8%25D0%25BD%25D0%25B0%29"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D1%2580%25D0%25B5%25D0%25B3%25D0%25B0%25D1%2582_%28%25D0%25B4%25D0%25BE%25D0%25B6%25D0%25B4%25D0%25B5%25D0%25B2%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B0%25D1%258F_%25D0%25BC%25D0%25B0%25D1%2588%25D0%25B8%25D0%25BD%25D0%25B0%29"><span>Скачать QR-код</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_%28%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q111143843" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q111143843#sitelinks-wikipedia" title="Добавить ссылки на другие языки">Добавить ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 7 июля 2024 в 06:39.</li>
+<li id="footer-info-copyright">Текст доступен по <a class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="nofollow">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a class="external text" href="https://wikimediafoundation.org/ru/" rel="nofollow">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%A4%D1%80%D0%B5%D0%B3%D0%B0%D1%82_(%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0)&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://wikimediafoundation.org/"><picture><source height="29" media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84"/><img alt="Wikimedia Foundation" height="25" lang="en" loading="lazy" src="/static/images/footer/wikimedia.svg" width="25"/></picture></a></li>
+<li id="footer-poweredbyico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://www.mediawiki.org/"><picture><source height="31" media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88"/><img alt="Powered by MediaWiki" height="25" lang="en" loading="lazy" src="/w/resources/assets/mediawiki_compact.svg" width="25"/></picture></a></li>
+</ul>
+</footer>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+<ul>
+</ul>
+</div>
+
+
+</body>
+</html>

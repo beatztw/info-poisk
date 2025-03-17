@@ -1,0 +1,1933 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Кривая роста (спектроскопия) — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+
+<meta content="MediaWiki 1.44.0-wmf.20" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Curve_of_growth.svg/1200px-Curve_of_growth.svg.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="817" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Curve_of_growth.svg/800px-Curve_of_growth.svg.png" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="545" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Curve_of_growth.svg/640px-Curve_of_growth.svg.png" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="436" property="og:image:height"/>
+<meta content="width=1120" name="viewport"/>
+<meta content="Кривая роста (спектроскопия) — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Кривая_роста_спектроскопия rootpage-Кривая_роста_спектроскопия skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span class="skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><span class="mw-page-title-main">Кривая роста (спектроскопия)</span></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-stable-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">Стабильная версия</a>, проверенная 7 июля 2022.</div></div></div></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Curve_of_growth.svg"><img class="mw-file-element" data-file-height="378" data-file-width="555" decoding="async" height="204" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Curve_of_growth.svg/300px-Curve_of_growth.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Curve_of_growth.svg/450px-Curve_of_growth.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Curve_of_growth.svg/600px-Curve_of_growth.svg.png 2x" width="300"/></a><figcaption>Общий вид кривой роста</figcaption></figure>
+<p><b>Кривая роста</b> — зависимость <a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Эквивалентная ширина">эквивалентной ширины</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> <a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F" title="Спектральная линия поглощения">спектральной линии поглощения</a> от количества атомов <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span>, которые поглощают излучение в этой линии. Как правило, о кривых роста говорят в отношении линий поглощения в спектрах <a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Звезда">звёзд</a>.
+</p><p>Кривую роста делят на три качественно различимых области. При малых <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> <a href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%BE%D0%BB%D1%89%D0%B8%D0%BD%D0%B0" title="Оптическая толщина">оптическая толщина</a> поглощающего слоя мала, и эквивалентная ширина растёт прямо пропорционально <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f08055652e742263adfe8acc757a01a6f5fd354" style="vertical-align: -0.338ex; width:7.597ex; height:2.176ex;"/></span> — эта часть кривой роста называется линейной. При достаточно большом <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> оптическая толщина становится больше единицы: центральная глубина линии перестаёт расти, происходит насыщение линии в центре и рост эквивалентной ширины продолжается за счёт крыльев линии. На этом участке кривой роста, называемом пологим, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto {\sqrt {\ln N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto {\sqrt {\ln N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto {\sqrt {\ln N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37f875aef4f03f38cb470b2b9ce04a33827ec695" style="vertical-align: -0.671ex; width:11.86ex; height:3.009ex;"/></span>. При ещё большем <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> начинают заметно расти части крыльев, описываемые <a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B0" title="Распределение Лоренца">лоренцевским профилем</a>. Эта часть кривой роста называется областью затухания излучения, на ней <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto {\sqrt {N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto {\sqrt {N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto {\sqrt {N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3cab509ee0044f2104b05883826b3411d37f2d27" style="vertical-align: -0.671ex; width:9.533ex; height:3.009ex;"/></span>.
+</p><p>Кривые роста можно рассчитать теоретически для различных условий в атмосфере звезды. По ним можно определять содержание тех или иных химических элементов в атмосфере звезды, а сравнивая теоретические кривые роста с наблюдаемыми, можно определять различные параметры атмосферы, от которых зависит вид самой кривой роста — например, температуру или скорость <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D1%83%D1%80%D0%B1%D1%83%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Микротурбулентность">микротурбулентных движений</a>.
+</p><p>Зависимость эквивалентной ширины линии поглощения от числа атомов, её образующих, впервые показал в 1931 году <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB_%D0%9C%D0%B8%D0%BD%D0%BD%D0%B0%D1%80%D1%82" title="Марсел Миннарт">Марсел Миннарт</a>.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Описание"><span class="tocnumber">1</span> <span class="toctext">Описание</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Теория"><span class="tocnumber">2</span> <span class="toctext">Теория</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Эквивалентная_ширина"><span class="tocnumber">2.1</span> <span class="toctext">Эквивалентная ширина</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Поведение_при_малой_оптической_толщине"><span class="tocnumber">2.2</span> <span class="toctext">Поведение при малой оптической толщине</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Поведение_при_большой_оптической_толщине"><span class="tocnumber">2.3</span> <span class="toctext">Поведение при большой оптической толщине</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Гауссовский_профиль"><span class="tocnumber">2.3.1</span> <span class="toctext">Гауссовский профиль</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Лоренцевский_профиль"><span class="tocnumber">2.3.2</span> <span class="toctext">Лоренцевский профиль</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Фойгтовский_профиль"><span class="tocnumber">2.3.3</span> <span class="toctext">Фойгтовский профиль</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Использование"><span class="tocnumber">3</span> <span class="toctext">Использование</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#История_изучения"><span class="tocnumber">4</span> <span class="toctext">История изучения</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+</ul>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="Описание"><span id=".D0.9E.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5"></span>Описание</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Описание»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Описание»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Кривая роста — зависимость <a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Эквивалентная ширина">эквивалентной ширины</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> <a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F" title="Спектральная линия поглощения">спектральной линии поглощения</a> от количества атомов <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span>, которые поглощают излучение в этой линии<sup class="reference" id="cite_ref-:0_1-0"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>.
+</p><p>Как правило, о кривых роста говорят в отношении линий поглощения в спектрах <a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Звезда">звёзд</a>. Излучение, выходящее из <a href="/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" title="Фотосфера">фотосферы звезды</a>, имеет <a class="mw-redirect" href="/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80" title="Непрерывный спектр">непрерывный спектр</a>, но при прохождении его через внешние слои <a href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%B0%D1%8F_%D0%B0%D1%82%D0%BC%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" title="Звёздная атмосфера">звёздной атмосферы</a> излучение поглощается на некоторых длинах волн — в спектре появляются линии поглощения. В каждой такой спектральной линии излучение поглощается определённым атомом в некотором энергетическом состоянии, поэтому чем больше таких атомов на пути излучения, тем сильнее будет поглощение в спектральной линии<sup class="reference" id="cite_ref-:0_1-1"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:22_2-0"><a href="#cite_note-:22-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_337cec30bd4b8ae9_3-0"><a href="#cite_note-_337cec30bd4b8ae9-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>.
+</p><p>Кривая роста может быть разделена на три части, в порядке возрастания <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span>: линейную, где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f08055652e742263adfe8acc757a01a6f5fd354" style="vertical-align: -0.338ex; width:7.597ex; height:2.176ex;"/></span>; пологую, или переходную, в которой <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto {\sqrt {\ln N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto {\sqrt {\ln N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto {\sqrt {\ln N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37f875aef4f03f38cb470b2b9ce04a33827ec695" style="vertical-align: -0.671ex; width:11.86ex; height:3.009ex;"/></span>; и область затухания излучения, где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto {\sqrt {N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto {\sqrt {N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto {\sqrt {N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3cab509ee0044f2104b05883826b3411d37f2d27" style="vertical-align: -0.671ex; width:9.533ex; height:3.009ex;"/></span><sup class="reference" id="cite_ref-:0_1-2"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>.
+</p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 335px">
+<div class="thumb" style="width: 330px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Line_profiles_for_different_N.svg" title="Вид профиля спектральной линии Лайман-альфа в единицах интенсивности непрерывного спектра при разных концентрациях водорода: от 1012 атомов на см2 для линии наименьшей глубины до 1020 атомов на см2 для самой глубокой линии. Между соседними линиями концентрация меняется в 10 раз."><img alt="Вид профиля спектральной линии Лайман-альфа в единицах интенсивности непрерывного спектра при разных концентрациях водорода: от 1012 атомов на см2 для линии наименьшей глубины до 1020 атомов на см2 для самой глубокой линии. Между соседними линиями концентрация меняется в 10 раз." class="mw-file-element" data-file-height="197" data-file-width="567" decoding="async" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Line_profiles_for_different_N.svg/300px-Line_profiles_for_different_N.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Line_profiles_for_different_N.svg/450px-Line_profiles_for_different_N.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Line_profiles_for_different_N.svg/600px-Line_profiles_for_different_N.svg.png 2x" width="300"/></a></span></div>
+<div class="gallerytext">Вид <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8" title="Профиль спектральной линии">профиля спектральной линии</a> <a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B8%D1%8F_%D0%9B%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD%D0%B0" title="Серия Лаймана">Лайман-альфа</a> в единицах интенсивности непрерывного спектра при разных концентрациях водорода: от 10<sup>12</sup> атомов на см<sup>2</sup> для линии наименьшей глубины до 10<sup>20</sup> атомов на см<sup>2</sup> для самой глубокой линии. Между соседними линиями концентрация меняется в 10 раз.</div>
+</li>
+<li class="gallerybox" style="width: 335px">
+<div class="thumb" style="width: 330px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Curve_of_growth_for_different_bd.svg" title="Кривые роста для линии Лайман-альфа при разной доплеровской ширине линии '&quot;`UNIQ--postMath-0000000F-QINU`&quot;', связанной с половинной полушириной '&quot;`UNIQ--postMath-00000010-QINU`&quot;' гауссовского профиля линии (см. ниже➤) как '&quot;`UNIQ--postMath-00000011-QINU`&quot;'."><img alt="Кривые роста для линии Лайман-альфа при разной доплеровской ширине линии '&quot;`UNIQ--postMath-0000000F-QINU`&quot;', связанной с половинной полушириной '&quot;`UNIQ--postMath-00000010-QINU`&quot;' гауссовского профиля линии (см. ниже➤) как '&quot;`UNIQ--postMath-00000011-QINU`&quot;'." class="mw-file-element" data-file-height="296" data-file-width="434" decoding="async" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Curve_of_growth_for_different_bd.svg/176px-Curve_of_growth_for_different_bd.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Curve_of_growth_for_different_bd.svg/264px-Curve_of_growth_for_different_bd.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Curve_of_growth_for_different_bd.svg/352px-Curve_of_growth_for_different_bd.svg.png 2x" width="176"/></a></span></div>
+<div class="gallerytext">Кривые роста для линии Лайман-альфа при разной доплеровской ширине линии <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b_{d}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b_{d}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle b_{d}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f96630f1756b27c0c6ca2a2bb39c26ad5524de2" style="vertical-align: -0.671ex; width:2.09ex; height:2.509ex;"/></span>, связанной с <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Полуширина">половинной полушириной</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3556280e66fe2c0d0140df20935a6f057381d77" style="vertical-align: -0.671ex; width:1.116ex; height:2.009ex;"/></span> гауссовского профиля линии (см. ниже<span class="ts-Переход noprint"><a href="#Гауссовский_профиль"><span aria-label="Перейти к разделу «Гауссовский профиль»" class="ts-Переход-icon" title="Перейти к разделу «Гауссовский профиль»"><b>➤</b></span></a></span>) как <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle b_{d}=g/{\sqrt {\ln 2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>b</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>d</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b_{d}=g/{\sqrt {\ln 2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle b_{d}=g/{\sqrt {\ln 2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/251e9392a109fde601740bf7f036f5f4242dc3bc" style="vertical-align: -0.838ex; width:12.891ex; height:3.176ex;"/></span>.</div>
+</li>
+</ul>
+<div class="mw-heading mw-heading2"><h2 id="Теория"><span id=".D0.A2.D0.B5.D0.BE.D1.80.D0.B8.D1.8F"></span>Теория</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Теория»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Теория»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Эквивалентная_ширина"><span id=".D0.AD.D0.BA.D0.B2.D0.B8.D0.B2.D0.B0.D0.BB.D0.B5.D0.BD.D1.82.D0.BD.D0.B0.D1.8F_.D1.88.D0.B8.D1.80.D0.B8.D0.BD.D0.B0"></span>Эквивалентная ширина</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Эквивалентная ширина»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=3" title="Редактировать код раздела «Эквивалентная ширина»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Spectral_line_equivalent_width.svg"><img class="mw-file-element" data-file-height="288" data-file-width="514" decoding="async" height="168" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Spectral_line_equivalent_width.svg/300px-Spectral_line_equivalent_width.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Spectral_line_equivalent_width.svg/450px-Spectral_line_equivalent_width.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Spectral_line_equivalent_width.svg/600px-Spectral_line_equivalent_width.svg.png 2x" width="300"/></a><figcaption>Кривая — профиль спектральной линии поглощения. Эквивалентная ширина W — это ширина прямоугольника (зелёный цвет) при условии, что его площадь равна площади над профилем линии (синий цвет).</figcaption></figure>
+<p>Для описания интенсивности <a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F" title="Спектральная линия поглощения">спектральных линий поглощения</a> используется понятие <a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Эквивалентная ширина">эквивалентной ширины</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span>: это размер области в длинах волн (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W_{\lambda }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>λ<!-- λ --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W_{\lambda }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W_{\lambda }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e2add21095746023f198c917fe56a3fdeb7a7b6" style="vertical-align: -0.671ex; width:3.384ex; height:2.509ex;"/></span>) или в частотах (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W_{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W_{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W_{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eabd70cb16431b9dc4204ed1cc9f3045169b8400" style="vertical-align: -0.671ex; width:3.297ex; height:2.509ex;"/></span>), в которой непрерывный спектр излучает суммарно столько же энергии, сколько поглощается во всей линии<sup class="reference" id="cite_ref-:22_2-1"><a href="#cite_note-:22-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>.
+</p><p>Более строго <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> определяется следующим образом. Интенсивность излучения в спектре на частоте <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \nu }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> обозначается как <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle I_{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/172f1a90292ff1160dabfbc32fd0dcb802fc9f98" style="vertical-align: -0.671ex; width:2.127ex; height:2.509ex;"/></span>, а интенсивность в таком же спектре при отсутствии рассматриваемой линии — <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{\nu }^{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{\nu }^{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle I_{\nu }^{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46d55adabca9ff6af46d38648ec2b60ad7f73999" style="vertical-align: -0.671ex; width:2.271ex; height:2.843ex;"/></span>: для нахождения <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle I_{\nu }^{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I_{\nu }^{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle I_{\nu }^{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46d55adabca9ff6af46d38648ec2b60ad7f73999" style="vertical-align: -0.671ex; width:2.271ex; height:2.843ex;"/></span> проводится <a href="/wiki/%D0%AD%D0%BA%D1%81%D1%82%D1%80%D0%B0%D0%BF%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" title="Экстраполяция">экстраполяция</a> соседних с линией областей спектра на область, где наблюдается линия, как если бы она отсутствовала<sup class="reference" id="cite_ref-:22_2-2"><a href="#cite_note-:22-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>. Вводится параметр <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{\nu }=1-I_{\nu }/I_{\nu }^{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msubsup>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{\nu }=1-I_{\nu }/I_{\nu }^{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{\nu }=1-I_{\nu }/I_{\nu }^{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc461c22395a546d50595156f133b5656ca40818" style="vertical-align: -0.838ex; width:14.994ex; height:3.009ex;"/></span>, называемый глубиной линии и представляющий собой долю излучения на частоте <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \nu }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span>, которая была поглощена. Тогда эквивалентная ширина связана с ним соотношением <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\textstyle W_{\nu }=\int _{\nu _{1}}^{\nu _{2}}a_{\nu }d\nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mi>d</mi>
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\textstyle W_{\nu }=\int _{\nu _{1}}^{\nu _{2}}a_{\nu }d\nu }</annotation>
+</semantics>
+</math></span><img alt="{\textstyle W_{\nu }=\int _{\nu _{1}}^{\nu _{2}}a_{\nu }d\nu }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ce7b88b70421b42ef55a7d4dfa9dad949b9be07" style="vertical-align: -1.338ex; width:14.954ex; height:3.509ex;"/></span> или <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\textstyle W_{\lambda }=\int _{\lambda _{1}}^{\lambda _{2}}a_{\lambda }d\lambda }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>λ<!-- λ --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>λ<!-- λ --></mi>
+</mrow>
+</msub>
+<mi>d</mi>
+<mi>λ<!-- λ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\textstyle W_{\lambda }=\int _{\lambda _{1}}^{\lambda _{2}}a_{\lambda }d\lambda }</annotation>
+</semantics>
+</math></span><img alt="{\textstyle W_{\lambda }=\int _{\lambda _{1}}^{\lambda _{2}}a_{\lambda }d\lambda }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1271a33ddae96b87d7c68c035f4b1243dfc5a483" style="vertical-align: -1.338ex; width:15.398ex; height:4.009ex;"/></span> — аналогичные рассуждения можно провести для спектра по длинам волн, а не частотам. Теоретически интегрирование должно производиться от <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle 0}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle 0}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2aae8864a3c1fec9585261791a809ddec1489950" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;"/></span> до <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \infty }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \infty }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \infty }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c26c105004f30c27aa7c2a9c601550a4183b1f21" style="vertical-align: -0.338ex; width:2.324ex; height:1.676ex;"/></span>, но на практике интегрируют на конечном интервале, включающем в себя основные части линии — как правило, ширина интервала составляет не более нескольких десятков нанометров<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. В то же время <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/567663cbdc63f966ef368167a6f53505207aa31c" style="vertical-align: -0.671ex; width:2.333ex; height:2.009ex;"/></span> связана с <a href="/wiki/%D0%9E%D0%BF%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%BE%D0%BB%D1%89%D0%B8%D0%BD%D0%B0" title="Оптическая толщина">оптической толщиной</a> поглощающего слоя <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/358bb4a70e6e937a0d8484d20d85fdff2093019f" style="vertical-align: -0.671ex; width:2.12ex; height:2.009ex;"/></span> на частоте <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \nu }" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \nu }" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.232ex; height:1.676ex;"/></span> как <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{\nu }=1-e^{-\tau _{\nu }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{\nu }=1-e^{-\tau _{\nu }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{\nu }=1-e^{-\tau _{\nu }}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cec4527447ab6861d2071119faefc3d7283f04d6" style="vertical-align: -0.671ex; width:13.619ex; height:2.843ex;"/></span>, а <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/358bb4a70e6e937a0d8484d20d85fdff2093019f" style="vertical-align: -0.671ex; width:2.12ex; height:2.009ex;"/></span> прямо пропорциональна количеству атомов, отвечающих за поглощение в линии, на единицу площади на луче зрения <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span><sup class="reference" id="cite_ref-:1_5-0"><a href="#cite_note-:1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_7-0"><a href="#cite_note-:2-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Поведение_при_малой_оптической_толщине"><span id=".D0.9F.D0.BE.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BF.D1.80.D0.B8_.D0.BC.D0.B0.D0.BB.D0.BE.D0.B9_.D0.BE.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B9_.D1.82.D0.BE.D0.BB.D1.89.D0.B8.D0.BD.D0.B5"></span>Поведение при малой оптической толщине</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Поведение при малой оптической толщине»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Поведение при малой оптической толщине»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В любом случае, когда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> мало, то мала и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/358bb4a70e6e937a0d8484d20d85fdff2093019f" style="vertical-align: -0.671ex; width:2.12ex; height:2.009ex;"/></span> во всех частях линии. Тогда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{\nu }=1-e^{-\tau _{\nu }}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{\nu }=1-e^{-\tau _{\nu }}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{\nu }=1-e^{-\tau _{\nu }}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cec4527447ab6861d2071119faefc3d7283f04d6" style="vertical-align: -0.671ex; width:13.619ex; height:2.843ex;"/></span> возрастает практически линейно с ростом <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/358bb4a70e6e937a0d8484d20d85fdff2093019f" style="vertical-align: -0.671ex; width:2.12ex; height:2.009ex;"/></span>, и, следовательно, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f08055652e742263adfe8acc757a01a6f5fd354" style="vertical-align: -0.338ex; width:7.597ex; height:2.176ex;"/></span>. Когда оптическая толщина становится достаточно большой, то рост <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle a_{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a_{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a_{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/567663cbdc63f966ef368167a6f53505207aa31c" style="vertical-align: -0.671ex; width:2.333ex; height:2.009ex;"/></span> в центре линии замедляется, а затем практически останавливается — линейный рост продолжается, пока оптическая толщина в центре линии <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56dad457e274b970f5d98b9dc40bef7f895c7f6f" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> по порядку величины меньше единицы<sup class="reference" id="cite_ref-:4_8-0"><a href="#cite_note-:4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:02_9-0"><a href="#cite_note-:02-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. Увеличение <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> замедляется, но не прекращается, поскольку в крыльях — боковых частях линии — <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/358bb4a70e6e937a0d8484d20d85fdff2093019f" style="vertical-align: -0.671ex; width:2.12ex; height:2.009ex;"/></span> ещё невелико. Связь между <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> для оптически толстых сред зависит от вида <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8" title="Профиль спектральной линии">профиля спектральной линии</a><sup class="reference" id="cite_ref-:0_1-3"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:1_5-1"><a href="#cite_note-:1-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_7-1"><a href="#cite_note-:2-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Поведение_при_большой_оптической_толщине"><span id=".D0.9F.D0.BE.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5_.D0.BF.D1.80.D0.B8_.D0.B1.D0.BE.D0.BB.D1.8C.D1.88.D0.BE.D0.B9_.D0.BE.D0.BF.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B9_.D1.82.D0.BE.D0.BB.D1.89.D0.B8.D0.BD.D0.B5"></span>Поведение при большой оптической толщине</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Поведение при большой оптической толщине»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=5" title="Редактировать код раздела «Поведение при большой оптической толщине»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Как правило, различные <a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F#Механизмы_уширения" title="Спектральная линия">механизмы уширения</a>, отдельно взятые, приводят либо к <a class="mw-redirect" href="/wiki/%D0%93%D0%B0%D1%83%D1%81%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Гауссовское распределение">гауссовскому распределению</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{\nu }}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{\nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{\nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/358bb4a70e6e937a0d8484d20d85fdff2093019f" style="vertical-align: -0.671ex; width:2.12ex; height:2.009ex;"/></span> (например, <a href="/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Тепловое движение">тепловое движение</a> атомов), либо к <a class="mw-redirect" href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B0" title="Распределение Лоренца">лоренцевскому распределению</a> (к примеру, естественная ширина линии и уширение за счёт столкновений). Совместное действие этих механизмов приводит к образованию <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D0%A4%D0%BE%D0%B9%D0%B3%D1%82%D0%B0" title="Профиль Фойгта">фойгтовского профиля</a>, который является свёрткой гауссовского и лоренцевского<sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>. Поскольку в лоренцевском профиле крылья убывают гораздо медленнее, чем в гауссовском, то в соответствующем фойгтовском профиле дальние части крыльев в любом случае близки к лоренцевскому профилю. Вид центральной части линии зависит от ширин гауссовского и лоренцевского профилей: если гауссовский профиль значительно шире, то центральная часть фойгтовского профиля будет близка к гауссовскому, и наоборот<sup class="reference" id="cite_ref-:2_7-2"><a href="#cite_note-:2-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:05_11-0"><a href="#cite_note-:05-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Гауссовский_профиль"><span id=".D0.93.D0.B0.D1.83.D1.81.D1.81.D0.BE.D0.B2.D1.81.D0.BA.D0.B8.D0.B9_.D0.BF.D1.80.D0.BE.D1.84.D0.B8.D0.BB.D1.8C"></span>Гауссовский профиль</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Гауссовский профиль»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=6" title="Редактировать код раздела «Гауссовский профиль»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Распределение оптической толщины в линии с гауссовским профилем имеет следующий вид<sup class="reference" id="cite_ref-:3_12-0"><a href="#cite_note-:3-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau (x)=\tau _{0}\exp \left(-{\frac {x^{2}\ln 2}{g^{2}}}\right),}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mn>2</mn>
+</mrow>
+<msup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau (x)=\tau _{0}\exp \left(-{\frac {x^{2}\ln 2}{g^{2}}}\right),}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau (x)=\tau _{0}\exp \left(-{\frac {x^{2}\ln 2}{g^{2}}}\right),}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8f33af050873485ad1e7cd5c5fd9ae18f6337e7d" style="vertical-align: -2.505ex; width:26.421ex; height:6.343ex;"/></span></dd></dl>
+<p>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56dad457e274b970f5d98b9dc40bef7f895c7f6f" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> — оптическая толщина в центре линии, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3556280e66fe2c0d0140df20935a6f057381d77" style="vertical-align: -0.671ex; width:1.116ex; height:2.009ex;"/></span> — <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Полуширина">половинная полуширина</a> линии, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> — расстояние до центра линии. Для удобства можно сделать замену <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\textstyle u={\frac {x{\sqrt {\ln 2}}}{g}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mi>u</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mrow>
+<mi>g</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\textstyle u={\frac {x{\sqrt {\ln 2}}}{g}}}</annotation>
+</semantics>
+</math></span><img alt="{\textstyle u={\frac {x{\sqrt {\ln 2}}}{g}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/082648b087d9d8c21a40af5171b53ae78296c320" style="vertical-align: -1.338ex; width:10.154ex; height:4.343ex;"/></span>, тогда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle u}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>u</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle u}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3e6bb763d22c20916ed4f0bb6bd49d7470cffd8" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> — расстояние от центра линии в величинах доплеровской ширины, равной <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle g/{\sqrt {\ln 2}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mn>2</mn>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g/{\sqrt {\ln 2}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle g/{\sqrt {\ln 2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0c2cd8a619bd3de2c56e73ab8a03d5b5ee6447d" style="vertical-align: -0.838ex; width:7.703ex; height:3.176ex;"/></span>. Эквивалентная ширина линии с такими параметрами может быть выражена так<sup class="reference" id="cite_ref-:4_8-1"><a href="#cite_note-:4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:3_12-1"><a href="#cite_note-:3-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W={\frac {2g}{\sqrt {\ln 2}}}\int _{0}^{\infty }\left(1-\exp \left[-\tau _{0}e^{-u^{2}}\right]\right)du}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>g</mi>
+</mrow>
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mn>2</mn>
+</msqrt>
+</mfrac>
+</mrow>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mi>u</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W={\frac {2g}{\sqrt {\ln 2}}}\int _{0}^{\infty }\left(1-\exp \left[-\tau _{0}e^{-u^{2}}\right]\right)du}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W={\frac {2g}{\sqrt {\ln 2}}}\int _{0}^{\infty }\left(1-\exp \left[-\tau _{0}e^{-u^{2}}\right]\right)du}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b8e2ef5307c07497c0c230ecf4d258de4bab694" style="vertical-align: -2.838ex; width:40.611ex; height:6.343ex;"/></span></dd></dl>
+<p>Интеграл в этом выражении не берётся аналитически, но можно приближённо считать, что при больших <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56dad457e274b970f5d98b9dc40bef7f895c7f6f" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span>, соответствующих насыщенным линиям, подынтегральное выражение близко к 0 при больших <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle u}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>u</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle u}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3e6bb763d22c20916ed4f0bb6bd49d7470cffd8" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> и к 1 при малых. Условием границы между «большими» и «малыми» <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle u}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>u</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle u}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3e6bb763d22c20916ed4f0bb6bd49d7470cffd8" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> можно взять значение <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle u_{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u_{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle u_{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c7425f9c7ab645587060423c0af62f8a61fbc65" style="vertical-align: -0.671ex; width:2.384ex; height:2.009ex;"/></span>, при котором <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{0}e^{-u_{0}^{2}}=1}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{0}e^{-u_{0}^{2}}=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{0}e^{-u_{0}^{2}}=1}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/49c10428593c3ef04046389c54b5561db2ce41da" style="vertical-align: -0.671ex; width:10.697ex; height:3.343ex;"/></span>. Это условие выполняется при <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle u_{0}={\sqrt {\ln \tau _{0}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u_{0}={\sqrt {\ln \tau _{0}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle u_{0}={\sqrt {\ln \tau _{0}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5777754ec78a4f3e0e8bbe098f8cc8ace2d546b6" style="vertical-align: -1.171ex; width:12.203ex; height:3.509ex;"/></span>, так что <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> с хорошей точностью оказывается пропорционально <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {\ln \tau _{0}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {\ln \tau _{0}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\sqrt {\ln \tau _{0}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/05602fdc087a0e064caeb6f4218df5e76e1440c1" style="vertical-align: -1.171ex; width:6.721ex; height:3.509ex;"/></span>, а значит, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto {\sqrt {\ln N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto {\sqrt {\ln N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto {\sqrt {\ln N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/37f875aef4f03f38cb470b2b9ce04a33827ec695" style="vertical-align: -0.671ex; width:11.86ex; height:3.009ex;"/></span><sup class="reference" id="cite_ref-:4_8-2"><a href="#cite_note-:4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Приближённое вычисление самого интеграла приводит к такому же результату<sup class="reference" id="cite_ref-_318f5dd5c372db5e_13-0"><a href="#cite_note-_318f5dd5c372db5e-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Лоренцевский_профиль"><span id=".D0.9B.D0.BE.D1.80.D0.B5.D0.BD.D1.86.D0.B5.D0.B2.D1.81.D0.BA.D0.B8.D0.B9_.D0.BF.D1.80.D0.BE.D1.84.D0.B8.D0.BB.D1.8C"></span>Лоренцевский профиль</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Лоренцевский профиль»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=7" title="Редактировать код раздела «Лоренцевский профиль»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В линии с лоренцевским профилем распределение оптической толщины записывают в виде<sup class="reference" id="cite_ref-:5_14-0"><a href="#cite_note-:5-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau (x)=\tau _{0}{\frac {l^{2}}{l^{2}+x^{2}}},}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<msup>
+<mi>l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau (x)=\tau _{0}{\frac {l^{2}}{l^{2}+x^{2}}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau (x)=\tau _{0}{\frac {l^{2}}{l^{2}+x^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/04050431f4f9c4e5b99e2c2848aa577f98c71507" style="vertical-align: -2.338ex; width:17.965ex; height:6.176ex;"/></span></dd></dl>
+<p>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56dad457e274b970f5d98b9dc40bef7f895c7f6f" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> — оптическая толщина в центре линии, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle l}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>l</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle l}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle l}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829091f745070b9eb97a80244129025440a1cfac" style="vertical-align: -0.338ex; width:0.693ex; height:2.176ex;"/></span> — <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Полуширина">половинная полуширина</a> линии, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle x}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle x}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;"/></span> — расстояние до центра линии. Для удобства делается замена <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\textstyle y=x/l}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mi>y</mi>
+<mo>=</mo>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>l</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\textstyle y=x/l}</annotation>
+</semantics>
+</math></span><img alt="{\textstyle y=x/l}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/da5f44dbf60f98e78c5694b2724cdf208e62fee7" style="vertical-align: -0.838ex; width:7.439ex; height:2.843ex;"/></span>, тогда <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>y</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle y}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b8a6208ec717213d4317e666f1ae872e00620a0d" style="vertical-align: -0.671ex; width:1.155ex; height:2.009ex;"/></span> — расстояние от центра линии в единицах половинной полуширины. Эквивалентная ширина в этом случае принимает вид<sup class="reference" id="cite_ref-:5_14-1"><a href="#cite_note-:5-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W=2l\int _{0}^{\infty }\left(1-\exp \left[-{\frac {\tau _{0}}{y^{2}+1}}\right]\right)dy}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>l</mi>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mi>y</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W=2l\int _{0}^{\infty }\left(1-\exp \left[-{\frac {\tau _{0}}{y^{2}+1}}\right]\right)dy}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W=2l\int _{0}^{\infty }\left(1-\exp \left[-{\frac {\tau _{0}}{y^{2}+1}}\right]\right)dy}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30b5250275b95365736a29622e63b2fd59a69bd7" style="vertical-align: -2.505ex; width:37.555ex; height:6.176ex;"/></span></dd></dl>
+<p>При достаточно больших <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56dad457e274b970f5d98b9dc40bef7f895c7f6f" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> центр линии оказывается насыщенным, а убывание оптической толщины в крыльях происходит приблизительно как <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle y^{-2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle y^{-2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle y^{-2}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a12774a8c255c22d1d7f4c4a7b7617a6f6887c47" style="vertical-align: -0.671ex; width:3.493ex; height:3.009ex;"/></span>. Тогда ширина  приближённо выражается<sup class="reference" id="cite_ref-:4_8-3"><a href="#cite_note-:4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:5_14-2"><a href="#cite_note-:5-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W=2l\int _{0}^{\infty }\left(1-\exp \left[-{\frac {\tau _{0}}{y^{2}}}\right]\right)dy}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>l</mi>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mi>y</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W=2l\int _{0}^{\infty }\left(1-\exp \left[-{\frac {\tau _{0}}{y^{2}}}\right]\right)dy}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W=2l\int _{0}^{\infty }\left(1-\exp \left[-{\frac {\tau _{0}}{y^{2}}}\right]\right)dy}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e0f9698ce748cf95db4fd92f502853cf77896518" style="vertical-align: -2.505ex; width:33.552ex; height:6.176ex;"/></span></dd></dl>
+<p>Если сделать замену <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\textstyle z^{2}=\tau _{0}/u^{2}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\textstyle z^{2}=\tau _{0}/u^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\textstyle z^{2}=\tau _{0}/u^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/684d77c1753f7563c905bd0d994f2c6f10770502" style="vertical-align: -0.838ex; width:10.86ex; height:3.009ex;"/></span><sup class="reference" id="cite_ref-:4_8-4"><a href="#cite_note-:4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:5_14-3"><a href="#cite_note-:5-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W=2l{\sqrt {\tau _{0}}}\int _{0}^{\infty }\left(1-\exp \left[-z^{2}\right]\right)d(1/z)}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>l</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</msqrt>
+</mrow>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">∞<!-- ∞ --></mi>
+</mrow>
+</msubsup>
+<mrow>
+<mo>(</mo>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>exp</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>[</mo>
+<mrow>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mi>d</mi>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W=2l{\sqrt {\tau _{0}}}\int _{0}^{\infty }\left(1-\exp \left[-z^{2}\right]\right)d(1/z)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W=2l{\sqrt {\tau _{0}}}\int _{0}^{\infty }\left(1-\exp \left[-z^{2}\right]\right)d(1/z)}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e19a9a89fae400b341e0825e81522aae7cc80543" style="vertical-align: -2.338ex; width:38.912ex; height:5.843ex;"/></span></dd></dl>
+<p>Таким образом, для лоренцевского профиля <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> растёт пропорционально<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {\tau _{0}}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {\tau _{0}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\sqrt {\tau _{0}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffbc9f413b6d832efbeeea5fa8db2f0d8b016990" style="vertical-align: -1.171ex; width:4.006ex; height:3.009ex;"/></span>, а значит, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W\propto {\sqrt {N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>∝<!-- ∝ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\propto {\sqrt {N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\propto {\sqrt {N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3cab509ee0044f2104b05883826b3411d37f2d27" style="vertical-align: -0.671ex; width:9.533ex; height:3.009ex;"/></span><sup class="reference" id="cite_ref-:2_7-3"><a href="#cite_note-:2-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:4_8-5"><a href="#cite_note-:4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading4"><h4 id="Фойгтовский_профиль"><span id=".D0.A4.D0.BE.D0.B9.D0.B3.D1.82.D0.BE.D0.B2.D1.81.D0.BA.D0.B8.D0.B9_.D0.BF.D1.80.D0.BE.D1.84.D0.B8.D0.BB.D1.8C"></span>Фойгтовский профиль</h4><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Фойгтовский профиль»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=8" title="Редактировать код раздела «Фойгтовский профиль»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Линии поглощения в спектрах звёзд, как правило, описываются фойгтовским профилем, в котором лоренцевская ширина очень мала по сравнению с гауссовской. Это значит, что центральные части линий близки к гауссовским, а крылья — к лоренцевским<sup class="reference" id="cite_ref-_021ca57f25054b23_15-0"><a href="#cite_note-_021ca57f25054b23-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>.
+</p><p>Таким образом, при достаточно больших значениях <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> оптическая толщина в центре становится больше единицы, но крылья лоренцевского профиля ещё слишком слабы, и рост <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> происходит в основном за счёт областей, где профиль линии близок к гауссовскому — пропорционально <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {\ln N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {\ln N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\sqrt {\ln N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/70f16a005afbbf2176fbda0a9eeafa420d1cadf7" style="vertical-align: -0.671ex; width:6.326ex; height:3.009ex;"/></span>. При очень больших <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> дальние части крыльев линии, описываемые лоренцевским профилем, становятся достаточно сильными и <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle W}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/54a9c4c547f4d6111f81946cad242b18298d70b7" style="vertical-align: -0.338ex; width:2.435ex; height:2.176ex;"/></span> начинает расти приблизительно пропорционально <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle {\sqrt {N}}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mi>N</mi>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\sqrt {N}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\sqrt {N}}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7b3d8948b2c154ccc7f7523b035ae7e254e04190" style="vertical-align: -0.671ex; width:3.999ex; height:3.009ex;"/></span><sup class="reference" id="cite_ref-:0_1-4"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:02_9-1"><a href="#cite_note-:02-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_0c4c7e685015df73_16-0"><a href="#cite_note-_0c4c7e685015df73-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>. Типичное значение оптической толщины в центре линии, при которой происходит переход от пологой части кривой роста к области радиационного затухания, составляет около 10<sup>3</sup><sup class="reference" id="cite_ref-:4_8-6"><a href="#cite_note-:4-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>, хотя оно зависит от отношения лоренцевской и гауссовской ширины: чем больше лоренцевская ширина, тем при меньших <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle \tau _{0}}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>τ<!-- τ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau _{0}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \tau _{0}}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/56dad457e274b970f5d98b9dc40bef7f895c7f6f" style="vertical-align: -0.671ex; width:2.07ex; height:2.009ex;"/></span> происходит переход<sup class="reference" id="cite_ref-17"><a href="#cite_note-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Использование"><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D1.8C.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span>Использование</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Использование»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=9" title="Редактировать код раздела «Использование»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Кривые роста можно рассчитать теоретически для заданной модели звёздной атмосферы — в общем случае для этого необходимо решать <a href="/wiki/%D0%A3%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%BD%D0%BE%D1%81%D0%B0_%D0%B8%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" title="Уравнение переноса излучения">уравнение переноса излучения</a> для заданных условий в атмосфере звезды, таких как температура, плотность вещества и других параметров в зависимости от глубины в атмосфере. Таким образом, сравнение теоретических кривых роста с наблюдаемыми позволяет измерять те параметры звёзд, от которых зависит кривая роста, а эквивалентные ширины линий позволяют определять содержание соответствующих химических элементов<sup class="reference" id="cite_ref-:0_1-5"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>.
+</p><p>Для отдельно взятой звезды кривая роста определённой линии может быть построена по <a href="/wiki/%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BF%D0%BB%D0%B5%D1%82" title="Мультиплет">мультиплетам</a> — наборам спектральных линий, которые соответствуют переходам с общего нижнего уровня. Число атомов <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> неизвестно для данной звезды, но для всех этих переходов заведомо одно и то же. Кроме того, обычно известны вероятности переходов, поэтому для мультиплета может быть выбрано подходящее семейство кривых роста и определено <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span><sup class="reference" id="cite_ref-_602c0a296a90fe4f_18-0"><a href="#cite_note-_602c0a296a90fe4f-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>.
+</p><p>Вид кривой роста зависит, к примеру, от температуры звезды и от скорости <a href="/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D1%83%D1%80%D0%B1%D1%83%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Микротурбулентность">микротурбулентных</a> движений газа в ней. Повышение температуры и увеличение скорости микротурбулентности увеличивают гауссовскую ширину линии, уменьшая при этом оптическую глубину в её центре — при этом эквивалентная ширина остаётся прежней, но насыщение линии и прекращение линейного роста наступает при большем <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math alttext="{\displaystyle N}" xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle N}" aria-hidden="true" class="mwe-math-fallback-image-inline mw-invert skin-invert" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.064ex; height:2.176ex;"/></span> и при большей эквивалентной ширине<sup class="reference" id="cite_ref-:0_1-6"><a href="#cite_note-:0-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup>. Кроме того, микротурбулентность и температура по-разному влияют на кривую роста: при одной и той же температуре атомы разных масс имеют разные средние скорости, и гауссовская ширина линий таких атомов различается. Микротурбулентность же вызывает движение с одинаковыми скоростями — это позволяет разделять эффекты температуры и микротурбулентности<sup class="reference" id="cite_ref-20"><a href="#cite_note-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="История_изучения"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D0.B8.D0.B7.D1.83.D1.87.D0.B5.D0.BD.D0.B8.D1.8F"></span>История изучения</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=10" title="Редактировать раздел «История изучения»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=10" title="Редактировать код раздела «История изучения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В 1931 году <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB_%D0%9C%D0%B8%D0%BD%D0%BD%D0%B0%D1%80%D1%82" title="Марсел Миннарт">Марсел Миннарт</a> впервые показал, как эквивалентная ширина линии поглощения зависит от числа атомов, её образующих. Другие учёные, среди которых были <a class="mw-redirect" href="/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4_%D0%9C%D0%B5%D0%BD%D0%B7%D0%B5%D0%BB" title="Дональд Мензел">Дональд Мензел</a> и <a href="/wiki/%D0%A3%D0%BD%D0%B7%D0%BE%D0%BB%D1%8C%D0%B4,_%D0%90%D0%BB%D1%8C%D0%B1%D1%80%D0%B5%D1%85%D1%82_%D0%9E%D1%82%D1%82%D0%BE_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD%D0%B5%D1%81" title="Унзольд, Альбрехт Отто Иоганнес">Альбрехт Унзольд</a>, впоследствии дорабатывали теорию кривой роста<sup class="reference" id="cite_ref-21"><a href="#cite_note-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=11" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:0_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:0_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:0_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-:0_1-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-:0_1-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-:0_1-6"><sup><i><b>7</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Хохлова В. Л.</i> <span lang="und"><a class="external text" href="http://www.astronet.ru/db/msg/1188375" rel="nofollow">Кривая роста</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i><a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B5%D1%82" title="Астронет">Астронет</a></i>. Дата обращения: 15 августа 2021. <a class="external text" href="https://web.archive.org/web/20210802164836/http://www.astronet.ru/db/msg/1188375" rel="nofollow">Архивировано</a> 2 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-:22-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:22_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:22_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:22_2-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%B0%D1%89%D1%83%D0%BA,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Черепащук, Анатолий Михайлович">Черепащук А. М.</a>.</i> <span lang="und"><a class="external text" href="http://www.astronet.ru/db/msg/1188690" rel="nofollow">Спектральные линии</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i><a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B5%D1%82" title="Астронет">Астронет</a></i>. Дата обращения: 1 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210802164811/http://www.astronet.ru/db/msg/1188690" rel="nofollow">Архивировано</a> 2 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-_337cec30bd4b8ae9-3"><span class="mw-cite-backlink"><a href="#cite_ref-_337cec30bd4b8ae9_3-0">↑</a></span> <span class="reference-text"><a href="#CITEREFСоболев1985">Соболев, 1985</a>, с. 83—84.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/09%3A_Oscillator_Strengths_and_Related_Topics/9.01%3A_Introduction%2C_Radiance%2C_and_Equivalent_Width" rel="nofollow">Stellar Atmospheres. 9.1: Introduction, Radiance, and Equivalent Width</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 1 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210901210225/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/09:_Oscillator_Strengths_and_Related_Topics/9.01:_Introduction,_Radiance,_and_Equivalent_Width" rel="nofollow">Архивировано</a> 1 сентября 2021 года.</span></span>
+</li>
+<li id="cite_note-:1-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:1_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:1_5-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/11%3A_Curve_of_Growth/11.02%3A_A_Review_of_Some_Terms" rel="nofollow">Stellar Atmospheres. 11.2: A Review of Some Terms</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 19 августа 2021. <a class="external text" href="https://web.archive.org/web/20210810192206/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/11:_Curve_of_Growth/11.02:_A_Review_of_Some_Terms" rel="nofollow">Архивировано</a> 10 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/11%3A_Curve_of_Growth/11.03%3A_Theory_of_the_Curve_of_Growth" rel="nofollow">Stellar Atmospheres. 11.3: Theory of the Curve of Growth</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 19 августа 2021. <a class="external text" href="https://web.archive.org/web/20210819194327/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/11:_Curve_of_Growth/11.03:_Theory_of_the_Curve_of_Growth" rel="nofollow">Архивировано</a> 19 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-:2-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:2_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:2_7-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:2_7-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:2_7-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Richmond, M.</i> <span lang="und"><a class="external text" href="http://spiff.rit.edu/classes/phys440/lectures/curve/curve.html" rel="nofollow">The curve of growth</a></span><span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <span data-interwiki-article="Rochester Institute of Technology" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%A0%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%B0&amp;action=edit&amp;redlink=1" title="Технологический институт Рочестера (страница отсутствует)">Rochester Institute of Technology</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology" title="en:Rochester Institute of Technology"><span title="Rochester Institute of Technology — версия статьи «Технологический институт Рочестера» на английском языке">[англ.]</span></a></sup>. Дата обращения: 19 августа 2021. <a class="external text" href="https://web.archive.org/web/20200218012640/http://spiff.rit.edu/classes/phys440/lectures/curve/curve.html" rel="nofollow">Архивировано</a> 18 февраля 2020 года.</span></span>
+</li>
+<li id="cite_note-:4-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:4_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:4_8-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:4_8-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:4_8-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-:4_8-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-:4_8-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-:4_8-6"><sup><i><b>7</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Pogge R. W.</i> <span lang="en"><a class="external text" href="http://www.astronomy.ohio-state.edu/~pogge/Ast871/Notes/Neutral.pdf" rel="nofollow">Neutral Atomic Hydrogen (HI) Regions</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>The Ohio State University</i> pp. 7—16. Дата обращения: 4 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210904160252/http://www.astronomy.ohio-state.edu/~pogge/Ast871/Notes/Neutral.pdf" rel="nofollow">Архивировано</a> 4 сентября 2021 года.</span></span>
+</li>
+<li id="cite_note-:02-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:02_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:02_9-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Антипова Л. И.</i> <span data-wikidata-qualifier-id="P248"><a class="external text" href="http://www.femto.com.ua/articles/part_1/1815.html" rel="nofollow">Кривая роста</a></span> // <a href="/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Физическая энциклопедия">Физическая энциклопедия</a> : [в 5 т.] / Гл. ред. <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Прохоров, Александр Михайлович">А. М. Прохоров</a>. — <abbr title="Москва">М.</abbr>: <a class="mw-redirect" href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Советская энциклопедия">Советская энциклопедия</a>, 1990. — Т. 2: Добротность — Магнитооптика. — 704 с. — <span class="nowrap">100 000 экз.</span> — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5852700614">ISBN 5-85270-061-4</a>.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/10%3A_Line_Profiles/10.04%3A_Combination_of_Profiles" rel="nofollow">Stellar Atmospheres. 10.4: Combination of Profiles</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 19 августа 2021. <a class="external text" href="https://web.archive.org/web/20210810192205/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/10:_Line_Profiles/10.04:_Combination_of_Profiles" rel="nofollow">Архивировано</a> 10 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-:05-11"><span class="mw-cite-backlink"><a href="#cite_ref-:05_11-0">↑</a></span> <span class="reference-text"></span>
+</li>
+<li id="cite_note-:3-12"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:3_12-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:3_12-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/11%3A_Curve_of_Growth/11.04%3A_Curve_of_Growth_for_Gaussian_Profiles" rel="nofollow">Stellar Atmospheres. 11.4: Curve of Growth for Gaussian Profiles</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 1 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210810192159/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/11:_Curve_of_Growth/11.04:_Curve_of_Growth_for_Gaussian_Profiles" rel="nofollow">Архивировано</a> 10 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-_318f5dd5c372db5e-13"><span class="mw-cite-backlink"><a href="#cite_ref-_318f5dd5c372db5e_13-0">↑</a></span> <span class="reference-text"><a href="#CITEREFСоболев1985">Соболев, 1985</a>, с. 134.</span>
+</li>
+<li id="cite_note-:5-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:5_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:5_14-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:5_14-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:5_14-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/11%3A_Curve_of_Growth/11.05%3A_Curve_of_Growth_for_Lorentzian_Profiles" rel="nofollow">Stellar Atmospheres. 11.5: Curve of Growth for Lorentzian Profiles</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 1 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210810192155/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/11:_Curve_of_Growth/11.05:_Curve_of_Growth_for_Lorentzian_Profiles" rel="nofollow">Архивировано</a> 10 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-_021ca57f25054b23-15"><span class="mw-cite-backlink"><a href="#cite_ref-_021ca57f25054b23_15-0">↑</a></span> <span class="reference-text"><a href="#CITEREFСоболев1985">Соболев, 1985</a>, с. 88—90.</span>
+</li>
+<li id="cite_note-_0c4c7e685015df73-16"><span class="mw-cite-backlink"><a href="#cite_ref-_0c4c7e685015df73_16-0">↑</a></span> <span class="reference-text"><a href="#CITEREFСоболев1985">Соболев, 1985</a>, с. 133—138.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/11%3A_Curve_of_Growth/11.06%3A_Curve_of_Growth_for_Voigt_Profiles" rel="nofollow">Stellar Atmospheres. 11.6: Curve of Growth for Voigt Profiles</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 4 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210904160256/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/11:_Curve_of_Growth/11.06:_Curve_of_Growth_for_Voigt_Profiles" rel="nofollow">Архивировано</a> 4 сентября 2021 года.</span></span>
+</li>
+<li id="cite_note-_602c0a296a90fe4f-18"><span class="mw-cite-backlink"><a href="#cite_ref-_602c0a296a90fe4f_18-0">↑</a></span> <span class="reference-text"><a href="#CITEREFСоболев1985">Соболев, 1985</a>, с. 137—138.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><i>Charlton J. C., Churchill C. W.</i> <span lang="und"><a class="external text" href="http://ned.ipac.caltech.edu/level5/Charlton/Charlton1_1.html" rel="nofollow">Quasistellar Objects: Intervening Absorption Lines</a></span>. 1.1. Basics of Quasar Spectra<span class="hidden-ref" style="display:none;">  <small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>. <i>ned.ipac.caltech.edu</i>. Дата обращения: 4 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210814220208/http://ned.ipac.caltech.edu/level5/Charlton/Charlton1_1.html" rel="nofollow">Архивировано</a> 14 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><i>Tatum J.</i> <span lang="en"><a class="external text" href="https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book%3A_Stellar_Atmospheres_(Tatum)/10%3A_Line_Profiles/10.03%3A_Microturbulence" rel="nofollow">Stellar Atmospheres. 10.3: Microturbulence</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>Physics LibreTexts</i> (25 января 2017). Дата обращения: 4 сентября 2021. <a class="external text" href="https://web.archive.org/web/20210904184818/https://phys.libretexts.org/Bookshelves/Astronomy__Cosmology/Book:_Stellar_Atmospheres_(Tatum)/10:_Line_Profiles/10.03:_Microturbulence" rel="nofollow">Архивировано</a> 4 сентября 2021 года.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><i>Wright K. O.</i> <a class="external text" href="http://adsabs.harvard.edu/abs/1944ApJ....99..249W" rel="nofollow">Line Intensities and the Solar Curve of Growth</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> // <a href="/wiki/The_Astrophysical_Journal" title="The Astrophysical Journal">The Astrophysical Journal</a>. — Bristol: <a href="/wiki/IOP_Publishing" title="IOP Publishing">IOP Publishing</a>, 1944. — 1 May (<span class="nowrap">vol. 99</span>). — <span class="nowrap">P. 249</span>. — <a class="mw-redirect" href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Международный стандартный серийный номер">ISSN</a> <a class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:0004-637X" rel="nofollow">0004-637X</a>. — <a class="mw-redirect" href="/wiki/Doi" title="Doi">doi</a>:<a class="external text" href="https://dx.doi.org/10.1086%2F144615" rel="nofollow">10.1086/144615</a>.</span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit&amp;section=12" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li></li></ul>
+<div aria-labelledby="Спектральные_линии" class="navbox" data-name="Спектральные линии" role="navigation"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8" title="Перейти к шаблону «Спектральные линии»"><img alt="Перейти к шаблону «Спектральные линии»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Спектральные_линии" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" title="Спектральная линия">Спектральные линии</a></div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px">Типы</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%97%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8" title="Запрещённые линии">Запрещённые линии</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B3%D0%BB%D0%BE%D1%89%D0%B5%D0%BD%D0%B8%D1%8F" title="Спектральная линия поглощения">Линии поглощения</a></li>
+<li><a class="new" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_%D1%8D%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" title="Спектральная линия эмиссии (страница отсутствует)">Линии эмиссии</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Параметры</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" title="Длина волны">Длина волны</a>
+<ul><li><a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">Частота</a></li></ul></li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Полуширина">Полуширина</a></li>
+<li><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C_%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8" title="Профиль спектральной линии">Профиль спектральной линии</a></li>
+<li><a href="/wiki/%D0%AD%D0%BA%D0%B2%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F_%D1%88%D0%B8%D1%80%D0%B8%D0%BD%D0%B0" title="Эквивалентная ширина">Эквивалентная ширина</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Значимые линии</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/H-%D0%B0%D0%BB%D1%8C%D1%84%D0%B0" title="H-альфа">H-альфа</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B5%D0%B9%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%B0" title="Радиолиния нейтрального водорода">Радиолиния нейтрального водорода</a></li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B0%D1%83%D0%BD%D0%B3%D0%BE%D1%84%D0%B5%D1%80%D0%BE%D0%B2%D1%8B_%D0%BB%D0%B8%D0%BD%D0%B8%D0%B8" title="Фраунгоферовы линии">Фраунгоферовы линии</a></li></ul>
+</div></td></tr><tr><th class="navbox-group" scope="row" style="width:1px">Смежные понятия</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Кривая роста</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80" title="Спектр">Спектр</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%B0" title="Спектральная полоса">Спектральная полоса</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%80%D0%B8%D1%8F" title="Спектральная серия">Спектральная серия</a></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Кривая_роста_(спектроскопия)&amp;oldid=123870891">https://ru.wikipedia.org/w/index.php?title=Кривая_роста_(спектроскопия)&amp;oldid=123870891</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F" title="Категория:Спектроскопия">Спектроскопия</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B5" title="Категория:Википедия:Хорошие статьи по физике">Википедия:Хорошие статьи по физике</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F+%D1%80%D0%BE%D1%81%D1%82%D0%B0+%28%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F+%D1%80%D0%BE%D1%81%D1%82%D0%B0+%28%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;oldid=123870891" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_%28%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%29&amp;id=123870891&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25B8%25D0%25B2%25D0%25B0%25D1%258F_%25D1%2580%25D0%25BE%25D1%2581%25D1%2582%25D0%25B0_%28%25D1%2581%25D0%25BF%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D1%2581%25D0%25BA%25D0%25BE%25D0%25BF%25D0%25B8%25D1%258F%29"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D1%2580%25D0%25B8%25D0%25B2%25D0%25B0%25D1%258F_%25D1%2580%25D0%25BE%25D1%2581%25D1%2582%25D0%25B0_%28%25D1%2581%25D0%25BF%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25BE%25D1%2581%25D0%25BA%25D0%25BE%25D0%25BF%25D0%25B8%25D1%258F%29"><span>Скачать QR-код</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_%28%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Curve_of_growth" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q56600767" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-en mw-list-item"><a class="interlanguage-link-target" data-language-autonym="English" data-language-local-name="английский" data-title="Curve of growth" href="https://en.wikipedia.org/wiki/Curve_of_growth" hreflang="en" lang="en" title="Curve of growth — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Українська" data-language-local-name="украинский" data-title="Крива зростання (спектроскопія)" href="https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0_%D0%B7%D1%80%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Крива зростання (спектроскопія) — украинский"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a class="interlanguage-link-target" data-language-autonym="中文" data-language-local-name="китайский" data-title="生长曲线 (天文)" href="https://zh.wikipedia.org/wiki/%E7%94%9F%E9%95%BF%E6%9B%B2%E7%BA%BF_(%E5%A4%A9%E6%96%87)" hreflang="zh" lang="zh" title="生长曲线 (天文) — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q56600767#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 7 июля 2022 в 22:13.</li>
+<li id="footer-info-copyright">Текст доступен по <a class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="nofollow">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a class="external text" href="https://wikimediafoundation.org/ru/" rel="nofollow">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%82%D0%B0_(%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F)&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://wikimediafoundation.org/"><picture><source height="29" media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84"/><img alt="Wikimedia Foundation" height="25" lang="en" loading="lazy" src="/static/images/footer/wikimedia.svg" width="25"/></picture></a></li>
+<li id="footer-poweredbyico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://www.mediawiki.org/"><picture><source height="31" media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88"/><img alt="Powered by MediaWiki" height="25" lang="en" loading="lazy" src="/w/resources/assets/mediawiki_compact.svg" width="25"/></picture></a></li>
+</ul>
+</footer>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+<ul>
+</ul>
+</div>
+
+
+</body>
+</html>
