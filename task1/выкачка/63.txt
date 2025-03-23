@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="ru">
+<head>
+<meta charset="utf-8"/>
+<title>Fantastic Adventures — Википедия</title>
+
+
+
+
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+
+
+
+<meta content="MediaWiki 1.44.0-wmf.19" name="generator"/>
+<meta content="origin" name="referrer"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="max-image-preview:standard" name="robots"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fantastic_Adventures_1949_Mar_cover.jpg/1200px-Fantastic_Adventures_1949_Mar_cover.jpg" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="1685" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fantastic_Adventures_1949_Mar_cover.jpg/800px-Fantastic_Adventures_1949_Mar_cover.jpg" property="og:image"/>
+<meta content="800" property="og:image:width"/>
+<meta content="1124" property="og:image:height"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fantastic_Adventures_1949_Mar_cover.jpg/640px-Fantastic_Adventures_1949_Mar_cover.jpg" property="og:image"/>
+<meta content="640" property="og:image:width"/>
+<meta content="899" property="og:image:height"/>
+<meta content="width=1120" name="viewport"/>
+<meta content="Fantastic Adventures — Википедия" property="og:title"/>
+<meta content="website" property="og:type"/>
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Fantastic_Adventures rootpage-Fantastic_Adventures skin-vector action-view"><div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators">
+<div class="mw-indicator" id="mw-indicator-ga"><div class="mw-parser-output"><span class="skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Эта статья входит в число хороших статей"><img alt="Эта статья входит в число хороших статей" class="mw-file-element" data-file-height="13" data-file-width="13" decoding="async" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" width="13"/></a></span></div></div>
+</div>
+<h1 class="firstHeading mw-first-heading" id="firstHeading"><i>Fantastic Adventures</i></h1>
+<div class="vector-body" id="bodyContent">
+<div class="noprint" id="siteSub">Материал из Википедии — свободной энциклопедии</div>
+<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-stable-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">Стабильная версия</a>, проверенная 24 сентября 2024.</div></div></div></div></div>
+<div id="contentSub2"></div>
+<div id="jump-to-nav"></div>
+<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+<div class="mw-body-content" id="mw-content-text"><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="ru"><table class="infobox infobox-90a4610ba25f9372" data-name="Журнал" style=""><tbody><tr><th class="infobox-above" colspan="2" scope="colgroup" style=""><i>Fantastic Adventures </i></th></tr><tr><td class="" colspan="2" style="text-align:center;"><span></span><span class="wikidata-claim" data-wikidata-claim-id="Q3140799$4227EACB-0515-417F-A2B1-5A17F39122B4" data-wikidata-property-id="P1476[LANGUAGE!:RU]"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">Fantastic Adventures</span></span></span></td></tr><tr><td class="infobox-image" colspan="2" style=""> <span class="wikidata-claim" data-wikidata-claim-id="Q3140799$7C326ACF-E71C-4190-90C3-5AD86856CEBA" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Fantastic_Adventures_1949_Mar_cover.jpg"><img class="mw-file-element" data-file-height="1972" data-file-width="1404" decoding="async" height="385" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fantastic_Adventures_1949_Mar_cover.jpg/274px-Fantastic_Adventures_1949_Mar_cover.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fantastic_Adventures_1949_Mar_cover.jpg/411px-Fantastic_Adventures_1949_Mar_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fantastic_Adventures_1949_Mar_cover.jpg/548px-Fantastic_Adventures_1949_Mar_cover.jpg 2x" width="274"/></a></span></span></span> </td></tr>
+<tr>
+<th class="plainlist" scope="row">Специализация</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q3140799$663018A6-F18D-4EC3-B5A0-0DE1CE50BCDD" data-wikidata-property-id="P921"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D1%8D%D0%BD%D1%82%D0%B5%D0%B7%D0%B8" title="Фэнтези">фэнтези</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Язык</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q3140799$EF789701-C2BB-427E-AD91-32D3DD83530B" data-wikidata-property-id="P407"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">английский</a></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Главный редактор</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P98"><a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%BC%D0%B5%D1%80,_%D0%A0%D1%8D%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Палмер, Рэймонд Артур">Рэймонд Палмер</a>, <span data-interwiki-article="Howard Browne" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4&amp;action=edit&amp;redlink=1" title="Браун, Говард (страница отсутствует)">Говард Браун</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Howard_Browne" title="en:Howard Browne"><span title="Howard Browne — версия статьи «Браун, Говард» на английском языке">[англ.]</span></a></sup></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Страна</th>
+<td class="plainlist">
+<ul><li><span class="wikidata-claim" data-wikidata-claim-id="Q3140799$7A518809-59CB-4FAC-A860-CE3499ECD0B3" data-wikidata-property-id="P495"><span class="mw-image-border" typeof="mw:File"><span><img alt="" class="mw-file-element" data-file-height="650" data-file-width="1235" decoding="async" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png 2x" width="20"/></span></span> <span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">США</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Издатель</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P123"><a href="/wiki/Ziff_Davis" title="Ziff Davis">Ziff-Davis</a></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Дата основания</th>
+<td class="plainlist">
+<span class="wikidata-claim" data-wikidata-claim-id="Q3140799$018543E4-1818-42FE-AAC0-0AB5A01A4C13" data-wikidata-property-id="P571"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1939_%D0%B3%D0%BE%D0%B4" title="1939 год">1939</a></span></span></span></td>
+</tr>
+<tr>
+<th class="plainlist" scope="row">Последний выпуск</th>
+<td class="plainlist">
+март 1953 года</td>
+</tr><tr><td class="infobox-below" colspan="2" style=";"><span class="wikidata-claim" data-wikidata-claim-id="q3140799$C17CF8DB-20E9-4D18-9B7A-5DAEC50F1DA8" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Fantastic_Adventures" title="commons:Category:Fantastic Adventures"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" width="15"/></a></span> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Fantastic_Adventures" title="commons:Category:Fantastic Adventures">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Fantastic Adventures</b> (с <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a><span class="nowrap"> —</span> «фантастические приключения») — американский <a href="/wiki/Pulp-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B" title="Pulp-журналы">бульварный журнал</a> <a href="/wiki/%D0%A4%D1%8D%D0%BD%D1%82%D0%B5%D0%B7%D0%B8" title="Фэнтези">фэнтези</a> и <a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Научная фантастика">научной фантастики</a>, выходивший с 1939 по 1953 год в издательстве <a href="/wiki/Ziff_Davis" title="Ziff Davis">Ziff-Davis</a>. Первоначально его редактировал <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%BC%D0%B5%D1%80,_%D0%A0%D1%8D%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Палмер, Рэймонд Артур">Рэймонд Палмер</a>, который также был редактором <span lang="en" style="font-style:italic;"><a href="/wiki/Amazing_Stories" title="Amazing Stories">Amazing Stories</a></span>, другого научно-фантастического журнала Ziff-Davis. Первые девять номеров вышли в <span data-interwiki-article="Bedsheet" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Bedsheet&amp;action=edit&amp;redlink=1" title="Bedsheet (страница отсутствует)">формате <span lang="en" style="font-style:italic;">bedsheet</span></a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Bedsheet" title="en:Bedsheet"><span title="Bedsheet — версия статьи «Bedsheet» на английском языке">[англ.]</span></a></sup>, но начиная с июньского номера 1940 года <span lang="en" style="font-style:italic;">Fantastic Adventures</span> выходил в стандартном для бульварных журналов формате. К концу 1940 года журнал был на грани закрытия, но его спасли неожиданно хорошие продажи октябрьского номера 1940 года, чему способствовала сильная обложка <a href="/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%94%D0%B6%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81" title="Сент-Джон, Джеймс">Джеймса Аллена Сент-Джона</a> с иллюстрацией к «Джонгору» (<span lang="en" style="font-style:italic;">Jongor of Lost Land</span>) <a href="/wiki/%D0%9C%D1%83%D1%80_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Мур Уильямс, Роберт">Роберта Мура Уильямса</a>. К маю 1941 года журнал выходил ежемесячно. Историки научной фантастики считают, что Палмеру не удавалось поддерживать неизменно высокий уровень художественных произведений, но <span lang="en" style="font-style:italic;">Fantastic Adventures</span> вскоре приобрёл репутацию журнала весёлых и причудливых историй. Большая часть материала была написана небольшой группой писателей, публиковавшихся как под собственными именами, так и под псевдонимами. Обложки, как и у многих других бульварных журналов той эпохи, часто изображали красивых женщин в драматичных боевых сценах. Одним из постоянных художников был <a class="mw-redirect" href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8,_%D0%93%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC" title="Макколи, Гарольд Уильям"> Гарольд Уильям Макколи</a>, чьи обложки с гламурными «МакДевушками» (<span lang="en" style="font-style:italic;">MacGirl</span>) пользовались популярностью у читателей, хотя акцент на привлекательных и временами довольно откровенно одетых женщинах вызывал и некоторые возражения.
+</p><p>В 1949 году Палмер покинул Ziff-Davis и его заменил увлечённый знаток фэнтези <span data-interwiki-article="Howard Browne" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4&amp;action=edit&amp;redlink=1" title="Браун, Говард (страница отсутствует)">Говард Браун</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Howard_Browne" title="en:Howard Browne"><span title="Howard Browne — версия статьи «Браун, Говард» на английском языке">[англ.]</span></a></sup>. Брауну удалось на некоторое время повысить качество публикуемых в <span lang="en" style="font-style:italic;">Fantastic Adventures</span> произведений, и период около 1951 года многие считают временем расцвета журнала. После того, как план по продвижению <span lang="en" style="font-style:italic;">Amazing Stories</span> в верхние сегменты рынка провалился, Браун потерял интерес к журналу и тот снова стал предсказуемым. В 1952 году Ziff-Davis запустил ещё один журнал фэнтези под названием <span lang="en" style="font-style:italic;"><span data-interwiki-article="Fantastic (magazine)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Fantastic_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" title="Fantastic (журнал) (страница отсутствует)">Fantastic</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Fantastic_(magazine)" title="en:Fantastic (magazine)"><span title="Fantastic (magazine) — версия статьи «Fantastic (журнал)» на английском языке">[англ.]</span></a></sup></span>, выходивший в формате дайджеста; новый журнал оказался успешным, и через несколько месяцев было принято решение отказаться от публикации <span lang="en" style="font-style:italic;">Fantastic Adventures</span> в пользу <span lang="en" style="font-style:italic;">Fantastic</span>. Мартовский выпуск <span lang="en" style="font-style:italic;">Fantastic Adventures</span> 1953 года стал последним.
+</p>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="ru"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_публикаций"><span class="tocnumber">1</span> <span class="toctext">История публикаций</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Содержание_и_критика"><span class="tocnumber">2</span> <span class="toctext">Содержание и критика</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Палмер"><span class="tocnumber">2.1</span> <span class="toctext">Палмер</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Браун"><span class="tocnumber">2.2</span> <span class="toctext">Браун</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Библиографические_данные"><span class="tocnumber">3</span> <span class="toctext">Библиографические данные</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Комментарии"><span class="tocnumber">4</span> <span class="toctext">Комментарии</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="История_публикаций"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D0.BF.D1.83.D0.B1.D0.BB.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B9"></span>История публикаций</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История публикаций»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=1" title="Редактировать код раздела «История публикаций»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Fantastic_Adventures_1940_Oct_cover.jpg"><img class="mw-file-element" data-file-height="559" data-file-width="390" decoding="async" height="315" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fantastic_Adventures_1940_Oct_cover.jpg/220px-Fantastic_Adventures_1940_Oct_cover.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fantastic_Adventures_1940_Oct_cover.jpg/330px-Fantastic_Adventures_1940_Oct_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/c2/Fantastic_Adventures_1940_Oct_cover.jpg 2x" width="220"/></a><figcaption>Обложка октябрьского номера 1940 года, нарисованная Джеймсом Алленом Сент-Джоном, помогла спасти журнал от закрытия</figcaption></figure>
+<p>Хотя научно-фантастические произведения выходили и до 1920-х годов, о формировании отдельного жанра с собственным рынком нельзя было говорить до появления в 1926 году журнала <span lang="en" style="font-style:italic;">Amazing Stories</span>, издаваемого <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BD%D1%81%D0%B1%D0%B5%D0%BA,_%D0%A5%D1%8C%D1%8E%D0%B3%D0%BE" title="Гернсбек, Хьюго">Хьюго Гернсбеком</a>. К концу 1930 годов отрасль переживала первый бум<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>. Гернсбэк потерял контроль над <span lang="en" style="font-style:italic;">Amazing Stories</span> в 1929 году: журнал был продан <span lang="en" style="font-style:italic;">Teck Publications</span>, а затем, в 1938 году, приобретён Ziff-Davis<sup class="reference" id="cite_ref-_f58d57c49fdea412_2-0"><a href="#cite_note-_f58d57c49fdea412-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_1dc94c1ba74ad2c8_3-0"><a href="#cite_note-_1dc94c1ba74ad2c8-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>. В следующем году Ziff-Davis запустило <span lang="en" style="font-style:italic;">Fantastic Adventures</span> в качестве дополнения к <span lang="en" style="font-style:italic;">Amazing</span>; первый выпуск был датирован маем 1939 года, редактор <span lang="en" style="font-style:italic;">Amazing</span> <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%BC%D0%B5%D1%80,_%D0%A0%D1%8D%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4_%D0%90%D1%80%D1%82%D1%83%D1%80" title="Палмер, Рэймонд Артур">Рэй Палмер</a> взял на себя ответственность и за новый журнал<sup class="reference" id="cite_ref-_420a21255f360085_4-0"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>.
+</p><p><span lang="en" style="font-style:italic;">Fantastic Adventures</span> начал выходить в <span data-interwiki-article="Bedsheet" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Bedsheet&amp;action=edit&amp;redlink=1" title="Bedsheet (страница отсутствует)">формате <span lang="en" style="font-style:italic;">bedsheet</span></a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Bedsheet" title="en:Bedsheet"><span title="Bedsheet — версия статьи «Bedsheet» на английском языке">[англ.]</span></a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>комм. 1<span class="cite-bracket">]</span></a></sup>, как и ранние научно-фантастические журналы, такие как <span lang="en" style="font-style:italic;">Amazing</span><sup class="reference" id="cite_ref-:0_7-0"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:1_8-0"><a href="#cite_note-:1-8"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. Возможно этот формат был выбран для того, чтобы привлечь читателей, испытывающих ностальгию по большим журналам<sup class="reference" id="cite_ref-:2_9-0"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Изначально новые номера появлялись раз в два месяца, но с января 1940 года <span lang="en" style="font-style:italic;">Fantastic Adventures</span> перешёл на ежемесячный график выпусков. Однако продажи нового журнала были хуже, чем у <span lang="en" style="font-style:italic;">Amazing</span>, и с июньским номером график выпусков снова стал двухмесячным. Формат также был уменьшен до стандартного для бульварных журналов, так как это позволяло снизить стоимость производства. Продажи не улучшались, и Ziff-Davis планировало, что октябрьский выпуск станет последним. В этом выпуске было напечатано произведение <span data-interwiki-article="Robert Moore Williams" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%9C%D1%83%D1%80&amp;action=edit&amp;redlink=1" title="Уильямс, Роберт Мур (страница отсутствует)">Роберта Мура Уильямса</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Robert_Moore_Williams" title="en:Robert Moore Williams"><span title="Robert Moore Williams — версия статьи «Уильямс, Роберт Мур» на английском языке">[англ.]</span></a></sup> «Джонгор» (<span lang="en" style="font-style:italic;">Jongor of Lost Land</span>), а обложка была нарисована <span data-interwiki-article="J. Allen St. John" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A1%D0%B5%D0%BD%D1%82-%D0%94%D0%B6%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%90%D0%BB%D0%BB%D0%B5%D0%BD&amp;action=edit&amp;redlink=1" title="Сент-Джон, Джеймс Аллен (страница отсутствует)">Джеймсом Алленом Сент-Джоном</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/J._Allen_St._John" title="en:J. Allen St. John"><span title="J. Allen St. John — версия статьи «Сент-Джон, Джеймс Аллен» на английском языке">[англ.]</span></a></sup>. Эта комбинация оказалась настолько успешной, что октябрьские продажи в два раза превысили показатели августа. Это убедило Ziff-Davis в жизнеспособности журнала, и с января 1941 года он снова стал выходить, сначала раз в два месяца, а с мая того же года — ежемесячно<sup class="reference" id="cite_ref-_420a21255f360085_4-1"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_9-1"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>В 1950 году редактором <span lang="en" style="font-style:italic;">Amazing Stories</span> и <span lang="en" style="font-style:italic;">Fantastic Adventures</span> стал Говард Браун. Он предпочитал фэнтези научной фантастике и с удовольствием редактировал <span lang="en" style="font-style:italic;">Fantastic Adventures</span>, но когда его план по продвижению <span lang="en" style="font-style:italic;">Amazing Stories</span> в верхние сегменты рынка был сорван <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Корейская война">Корейской войной</a>, Браун на некоторое время потерял интерес к обоим журналам<sup class="reference" id="cite_ref-_1ac5a2685e873bdf_10-0"><a href="#cite_note-_1ac5a2685e873bdf-10"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_da785361129f4cf9_11-0"><a href="#cite_note-_da785361129f4cf9-11"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>. Он позволил <span data-interwiki-article="William Hamling (publisher)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A5%D1%8D%D0%BC%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81&amp;action=edit&amp;redlink=1" title="Хэмлинг, Уильям Лоуренс (страница отсутствует)">Уильяму Хэмлингу</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/William_Hamling_(publisher)" title="en:William Hamling (publisher)"><span title="William Hamling (publisher) — версия статьи «Хэмлинг, Уильям Лоуренс» на английском языке">[англ.]</span></a></sup> взять на себя ответственность за журналы, что плохо сказалось на качестве. В конце 1950 года Ziff-Davis переехало из Чикаго в Нью-Йорк; Браун переехал в Нью-Йорк, но Хэмлинг решил остаться в Чикаго, поэтому Брауну пришлось снова погрузиться в редактирование журнала. Такие историки научной фантастики, как <a href="/wiki/%D0%A1%D1%82%D1%8D%D0%B1%D0%BB%D1%84%D0%BE%D1%80%D0%B4,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD" title="Стэблфорд, Брайан">Брайан Стэблфорд</a> и <span data-interwiki-article="Mike Ashley (writer)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%AD%D1%88%D0%BB%D0%B8,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB_%D0%A0%D1%8D%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4_%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4&amp;action=edit&amp;redlink=1" title="Эшли, Майкл Рэймонд Дональд (страница отсутствует)">Майк Эшли</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Mike_Ashley_(writer)" title="en:Mike Ashley (writer)"><span title="Mike Ashley (writer) — версия статьи «Эшли, Майкл Рэймонд Дональд» на английском языке">[англ.]</span></a></sup>, считают, что результатом стало явное улучшение качества<sup class="reference" id="cite_ref-:1_8-1"><a href="#cite_note-:1-8"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_1ac5a2685e873bdf_10-1"><a href="#cite_note-_1ac5a2685e873bdf-10"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>. Интерес Брауна к фэнтези побудил его летом 1952 года основать новый журнал дайджест-формата <span data-interwiki-article="Fantastic (magazine)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Fantastic_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" title="Fantastic (журнал) (страница отсутствует)"><span lang="en" style="font-style:italic;">Fantastic</span></a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Fantastic_(magazine)" title="en:Fantastic (magazine)"><span title="Fantastic (magazine) — версия статьи «Fantastic (журнал)» на английском языке">[англ.]</span></a></sup>; быстрый успех нового проекта побудил Ziff-Davis преобразовать в формат дайджеста и <span lang="en" style="font-style:italic;">Amazing Stories</span>. В начале 1950 годов бульварные журналы активно замещались дайджестами, на фоне успеха <span lang="en" style="font-style:italic;">Fantastic</span> причин продолжать издавать <span lang="en" style="font-style:italic;">Fantastic Adventures</span> было довольно мало. Журнал был объединён с <span lang="en" style="font-style:italic;">Fantastic</span>; последний выпуск датирован мартом 1953 года, в выходных данных выпуска <span lang="en" style="font-style:italic;">Fantastic</span> за май-июнь есть упоминание <span lang="en" style="font-style:italic;">Fantastic Adventures</span>, но уже в следующем номере оно пропадает<sup class="reference" id="cite_ref-_da785361129f4cf9_11-1"><a href="#cite_note-_da785361129f4cf9-11"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Содержание_и_критика"><span id=".D0.A1.D0.BE.D0.B4.D0.B5.D1.80.D0.B6.D0.B0.D0.BD.D0.B8.D0.B5_.D0.B8_.D0.BA.D1.80.D0.B8.D1.82.D0.B8.D0.BA.D0.B0"></span>Содержание и критика</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Содержание и критика»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=2" title="Редактировать код раздела «Содержание и критика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="mw-heading mw-heading3"><h3 id="Палмер"><span id=".D0.9F.D0.B0.D0.BB.D0.BC.D0.B5.D1.80"></span>Палмер</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Палмер»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=3" title="Редактировать код раздела «Палмер»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Fantastic_Adventures_1941_Jan_cover.jpg"><img class="mw-file-element" data-file-height="557" data-file-width="380" decoding="async" height="322" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Fantastic_Adventures_1941_Jan_cover.jpg/220px-Fantastic_Adventures_1941_Jan_cover.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Fantastic_Adventures_1941_Jan_cover.jpg/330px-Fantastic_Adventures_1941_Jan_cover.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/71/Fantastic_Adventures_1941_Jan_cover.jpg 2x" width="220"/></a><figcaption> Обложка январского выпуска 1941 года; художник — <span data-interwiki-article="Harold W. McCauley" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B8,_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4_%D0%92%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC&amp;action=edit&amp;redlink=1" title="Маккали, Говард Вильям (страница отсутствует)">Говард Вильям Маккали</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Harold_W._McCauley" title="en:Harold W. McCauley"><span title="Harold W. McCauley — версия статьи «Маккали, Говард Вильям» на английском языке">[англ.]</span></a></sup>. Эти обложки с «МакДевушками» (<span lang="en" style="font-style:italic;">MacGirl</span>), как их называли, начали появляться с конца 1940 года, заменив собой обложки с боевыми сценами.</figcaption></figure>
+<p>Целью Палмера было превращение <span lang="en" style="font-style:italic;">Fantastic Adventures</span> в журнал фэнтези, не уступающий в литературном отношении своим «серьёзным» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a> <span lang="en" style="font-style:italic;">slick</span>) конкурентам, таким как <span lang="en" style="font-style:italic;"><a href="/wiki/The_Saturday_Evening_Post" title="The Saturday Evening Post">The Saturday Evening Post</a></span><sup class="reference" id="cite_ref-_420a21255f360085_4-2"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. Хотя смешение научной фантастики и фэнтези не пользовалось популярностью среди любителей фантастики той эпохи, Палмер сознательно продвигал журнал как объединение лучшего из обоих направлений. На обложке журнала размещался лозунг: «Лучшее в научной фантастике» (<span lang="en" style="font-style:italic;">The Best in Science Fiction</span>), а также Палмер рекламировал <span lang="en" style="font-style:italic;">Fantastic Adventures</span> в <span lang="en" style="font-style:italic;">Amazing Stories</span>, превознося ценность, которую для читателя представляет объединение обоих жанров в одном журнале<sup class="reference" id="cite_ref-:2_9-2"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Среди основных конкурентов <span lang="en" style="font-style:italic;">Fantastic Adventures</span> можно отметить журнал <span lang="en" style="font-style:italic;"><a href="/wiki/Unknown" title="Unknown">Unknown</a></span>, запущенный всего на пару месяцев раньше, в марте 1939 года, и <span lang="en" style="font-style:italic;"><a href="/wiki/Weird_Tales" title="Weird Tales">Weird Tales</a></span>, впервые появившийся в 1923 году, однако вместо того, чтобы пытаться подражать любому из них, редакторы <span lang="en" style="font-style:italic;">Fantastic Adventures</span> делали акцент на приключенческих историях в стиле <a href="/wiki/%D0%91%D0%B5%D1%80%D1%80%D0%BE%D1%83%D0%B7,_%D0%AD%D0%B4%D0%B3%D0%B0%D1%80_%D0%A0%D0%B0%D0%B9%D1%81" title="Берроуз, Эдгар Райс">Эдгара Райса Берроуза</a>. Палмер, вероятно, приобрёл часть работ в жанре фэнтези, которые были отправлены в <span lang="en" style="font-style:italic;">Amazing Stories</span>, что сразу дало ему множество материалов для работы<sup class="reference" id="cite_ref-_420a21255f360085_4-3"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. Однако, по словам Эшли, первый выпуск был довольно слабым: на обложке был «Невидимый Робин Гуд» (<span lang="en" style="font-style:italic;">The Invisible Robinhood</span>) <a href="/wiki/%D0%AD%D0%BD%D0%B4%D0%BE_%D0%91%D0%B8%D0%BD%D0%B4%D0%B5%D1%80" title="Эндо Биндер">Эндо Биндера</a>, среди других авторов были <a href="/wiki/%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82,_%D0%A5%D0%B0%D1%80%D0%BB" title="Винсент, Харл">Харл Винсент</a>, <span data-interwiki-article="Ross Rocklynne" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A0%D0%BE%D0%BA%D0%BB%D0%B8%D0%BD%D0%BD,_%D0%A0%D0%BE%D1%81%D1%81&amp;action=edit&amp;redlink=1" title="Роклинн, Росс (страница отсутствует)">Росс Роклинн</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Ross_Rocklynne" title="en:Ross Rocklynne"><span title="Ross Rocklynne — версия статьи «Роклинн, Росс» на английском языке">[англ.]</span></a></sup> и <a href="/wiki/%D0%92%D0%B5%D1%80%D1%80%D0%B8%D0%BB,_%D0%90%D0%BB%D1%84%D0%B5%D1%83%D1%81_%D0%A5%D0%B0%D0%B9%D0%B0%D1%82" title="Веррил, Алфеус Хайат">Алфеус Хайат Веррил</a><sup class="reference" id="cite_ref-_420a21255f360085_4-4"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>. В качестве дополнительных элементов в номере были размещены викторина, профили авторов и комикс «Рэй Холмс, научный детектив»: читатель должен был сам разгадать тайну, основываясь на данных ему подсказках. Комикс оказался провалом и после первого выпуска больше не появлялся<sup class="reference" id="cite_ref-:2_9-3"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Размещённая на задней обложке иллюстрация <a href="/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D1%8C,_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA_%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84" title="Пауль, Фрэнк Рудольф">Фрэнка Пауля</a> «Человек с Марса» (<span lang="en" style="font-style:italic;">The Man from Mars</span>), была более успешной<sup class="reference" id="cite_ref-_420a21255f360085_4-5"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>, и иллюстрированные задние обложки стали постоянным элементом журнала<sup class="reference" id="cite_ref-:2_9-4"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>В следующем выпуске была опубликована «Революция учёных» (<span lang="en" style="font-style:italic;">The Scientists' Revolt</span>) Эдгара Райса Берроуза, чьё имя практически гарантировало хорошие продажи. Эшли отмечает, что произведение было довольно посредственным: сюжет разворачивался вокруг дворцовой интриги в современной Европе. Берроуз никак не мог найти издателя, который согласился бы купить эту работу. В конце концов «Революцию учёных» приобрёл Палмер, переписал её и перенёс действие в будущее. Несмотря на слабость основного произведения, второй выпуск был заметно лучше первого, в нём были напечатаны хорошо принятые работы <span data-interwiki-article="Nelson S. Bond" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%91%D0%BE%D0%BD%D0%B4,_%D0%9D%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD_%D0%A1%D0%BB%D0%B5%D0%B9%D0%B4&amp;action=edit&amp;redlink=1" title="Бонд, Нельсон Слейд (страница отсутствует)">Нельсона Бонда</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Nelson_S._Bond" title="en:Nelson S. Bond"><span title="Nelson S. Bond — версия статьи «Бонд, Нельсон Слейд» на английском языке">[англ.]</span></a></sup> и <span data-interwiki-article="John Russell Fearn" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A4%D0%B8%D1%80%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BB&amp;action=edit&amp;redlink=1" title="Фирн, Джон Рассел (страница отсутствует)">Джона Рассела Фирна</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/John_Russell_Fearn" title="en:John Russell Fearn"><span title="John Russell Fearn — версия статьи «Фирн, Джон Рассел» на английском языке">[англ.]</span></a></sup> (под псевдонимом «Торнтон Эйр»)<sup class="reference" id="cite_ref-:2_9-5"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Берроуз вернулся в <span lang="en" style="font-style:italic;">Fantastic Adventures</span> в 1941 году с несколькими новеллами из серии «<span data-interwiki-article="Amtor" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D1%81%D0%BE%D0%BD_%D1%81_%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D1%8B&amp;action=edit&amp;redlink=1" title="Карсон с Венеры (страница отсутствует)">Карсон с Венеры</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Amtor" title="en:Amtor"><span title="Amtor — версия статьи «Карсон с Венеры» на английском языке">[англ.]</span></a></sup>» (<span lang="en" style="font-style:italic;">Carson of Venus</span>): в период с марта 1941 по март 1942 года было опубликовано четыре произведения, каждое из которых удостоилось иллюстрации Джеймса Аллена Сент-Джона на обложке, в результате чего продажи <span lang="en" style="font-style:italic;">Fantastic Adventures</span> значительно возросли<sup class="reference" id="cite_ref-:2_9-6"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:MastersOfSleep.jpg"><img class="mw-file-element" data-file-height="526" data-file-width="360" decoding="async" height="321" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MastersOfSleep.jpg/220px-MastersOfSleep.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MastersOfSleep.jpg/330px-MastersOfSleep.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fa/MastersOfSleep.jpg 2x" width="220"/></a><figcaption> Обложка октябрьского номера 1950 года. Художник <a class="new" href="/w/index.php?title=%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%93%D0%B8%D0%B1%D1%81%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" title="Джонс, Роберт Гибсон (страница отсутствует)">Роберт Гибсон Джонс</a> нарисовал иллюстрацию к произведению <a href="/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%B0%D1%80%D0%B4,_%D0%9B%D0%B0%D1%84%D0%B0%D0%B9%D0%B5%D1%82_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4" title="Хаббард, Лафайет Рональд">Рона Хаббарда</a> «Хозяева сна» (<span lang="en" style="font-style:italic;">Masters of Sleep</span>)</figcaption></figure>
+<p>Большая часть произведений для <span lang="en" style="font-style:italic;">Fantastic Adventures</span> была написана небольшой группой писателей, часто работавших под псевдонимами. Костяк группы составляли <span data-interwiki-article="William P. McGivern" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D0%93%D0%B8%D0%B2%D0%B5%D1%80%D0%BD,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%9F%D0%B8%D1%82%D0%B5%D1%80&amp;action=edit&amp;redlink=1" title="МакГиверн, Уильям Питер (страница отсутствует)">Уильям МакГиверн</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/William_P._McGivern" title="en:William P. McGivern"><span title="William P. McGivern — версия статьи «МакГиверн, Уильям Питер» на английском языке">[англ.]</span></a></sup>, <span data-interwiki-article="David Wright O'Brien" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9E%27%D0%91%D1%80%D0%B0%D0%B9%D0%B5%D0%BD,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4_%D0%A0%D0%B0%D0%B9%D1%82&amp;action=edit&amp;redlink=1" title="О'Брайен, Дэвид Райт (страница отсутствует)">Дэвид Райт О'Брайен</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/David_Wright_O%27Brien" title="en:David Wright O'Brien"><span title="David Wright O'Brien — версия статьи «О'Брайен, Дэвид Райт» на английском языке">[англ.]</span></a></sup>, <a class="new" href="/w/index.php?title=%D0%A3%D0%B8%D0%BB%D0%BA%D0%BE%D0%BA%D1%81,_%D0%94%D0%BE%D0%BD&amp;action=edit&amp;redlink=1" title="Уилкокс, Дон (страница отсутствует)">Дон Уилкокс</a>, <a class="new" href="/w/index.php?title=%D0%93%D0%B5%D0%B9%D0%B5%D1%80,_%D0%A7%D0%B5%D1%81%D1%82%D0%B5%D1%80&amp;action=edit&amp;redlink=1" title="Гейер, Честер (страница отсутствует)">Честер Гейер</a>, <span data-interwiki-article="Rog Phillips" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%93%D1%80%D1%8D%D0%BC,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80_%D0%A4%D0%B8%D0%BB%D0%BB%D0%B8%D0%BF%D1%81&amp;action=edit&amp;redlink=1" title="Грэм, Роджер Филлипс (страница отсутствует)">Рог Филлипс</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Rog_Phillips" title="en:Rog Phillips"><span title="Rog Phillips — версия статьи «Грэм, Роджер Филлипс» на английском языке">[англ.]</span></a></sup>, <a class="new" href="/w/index.php?title=%D0%99%D0%B5%D1%80%D0%BA%D1%81%D0%B0,_%D0%9B%D0%B5%D1%80%D0%BE%D0%B9&amp;action=edit&amp;redlink=1" title="Йеркса, Лерой (страница отсутствует)">Лерой Йеркса</a>, Роберт Мур Уильямс, <a href="/wiki/%D0%91%D0%BB%D0%BE%D1%85,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Блох, Роберт">Роберт Блох</a> и <a class="new" href="/w/index.php?title=%D0%9B%D0%B8%D0%B2%D0%B8%D0%BD%D0%B3%D1%81%D1%82%D0%BE%D0%BD,_%D0%91%D0%B5%D1%80%D0%BA%D0%BB%D0%B8&amp;action=edit&amp;redlink=1" title="Ливингстон, Беркли (страница отсутствует)">Беркли Ливингстон</a><sup class="reference" id="cite_ref-:2_9-7"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_8e18932eb5df3d70_13-0"><a href="#cite_note-_8e18932eb5df3d70-13"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>. По мнению Эшли, значительная часть опубликованного материала плохо прошла испытание временем, но Палмеру часто удавалось найти хорошие истории у непостоянных авторов журнала: например, он купил несколько рассказов <a href="/wiki/%D0%94%D0%B5%D1%80%D0%BB%D0%B5%D1%82,_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82" title="Дерлет, Август">Августа Дерлета</a>. <a href="/wiki/%D0%91%D1%80%D1%8D%D0%B4%D0%B1%D0%B5%D1%80%D0%B8,_%D0%A0%D1%8D%D0%B9" title="Брэдбери, Рэй">Рэй Брэдбери</a> также печатался в <span lang="en" style="font-style:italic;">Fantastic Adventures</span>: рассказ «Завтра, завтра, завтра» (<span lang="en" style="font-style:italic;">Tomorrow and Tomorrow</span>), появившийся в 1947 году, был его единственной публикацией в журнале, но Эшли считает его «одним из лучших рассказов, опубликованных [<span lang="en" style="font-style:italic;">Fantastic Adventures</span>] в 1940-х годах»<sup class="reference" id="cite_ref-:2_9-8"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Одним из первых авторов был Нельсон Бонд, чья работа «Судейство жрицы» (<span lang="en" style="font-style:italic;">The Judging of the Priestess</span>) появилась в апрельском номере 1940 года. Это был второй из трёх высоко оценённых критиками рассказов о жрице; действие произведений разворачивается в будущем, после крушения цивилизации. Первая и третья части серии были опубликованы в <span lang="en" style="font-style:italic;">Amazing Stories</span> и <span lang="en" style="font-style:italic;"><a class="mw-redirect" href="/wiki/Astounding_Science_Fiction" title="Astounding Science Fiction">Astounding Stories</a></span> соответственно<sup class="reference" id="cite_ref-_420a21255f360085_4-6"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. Бонд также написал юмористический рассказ под названием «Удивительное изобретение Вильберфорса Вима» (<span lang="en" style="font-style:italic;">The Amazing Invention of Wilberforce Weems</span>), который появился в сентябрьском номере 1939 года и описывал последствия появления зелья, позволяющего мгновенно впитывать знания из любой книги. Палмер подталкивал авторов к проработке самых причудливых идей, возникавшие в результате необычные произведения дали <span lang="en" style="font-style:italic;">Fantastic Adventures</span> репутацию журнала весёлого и увлекательного фэнтези<sup class="reference" id="cite_ref-_420a21255f360085_4-7"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. У публиковавшихся историй часто были абсурдные названия: «Трудности Квантуса Кваггла» (<span lang="en" style="font-style:italic;">The Quandary of Quantus Quaggle</span>), «Сидни, разболтанный робот» (<span lang="en" style="font-style:italic;">Sidney, the Screwloose Robot</span>) (оба написаны МакГиверном) и «Странная участь Флойда Скрилча» (<span lang="en" style="font-style:italic;">The Weird Doom of Floyd Scrilch</span>) <a href="/wiki/%D0%91%D0%BB%D0%BE%D1%85,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Блох, Роберт">Роберта Блоха</a> — один из серии рассказов о Левше Фипе, почти все из которых появлялись в <span lang="en" style="font-style:italic;">Fantastic Adventures</span> между 1942 и 1945 годами<sup class="reference" id="cite_ref-_420a21255f360085_4-8"><a href="#cite_note-_420a21255f360085-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>. Роберт Мур Уильямс опубликовал в <span lang="en" style="font-style:italic;">Fantastic Adventures</span> два продолжения своего успешного произведения «Джонгор»: «Возвращение Джонгора» (<span lang="en" style="font-style:italic;">The Return of Jongor</span>) в 1944 году и «Месть Джонгора» (<span lang="en" style="font-style:italic;">Jongor Fights Back</span>) в 1951 году<sup class="reference" id="cite_ref-:2_9-9"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>Палмер любил розыгрыши, например, мог напечатать фотографию писателя, хотя на самом деле автор подписался псевдонимом. В февральском выпуске <span lang="en" style="font-style:italic;">Fantastic Adventures</span> за 1944 год Палмер напечатал письмо, автором которого якобы был путешествующий во времени учёный, рождённый в 1970 году, при этом его машина времени была вдохновлена историей из журнала. Палмер сделал вид, что воспринял письмо всерьёз и призвал читателей найти учёного<sup class="reference" id="cite_ref-_1dc9461ba74ac8f3_14-0"><a href="#cite_note-_1dc9461ba74ac8f3-14"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>. Самым успешным розыгрышем Палмера была «Тайна Шейвера»: серия рассказов, автор которых <span data-interwiki-article="Richard Sharpe Shaver" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A8%D0%B5%D0%B9%D0%B2%D0%B5%D1%80,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_%D0%A8%D0%B0%D1%80%D0%BF&amp;action=edit&amp;redlink=1" title="Шейвер, Ричард Шарп (страница отсутствует)">Ричард Шейвер</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Richard_Sharpe_Shaver" title="en:Richard Sharpe Shaver"><span title="Richard Sharpe Shaver — версия статьи «Шейвер, Ричард Шарп» на английском языке">[англ.]</span></a></sup> объяснял все катастрофы и несчастные случаи результатом работы <span data-interwiki-article="Subterranean fiction" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D1%84%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" title="Подземная фантастика (страница отсутствует)">спрятанных под землёй</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Subterranean_fiction" title="en:Subterranean fiction"><span title="Subterranean fiction — версия статьи «Подземная фантастика» на английском языке">[англ.]</span></a></sup> древних механизмов. Серия пользовалась огромной популярностью; все рассказы Шейвера были опубликованы в сопутствующем журнале <span lang="en" style="font-style:italic;">Amazing Stories</span> (что побудило Эшли охарактеризовать <span lang="en" style="font-style:italic;">Fantastic Adventures</span> как «убежище» от них), но некоторые фэнтези-произведения Шейвера появлялись и в <span lang="en" style="font-style:italic;">Fantastic Adventures</span><sup class="reference" id="cite_ref-:2_9-10"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_1dc9461ba74ac8f3_14-1"><a href="#cite_note-_1dc9461ba74ac8f3-14"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-_1dc9431ba74ac381_15-0"><a href="#cite_note-_1dc9431ba74ac381-15"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>. Благодаря повышенному спросу в конце 1940 годов <span lang="en" style="font-style:italic;">Amazing</span> и <span lang="en" style="font-style:italic;">Fantastic Adventures</span> вернулись к ежемесячному графику выпусков<sup class="reference" id="cite_ref-_9ff0fc10d81c17b4_16-0"><a href="#cite_note-_9ff0fc10d81c17b4-16"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Браун"><span id=".D0.91.D1.80.D0.B0.D1.83.D0.BD"></span>Браун</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Браун»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=4" title="Редактировать код раздела «Браун»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Когда в начале 1950 года ответственность за журнал взял на себя Браун, большую часть редакционной работы выполнял Уильям Хэмлинг. У Брауна не было полного контроля над журналом вплоть до конца года, пока Хэмлинг и Палмер не покинули Ziff-Davis. После этого качество литературы быстро улучшилось, и первые год или два пребывания Брауна в должности считаются лучшим периодом в истории <span lang="en" style="font-style:italic;">Fantastic Adventures</span><sup class="reference" id="cite_ref-:1_8-2"><a href="#cite_note-:1-8"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_9-11"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. В феврале 1950 года в журнале появился роман <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B4%D0%B6%D0%BE%D0%BD,_%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80" title="Старджон, Теодор">Теодора Стерджона</a> «Малыш и кристаллы» (<span lang="en" style="font-style:italic;">The Dreaming Jewels</span>), а также заслуживающие внимания работы <a href="/wiki/%D0%9B%D0%B5%D1%81%D1%82%D0%B5%D1%80_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%A0%D0%B5%D0%B9" title="Лестер дель Рей">Лестера дель Рея</a>, <a href="/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%A2%D0%B5%D0%BD%D0%BD" title="Уильям Тенн">Уильяма Тенна</a> и <a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80,_%D0%A3%D0%BE%D0%BB%D1%82%D0%B5%D1%80_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB" title="Миллер, Уолтер Майкл">Уолтера Майкла Миллера</a><sup class="reference" id="cite_ref-:1_8-3"><a href="#cite_note-:1-8"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. В апрельском номере <span lang="en" style="font-style:italic;">Fantastic Adventures</span> 1950 года было опубликовано первое произведение <a href="/wiki/%D0%A0%D0%B5%D0%B9%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4%D1%81,_%D0%9C%D0%B0%D0%BA" title="Рейнольдс, Мак">Мака Рейнольдса</a> «Изоляционист» (<span lang="en" style="font-style:italic;">Isolationist</span>). Рейнольдс чаще публиковался в <span lang="en" style="font-style:italic;">Astounding Science Fiction</span>, а не в журналах Ziff-Davis, но некоторые радикальные политические темы из его более поздних работ прослеживаются уже в «Изоляционисте». В рассказе описываются готовые помочь инопланетяне, покидающие Землю в преддверии атомной войны из-за враждебности первого землянина, с которым они столкнулись<sup class="reference" id="cite_ref-_1ac5a2685e873bde_17-0"><a href="#cite_note-_1ac5a2685e873bde-17"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup>. В том же году в <span lang="en" style="font-style:italic;">Fantastic Adventures</span> дебютировал <a href="/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D1%81,_%D0%94%D0%B6%D0%BE%D0%BD" title="Джейкс, Джон">Джон Джейкс</a>: рассказ «Спящие деревья» (<span lang="en" style="font-style:italic;">The Dreaming Trees</span>) был опубликован в ноябрьском выпуске 1950 года<sup class="reference" id="cite_ref-:2_9-12"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>В целом качество публикуемой литературы было низким, но, по словам историка научной фантастики <a href="/wiki/%D0%A1%D1%82%D1%8D%D0%B1%D0%BB%D1%84%D0%BE%D1%80%D0%B4,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD" title="Стэблфорд, Брайан">Брайана Стэблфорда</a>, «писатели, получившие карт-бланш на написание чистого фэнтези для [<span lang="en" style="font-style:italic;">Fantastic Adventures</span>], часто создавали читаемую беллетристику с характерным причудливым и ироничным привкусом»<sup class="reference" id="cite_ref-:1_8-4"><a href="#cite_note-:1-8"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>. По оценке критика <a href="/wiki/%D0%9A%D0%BB%D1%8E%D1%82,_%D0%94%D0%B6%D0%BE%D0%BD" title="Клют, Джон">Джона Клюта</a>, качество литературы в <span lang="en" style="font-style:italic;">Fantastic Adventures</span> было непостоянно, «но в нём было несколько потрясающих историй. Пусть мало, но они были»<sup class="reference" id="cite_ref-_a0e660ff687f32da_18-0"><a href="#cite_note-_a0e660ff687f32da-18"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>. Среди известных рассказов послевоенной эпохи можно отметить «Ларго» (<span lang="en" style="font-style:italic;">Largo</span>) Теодора Стерджона и «Детскую комнату» (<span lang="en" style="font-style:italic;">The Children's Room</span>) <span data-interwiki-article="Raymond F. Jones" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%A0%D0%B0%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4_%D0%A4%D0%B8%D1%88%D0%B5%D1%80&amp;action=edit&amp;redlink=1" title="Джонс, Раймонд Фишер (страница отсутствует)">Раймонда Джонса</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Raymond_F._Jones" title="en:Raymond F. Jones"><span title="Raymond F. Jones — версия статьи «Джонс, Раймонд Фишер» на английском языке">[англ.]</span></a></sup>. Художественное оформление, как правило, было более высокого качества, чем сами рассказы. Эшли описывает <span lang="en" style="font-style:italic;">Fantastic Adventures</span> как «один из самых хорошо иллюстрированных журналов». Среди сотрудничавших с журналом художников можно отметить <a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8D%D0%B9,_%D0%92%D1%91%D1%80%D0%B4%D0%B6%D0%B8%D0%BB" title="Финлэй, Вёрджил">Вёрджила Финлэя</a>, Генри Шарпа, Рода Рута и <span data-interwiki-article="Malcolm Smith (artist)" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%A1%D0%BC%D0%B8%D1%82,_%D0%9C%D0%B0%D0%BB%D0%BA%D0%BE%D0%BB%D1%8C%D0%BC_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;redlink=1" title="Смит, Малкольм (художник) (страница отсутствует)">Малкольма Смита</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Malcolm_Smith_(artist)" title="en:Malcolm Smith (artist)"><span title="Malcolm Smith (artist) — версия статьи «Смит, Малкольм (художник)» на английском языке">[англ.]</span></a></sup><sup class="reference" id="cite_ref-:2_9-13"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. Палмер говорил: «наш опыт показал, что обложки продают журналы просто потому, что привлекают внимание»<sup class="reference" id="cite_ref-:2_9-14"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>. В первый год существования <span lang="en" style="font-style:italic;">Fantastic Adventures</span> обложки, хотя и были драматичными, скорее изображали боевые сцены с героями-мужчинами, а не с девушками в беде, но в августе 1940 года на обложке появилась иллюстрация <span data-interwiki-article="Harold W. McCauley" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D0%BA%D0%B0%D0%BB%D0%B8,_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4_%D0%92%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC&amp;action=edit&amp;redlink=1" title="Маккали, Говард Вильям (страница отсутствует)">Говарда Вильяма Маккали</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Harold_W._McCauley" title="en:Harold W. McCauley"><span title="Harold W. McCauley — версия статьи «Маккали, Говард Вильям» на английском языке">[англ.]</span></a></sup> с очаровательной женщиной в сверкающем платье. Подобные обложки стали появляться все чаще, читатели и редакторы окрестили изображаемых героинь «МакДевушками» (<span lang="en" style="font-style:italic;">MacGirl</span>). Историк научной фантастики Пол Картер, комментируя переход от боевых сцен к привлекательным женщинам на обложках, предполагает, что «определённо какое-то отношение к этому имела война»<sup class="reference" id="cite_ref-_dba3db6cd4abca4e_19-0"><a href="#cite_note-_dba3db6cd4abca4e-19"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup>. На иллюстрациях к научно-фантастическим произведениям космические корабли часто изображались как фаллические символы; писатель и критик <a href="/wiki/%D0%9E%D0%BB%D0%B4%D0%B8%D1%81%D1%81,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD" title="Олдисс, Брайан">Брайан Олдисс</a> отметил, что на мартовской обложке <span lang="en" style="font-style:italic;">Fantastic Adventures</span> 1949 года в качестве фаллического символа изображена подводная лодка<sup class="reference" id="cite_ref-_07a96a530cce3954_20-0"><a href="#cite_note-_07a96a530cce3954-20"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup>. В письмах читателей часто высказывались возражения против привлекательных женщин и намёков на сексуальное содержание на обложках, но публикуемые в журнале литературные произведения были довольно скромными в данном отношении<sup class="reference" id="cite_ref-:2_9-15"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Библиографические_данные"><span id=".D0.91.D0.B8.D0.B1.D0.BB.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B5_.D0.B4.D0.B0.D0.BD.D0.BD.D1.8B.D0.B5"></span>Библиографические данные</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Библиографические данные»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=5" title="Редактировать код раздела «Библиографические данные»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable" style="font-size: 10pt; line-height: 11pt; margin-left: 2em; text-align: center; float: right">
+<tbody><tr>
+<th>
+</th>
+<th scope="col" title="Январь">Янв
+</th>
+<th scope="col" title="Февраль">Фев
+</th>
+<th scope="col" title="Март">Мар
+</th>
+<th scope="col" title="Апрель">Апр
+</th>
+<th scope="col" title="Май">Май
+</th>
+<th scope="col" title="Июнь">Июн
+</th>
+<th scope="col" title="Июль">Июл
+</th>
+<th scope="col" title="Август">Авг
+</th>
+<th scope="col" title="Сентябрь">Сен
+</th>
+<th scope="col" title="Октябрь">Окт
+</th>
+<th scope="col" title="Ноябрь">Ноя
+</th>
+<th scope="col" title="Декабрь">Дек
+</th></tr>
+<tr>
+<th scope="row">1939
+</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td bgcolor="#ccffff">1/1</td>
+<td></td>
+<td bgcolor="#ccffff">1/2</td>
+<td></td>
+<td bgcolor="#ccffff">1/3</td>
+<td></td>
+<td bgcolor="#ccffff">1/4</td>
+<td>
+</td></tr>
+<tr>
+<th scope="row">1940
+</th>
+<td bgcolor="#ccffff">2/1</td>
+<td bgcolor="#ccffff">2/2</td>
+<td bgcolor="#ccffff">2/3</td>
+<td bgcolor="#ccffff">2/4</td>
+<td bgcolor="#ccffff">2/5</td>
+<td bgcolor="#ccffff">2/6</td>
+<td></td>
+<td bgcolor="#ccffff">2/7</td>
+<td></td>
+<td bgcolor="#ccffff">2/8</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<th scope="row">1941
+</th>
+<td bgcolor="#ccffff">3/1</td>
+<td></td>
+<td bgcolor="#ccffff">3/2</td>
+<td></td>
+<td bgcolor="#ccffff">3/3</td>
+<td bgcolor="#ccffff">3/4</td>
+<td bgcolor="#ccffff">3/5</td>
+<td bgcolor="#ccffff">3/6</td>
+<td bgcolor="#ccffff">3/7</td>
+<td bgcolor="#ccffff">3/8</td>
+<td bgcolor="#ccffff">3/9</td>
+<td bgcolor="#ccffff">3/10
+</td></tr>
+<tr>
+<th scope="row">1942
+</th>
+<td bgcolor="#ccffff">4/1</td>
+<td bgcolor="#ccffff">4/2</td>
+<td bgcolor="#ccffff">4/3</td>
+<td bgcolor="#ccffff">4/4</td>
+<td bgcolor="#ccffff">4/5</td>
+<td bgcolor="#ccffff">4/6</td>
+<td bgcolor="#ccffff">4/7</td>
+<td bgcolor="#ccffff">4/8</td>
+<td bgcolor="#ccffff">4/9</td>
+<td bgcolor="#ccffff">4/10</td>
+<td bgcolor="#ccffff">4/11</td>
+<td bgcolor="#ccffff">4/12
+</td></tr>
+<tr>
+<th scope="row">1943
+</th>
+<td bgcolor="#ccffff">5/1</td>
+<td bgcolor="#ccffff">5/2</td>
+<td bgcolor="#ccffff">5/3</td>
+<td bgcolor="#ccffff">5/4</td>
+<td bgcolor="#ccffff">5/5</td>
+<td bgcolor="#ccffff">5/6</td>
+<td bgcolor="#ccffff">5/7</td>
+<td bgcolor="#ccffff">5/8</td>
+<td></td>
+<td bgcolor="#ccffff">5/9</td>
+<td></td>
+<td bgcolor="#ccffff">5/10
+</td></tr>
+<tr>
+<th scope="row">1944
+</th>
+<td></td>
+<td bgcolor="#ccffff">6/1</td>
+<td></td>
+<td bgcolor="#ccffff">6/2</td>
+<td></td>
+<td bgcolor="#ccffff">6/3</td>
+<td></td>
+<td></td>
+<td></td>
+<td bgcolor="#ccffff">6/4</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<th scope="row">1945
+</th>
+<td bgcolor="#ccffff">7/1</td>
+<td></td>
+<td></td>
+<td bgcolor="#ccffff">7/2</td>
+<td></td>
+<td></td>
+<td bgcolor="#ccffff">7/3</td>
+<td></td>
+<td></td>
+<td bgcolor="#ccffff">7/4</td>
+<td></td>
+<td bgcolor="#ccffff">7/5
+</td></tr>
+<tr>
+<th scope="row">1946
+</th>
+<td></td>
+<td bgcolor="#ccffff">8/1</td>
+<td></td>
+<td></td>
+<td bgcolor="#ccffff">8/2</td>
+<td></td>
+<td bgcolor="#ccffff">8/3</td>
+<td></td>
+<td bgcolor="#ccffff">8/4</td>
+<td></td>
+<td bgcolor="#ccffff">8/5</td>
+<td>
+</td></tr>
+<tr>
+<th scope="row">1947
+</th>
+<td bgcolor="#ccffff">9/1</td>
+<td></td>
+<td bgcolor="#ccffff">9/2</td>
+<td></td>
+<td bgcolor="#ccffff">9/3</td>
+<td></td>
+<td bgcolor="#ccffff">9/4</td>
+<td></td>
+<td bgcolor="#ccffff">9/5</td>
+<td bgcolor="#ccffff">9/6</td>
+<td bgcolor="#ccffff">9/7</td>
+<td bgcolor="#ccffff">9/8
+</td></tr>
+<tr>
+<th scope="row">1948
+</th>
+<td bgcolor="#ccffff">10/1</td>
+<td bgcolor="#ccffff">10/2</td>
+<td bgcolor="#ccffff">10/3</td>
+<td bgcolor="#ccffff">10/4</td>
+<td bgcolor="#ccffff">10/5</td>
+<td bgcolor="#ccffff">10/6</td>
+<td bgcolor="#ccffff">10/7</td>
+<td bgcolor="#ccffff">10/8</td>
+<td bgcolor="#ccffff">10/9</td>
+<td bgcolor="#ccffff">10/10</td>
+<td bgcolor="#ccffff">10/11</td>
+<td bgcolor="#ccffff">10/12
+</td></tr>
+<tr>
+<th scope="row">1949
+</th>
+<td bgcolor="#ccffff">11/1</td>
+<td bgcolor="#ccffff">11/2</td>
+<td bgcolor="#ccffff">11/3</td>
+<td bgcolor="#ccffff">11/4</td>
+<td bgcolor="#ccffff">11/5</td>
+<td bgcolor="#ccffff">11/6</td>
+<td bgcolor="#ccffff">11/7</td>
+<td bgcolor="#ccffff">11/8</td>
+<td bgcolor="#ccffff">11/9</td>
+<td bgcolor="#ccffff">11/10</td>
+<td bgcolor="#ccffff">11/11</td>
+<td bgcolor="#ccffff">11/12
+</td></tr>
+<tr>
+<th scope="row">1950
+</th>
+<td bgcolor="#ffff99">12/1</td>
+<td bgcolor="#ffff99">12/2</td>
+<td bgcolor="#ffff99">12/3</td>
+<td bgcolor="#ffff99">12/4</td>
+<td bgcolor="#ffff99">12/5</td>
+<td bgcolor="#ffff99">12/6</td>
+<td bgcolor="#ffff99">12/7</td>
+<td bgcolor="#ffff99">12/8</td>
+<td bgcolor="#ffff99">12/9</td>
+<td bgcolor="#ffff99">12/10</td>
+<td bgcolor="#ffff99">12/11</td>
+<td bgcolor="#ffff99">12/12
+</td></tr>
+<tr>
+<th scope="row">1951
+</th>
+<td bgcolor="#ffff99">13/1</td>
+<td bgcolor="#ffff99">13/2</td>
+<td bgcolor="#ffff99">13/3</td>
+<td bgcolor="#ffff99">13/4</td>
+<td bgcolor="#ffff99">13/5</td>
+<td bgcolor="#ffff99">13/6</td>
+<td bgcolor="#ffff99">13/7</td>
+<td bgcolor="#ffff99">13/8</td>
+<td bgcolor="#ffff99">13/9</td>
+<td bgcolor="#ffff99">13/10</td>
+<td bgcolor="#ffff99">13/11</td>
+<td bgcolor="#ffff99">13/12
+</td></tr>
+<tr>
+<th scope="row">1952
+</th>
+<td bgcolor="#ffff99">14/1</td>
+<td bgcolor="#ffff99">14/2</td>
+<td bgcolor="#ffff99">14/3</td>
+<td bgcolor="#ffff99">14/4</td>
+<td bgcolor="#ffff99">14/5</td>
+<td bgcolor="#ffff99">14/6</td>
+<td bgcolor="#ffff99">14/7</td>
+<td bgcolor="#ffff99">14/8</td>
+<td bgcolor="#ffff99">14/9</td>
+<td bgcolor="#ffff99">14/10</td>
+<td bgcolor="#ffff99">14/11</td>
+<td bgcolor="#ffff99">14/12
+</td></tr>
+<tr>
+<th scope="row">1953
+</th>
+<td bgcolor="#ffff99">15/1</td>
+<td bgcolor="#ffff99">15/2</td>
+<td bgcolor="#ffff99">15/3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td colspan="13" style="font-size: 8pt; text-align:left">
+<p>Выпуски <span lang="en" style="font-style:italic;">Fantastic Adventures</span> по томам/номерам. Цветом обозначен редактор выпуска. <br/>С первого номера и до конца 1949 года редактором был <span class="ts-legend ts-legend-inline legend" style=""><span class="ts-legend-color legend-color mw-no-invert" style="border: 1px solid #c8ccd1;background: #ccffff;" title="#ccffff"></span> Реймонд Палмер</span>; </p>
+</td></tr></tbody></table>
+<p>Обычно редакторы <span lang="en" style="font-style:italic;">Fantastic Adventures</span> указываются следующим образом<sup class="reference" id="cite_ref-:1_8-5"><a href="#cite_note-:1-8"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_9-16"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>:
+</p>
+<ul><li><a class="mw-redirect" href="/wiki/%D0%A0%D1%8D%D0%B9_%D0%9F%D0%B0%D0%BB%D0%BC%D0%B5%D1%80" title="Рэй Палмер">Рэй Палмер</a>: май 1939 года — декабрь 1949 года;</li>
+<li><span data-interwiki-article="Howard Browne" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4&amp;action=edit&amp;redlink=1" title="Браун, Говард (страница отсутствует)">Говард Браун</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Howard_Browne" title="en:Howard Browne"><span title="Howard Browne — версия статьи «Браун, Говард» на английском языке">[англ.]</span></a></sup>: январь 1950 года — апрель 1953 года.</li></ul>
+<p>Однако фактическая редакционная ответственность не всегда соответствовала тому, что указывалось в выходных данных. Должность главного редактора (<span lang="en" style="font-style:italic;">editor-in-chief</span>) была выше, чем ведущего редактора (<span lang="en" style="font-style:italic;">managing editor</span>), но в некоторые периоды истории журнала основная ответственность лежала именно на ведущем. В нижеприведённой таблице показано, кто и в какой период времени занимал соответствующую должность<sup class="reference" id="cite_ref-:2_9-17"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>:
+</p>
+<table class="wikitable" style="text-align: center;">
+<tbody><tr>
+<th scope="col" title="Месяц начала">Месяц нач.
+</th>
+<th scope="col" title="Месяц окончания">Месяц оконч.
+</th>
+<th scope="col" title="Главный редактор">Гл. редактор
+</th>
+<th scope="col" title="Ведущий редактор">Вед. редактор
+</th>
+<th scope="col" title="Количество выпусков">Кол-во выпусков
+</th></tr>
+<tr>
+<td>Май, 39
+</td>
+<td>Январь, 47
+</td>
+<td><span data-interwiki-article="Bernard George Davis" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=%D0%94%D1%8D%D0%B2%D0%B8%D1%81,_%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6&amp;action=edit&amp;redlink=1" title="Дэвис, Бернард Джордж (страница отсутствует)">Б. Дж. Дэвис</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Bernard_George_Davis" title="en:Bernard George Davis"><span title="Bernard George Davis — версия статьи «Дэвис, Бернард Джордж» на английском языке">[англ.]</span></a></sup>
+</td>
+<td>Рэй Палмер
+</td>
+<td>59
+</td></tr>
+<tr>
+<td>Март, 47
+</td>
+<td>Октябрь, 47
+</td>
+<td rowspan="2">Рэй Палмер
+</td>
+<td>Говард Браун
+</td>
+<td>5
+</td></tr>
+<tr>
+<td>Ноябрь, 47
+</td>
+<td>Декабрь, 49
+</td>
+<td rowspan="2">Уильям Хэмлинг
+</td>
+<td>26
+</td></tr>
+<tr>
+<td>Январь, 50
+</td>
+<td>Февраль, 51
+</td>
+<td rowspan="2">Говард Браун
+</td>
+<td>14
+</td></tr>
+<tr>
+<td>Март, 51
+</td>
+<td>Март, 53
+</td>
+<td>Лила Шаффер
+</td>
+<td>25
+</td></tr></tbody></table>
+<p>Изначально <span lang="en" style="font-style:italic;">Fantastic Adventures</span> выходил в <span data-interwiki-article="Bedsheet" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Bedsheet&amp;action=edit&amp;redlink=1" title="Bedsheet (страница отсутствует)">формате <span lang="en" style="font-style:italic;">bedsheet</span></a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Bedsheet" title="en:Bedsheet"><span title="Bedsheet — версия статьи «Bedsheet» на английском языке">[англ.]</span></a></sup>, в каждом номере было по 96 страниц, в июне 1940 года формат был уменьшен до размеров бульварных журналов, а количество страниц увеличилось до 144. Поначалу каждый выпуск журнала стоил по 20 центов. С апрельским номером 1942 года цена увеличилась до 25 центов и оставалась такой до конца выпуска журнала, а количество страниц снова увеличилось до 240. С июня 1943 года по июль 1945 года в номерах было по 208 страниц, а в октябрьском выпуске 1945 года количество страниц упало до 176, затем до 160 в июле 1948 года и всего двумя выпусками позже, в сентябре 1948 года, количество страниц сократилось до 156. В июньском выпуске 1949 года оно снова упало до 144, но выросло до 160 с сентября 1949 года по август 1950 года. В сентябрьском выпуске 1950 года было 148 страниц, во всех последующих выпусках — 130 страниц<sup class="reference" id="cite_ref-:2_9-18"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>Изначально номера появлялись раз в два месяца, но с января 1940 года журнал перешёл на ежемесячный график выпусков, который, однако, выдерживался лишь в течение следующих шести выпусков. За июньским номером 1940 года последовали августовский и октябрьский номера 1940 года, январский и мартовский номера 1941 года. С выпуском майского номера 1941 года начался ещё один ежемесячный период, который продлился до августа 1943 года, после чего журнал снова стал выходить раз в два месяца вплоть до июньского номера 1944 года. Затем <span lang="en" style="font-style:italic;">Fantastic</span> начиная с октябрьского номера 1944 года перешёл на квартальный график выпусков; в октябре 1945 года график снова стал двухмесячным, хотя между февралём и маем 1946 года был перерыв. Начиная с сентябрьского выпуска 1947 года и до конца публикаций журнал выходил ежемесячно. Нумерация томов была регулярной, новый том появлялся в начале каждого календарного года. В результате в томах было разное количество выпусков: от четырёх в 1944 году до двенадцати, когда журнал был ежемесячным, как это было в последние несколько лет выпуска. Последним выпуском стал третий номер пятнадцатого тома<sup class="reference" id="cite_ref-:2_9-19"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>Вышло два британских переиздания. Первое состояло из двух пронумерованных выпусков без дат, которые вышли в мае и июне 1947 года в лондонском издании Ziff-Davis. Каждый выпуск состоял из 32 страниц формата бульварного журнала, в них были перепечатаны рассказы из американского издания военных лет. Второе переиздание было выпущено <span data-interwiki-article="Thorpe &amp; Porter" data-interwiki-lang="en"><a class="new" href="/w/index.php?title=Thorpe_%26_Porter&amp;action=edit&amp;redlink=1" title="Thorpe &amp; Porter (страница отсутствует)">Thorpe &amp; Porter</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a class="extiw" href="https://en.wikipedia.org/wiki/Thorpe_%26_Porter" title="en:Thorpe &amp; Porter"><span title="Thorpe &amp; Porter — версия статьи «Thorpe &amp; Porter» на английском языке">[англ.]</span></a></sup> (<a href="/wiki/%D0%9B%D0%B5%D1%81%D1%82%D0%B5%D1%80" title="Лестер">Лестер</a>) и состояло из 24 выпусков без дат, все, кроме первых двух, были пронумерованы. Изначально выпуск состоял из 160 страниц, но затем объём уменьшался сначала до 128, а затем до 96 страниц. Номера выходили в период с июня 1950 года по февраль 1954 года и представляли собой сокращённые версии американских изданий, выходивших с марта 1950 года по январь 1953 года<sup class="reference" id="cite_ref-:0_7-1"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_9-20"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th scope="col">Номер
+</th>
+<th scope="col">Дата выпуска в Великобритании
+</th>
+<th scope="col">Соответствующий американский выпуск
+</th></tr>
+<tr>
+<td>1 (без номера)</td>
+<td>июнь 1950</td>
+<td>март 1950
+</td></tr>
+<tr>
+<td>2 (без номера)</td>
+<td>август 1950</td>
+<td>апрель 1950
+</td></tr>
+<tr>
+<td>3</td>
+<td>октябрь 1950</td>
+<td>май 1950
+</td></tr>
+<tr>
+<td>4</td>
+<td>декабрь 1950</td>
+<td>сентябрь 1950
+</td></tr>
+<tr>
+<td>5</td>
+<td>январь 1951</td>
+<td>октябрь 1950
+</td></tr>
+<tr>
+<td>6</td>
+<td>март 1951</td>
+<td>август 1950
+</td></tr>
+<tr>
+<td>7</td>
+<td>апрель 1951</td>
+<td>февраль 1951
+</td></tr>
+<tr>
+<td>8</td>
+<td>ноябрь 1951</td>
+<td>январь 1951
+</td></tr>
+<tr>
+<td>9</td>
+<td>февраль 1952</td>
+<td>февраль 1950
+</td></tr>
+<tr>
+<td>10</td>
+<td>март 1952</td>
+<td>ноябрь 1950
+</td></tr>
+<tr>
+<td>11</td>
+<td>апрель 1952</td>
+<td>декабрь 1950
+</td></tr>
+<tr>
+<td>12</td>
+<td>июль 1952</td>
+<td>март 1951
+</td></tr>
+<tr>
+<td>13</td>
+<td>сентябрь 1952</td>
+<td>апрель 1951
+</td></tr>
+<tr>
+<td>14</td>
+<td>октябрь 1952</td>
+<td>май 1951
+</td></tr>
+<tr>
+<td>15</td>
+<td>ноябрь 1952</td>
+<td>август 1951
+</td></tr>
+<tr>
+<td>16</td>
+<td>январь 1953</td>
+<td>июнь 1951
+</td></tr>
+<tr>
+<td>17</td>
+<td>февраль 1953</td>
+<td>сентябрь 1951
+</td></tr>
+<tr>
+<td>18</td>
+<td>апрель 1953</td>
+<td>октябрь 1951
+</td></tr>
+<tr>
+<td>19</td>
+<td>июнь 1953</td>
+<td>апрель 1952
+</td></tr>
+<tr>
+<td>20</td>
+<td>июль 1953</td>
+<td>июнь 1952
+</td></tr>
+<tr>
+<td>21</td>
+<td>август 1953</td>
+<td>июль 1950
+</td></tr>
+<tr>
+<td>22</td>
+<td>сентябрь 1953</td>
+<td>январь 1953
+</td></tr>
+<tr>
+<td>23</td>
+<td>октябрь 1953</td>
+<td>декабрь 1951
+</td></tr>
+<tr>
+<td>24</td>
+<td>февраль 1954</td>
+<td>декабрь 1952
+</td></tr></tbody></table>
+<p>Изначально содержание было идентичным выпускам для США, но начиная с выпуска № 13 британские номера были короче американских по крайней мере на один рассказ<sup class="reference" id="cite_ref-:0_7-2"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_9-21"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>Начиная с 1941 года нераспроданные выпуски <span lang="en" style="font-style:italic;">Fantastic Adventures</span> перешивались по три номера с новой обложкой и продавались под названием <span lang="en" style="font-style:italic;">Fantastic Adventures Quarterly</span>. С зимы 1941 по осень 1943 года вышло восемь таких ежеквартальных выпусков, они стоили по 25 центов и были пронумерованы от первого номера первого тома до четвёртого номера второго тома. Ещё одна подобная серия появилась летом 1948 года, номера стоили по 50 центов. Вышло одиннадцать номеров переизданий начиная с первого выпуска шестого тома до первого выпуска девятого тома (вышел весной 1951 года); весенний выпуск 1949 года был пропущен<sup class="reference" id="cite_ref-:0_7-3"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-:2_9-22"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>.
+</p><p>В 1965 году Сол Коэн приобрёл у Ziff-Davis журналы <span lang="en" style="font-style:italic;">Amazing Stories</span> и <span lang="en" style="font-style:italic;">Fantastic</span>, а также права на перепечатку всех произведений, опубликованных в научно-фантастических журналах издательства, включая <span lang="en" style="font-style:italic;">Fantastic Adventures</span><sup class="reference" id="cite_ref-_62e11597856ec56c_21-0"><a href="#cite_note-_62e11597856ec56c-21"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup>. Коэн опубликовал несколько переизданий и часто печатал рассказы из <span lang="en" style="font-style:italic;">Fantastic Adventures</span>. В частности, следующие издания частично или полностью состояли из материалов, ранее опубликованных в <span lang="en" style="font-style:italic;">Fantastic Adventures</span><sup class="reference" id="cite_ref-:2_9-23"><a href="#cite_note-:2-9"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-22"><a href="#cite_note-22"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup>:
+</p>
+<ul><li><span lang="en" style="font-style:italic;">Fantastic Adventures Yearbook</span>. Один выпуск, лето 1970 года, без номера, дата обозначена только годом. Перепечатано шесть произведений из <span lang="en" style="font-style:italic;">Fantastic Adventures</span>, изначально опубликованных в период между 1949 и 1952 годом;</li>
+<li><span lang="en" style="font-style:italic;">Thrilling Science Fiction</span>. Выпуски 16 и 20 (лето 1970 года и лето 1971 года);</li>
+<li><span lang="en" style="font-style:italic;">Science Fiction Adventures</span>. Январский выпуск 1974 года;</li>
+<li><span lang="en" style="font-style:italic;">Science Fantasy</span>. Все четыре выпуска с 1970 по 1971 год;</li>
+<li><span lang="en" style="font-style:italic;">The Strangest Stories Every Told</span>. Один выпуск, лето 1970 года;</li>
+<li><span lang="en" style="font-style:italic;">Weird Mystery</span>. С осени 1970 года по лето 1971 года вышло четыре номера, содержание которых по большей части перепечатывалось из <span lang="en" style="font-style:italic;">Fantastic Adventures</span>.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Комментарии"><span id=".D0.9A.D0.BE.D0.BC.D0.BC.D0.B5.D0.BD.D1.82.D0.B0.D1.80.D0.B8.D0.B8"></span>Комментарии</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Комментарии»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=6" title="Редактировать код раздела «Комментарии»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Журналы формата <span lang="en" style="font-style:italic;">bedsheet</span> имели размеры примерно 8,5 на 11,75 дюймов (216 на 298 миллиметров)<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Примечания»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=7" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFClute1993"><i>Malcolm Edwards &amp; Peter Nicholls.</i> <span data-wikidata-qualifier-id="P248">SF Magazines</span> // <a class="external text" href="https://archive.org/details/encyclopediaofsc00ies1" rel="nofollow">The Encyclopedia of Science Fiction</a> <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> / Clute, John; Nicholls, Peter. — New York: St. Martin's Press, Inc, 1993. — P. <a class="external text" href="https://archive.org/details/encyclopediaofsc00ies1/page/1066" rel="nofollow">1066</a>—1068. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0312096186">ISBN 0-312-09618-6</a>.</span></span>
+</li>
+<li id="cite_note-_f58d57c49fdea412-2"><span class="mw-cite-backlink"><a href="#cite_ref-_f58d57c49fdea412_2-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAshley2000">Ashley, 2000</a>, p. 76.</span>
+</li>
+<li id="cite_note-_1dc94c1ba74ad2c8-3"><span class="mw-cite-backlink"><a href="#cite_ref-_1dc94c1ba74ad2c8_3-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAshley2000">Ashley, 2000</a>, p. 115.</span>
+</li>
+<li id="cite_note-_420a21255f360085-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_420a21255f360085_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-_420a21255f360085_4-8"><sup><i><b>9</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFAshley2000">Ashley, 2000</a>, pp. 142—146.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"></span>
+</li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:0_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:0_7-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:0_7-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:0_7-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"></span>
+</li>
+<li id="cite_note-:1-8"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:1_8-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:1_8-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:1_8-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:1_8-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-:1_8-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-:1_8-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"></span>
+</li>
+<li id="cite_note-:2-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:2_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:2_9-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-:2_9-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-:2_9-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-:2_9-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-:2_9-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-:2_9-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-:2_9-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-:2_9-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-:2_9-9"><sup><i><b>10</b></i></sup></a> <a href="#cite_ref-:2_9-10"><sup><i><b>11</b></i></sup></a> <a href="#cite_ref-:2_9-11"><sup><i><b>12</b></i></sup></a> <a href="#cite_ref-:2_9-12"><sup><i><b>13</b></i></sup></a> <a href="#cite_ref-:2_9-13"><sup><i><b>14</b></i></sup></a> <a href="#cite_ref-:2_9-14"><sup><i><b>15</b></i></sup></a> <a href="#cite_ref-:2_9-15"><sup><i><b>16</b></i></sup></a> <a href="#cite_ref-:2_9-16"><sup><i><b>17</b></i></sup></a> <a href="#cite_ref-:2_9-17"><sup><i><b>18</b></i></sup></a> <a href="#cite_ref-:2_9-18"><sup><i><b>19</b></i></sup></a> <a href="#cite_ref-:2_9-19"><sup><i><b>20</b></i></sup></a> <a href="#cite_ref-:2_9-20"><sup><i><b>21</b></i></sup></a> <a href="#cite_ref-:2_9-21"><sup><i><b>22</b></i></sup></a> <a href="#cite_ref-:2_9-22"><sup><i><b>23</b></i></sup></a> <a href="#cite_ref-:2_9-23"><sup><i><b>24</b></i></sup></a></span> <span class="reference-text"></span>
+</li>
+<li id="cite_note-_1ac5a2685e873bdf-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_1ac5a2685e873bdf_10-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_1ac5a2685e873bdf_10-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFAshley2005">Ashley, 2005</a>, p. 7.</span>
+</li>
+<li id="cite_note-_da785361129f4cf9-11"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_da785361129f4cf9_11-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_da785361129f4cf9_11-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFAshley2005">Ashley, 2005</a>, pp. 48—50.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Смотри отдельные номера. Онлайн-индекс: <span class="citation"><span lang="en"><a class="external text" href="http://www.isfdb.org/cgi-bin/seriesgrid.cgi?20289" rel="nofollow">Fantastic Adventures</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <i>isfdb</i>. Дата обращения: 26 декабря 2021. <a class="external text" href="https://web.archive.org/web/20211226193433/http://www.isfdb.org/cgi-bin/seriesgrid.cgi?20289" rel="nofollow">Архивировано</a> 26 декабря 2021 года.</span> Индекс британского переиздания: <span class="citation"><span lang="en"><a class="external text" href="https://sfcovers.net/index-11/" rel="nofollow">Fantastic Adventures – Fantastic</a></span> <span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>. <a class="external text" href="https://web.archive.org/web/20110724062233/http://sfcovers.net/Magazines/FAD12/index.htm" rel="nofollow">Архивировано</a> 24 июля 2011 года.</span></span>
+</li>
+<li id="cite_note-_8e18932eb5df3d70-13"><span class="mw-cite-backlink"><a href="#cite_ref-_8e18932eb5df3d70_13-0">↑</a></span> <span class="reference-text"><a href="#CITEREFdeCamp1953">deCamp, 1953</a>, p. 120.</span>
+</li>
+<li id="cite_note-_1dc9461ba74ac8f3-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_1dc9461ba74ac8f3_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_1dc9461ba74ac8f3_14-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFAshley2000">Ashley, 2000</a>, p. 178.</span>
+</li>
+<li id="cite_note-_1dc9431ba74ac381-15"><span class="mw-cite-backlink"><a href="#cite_ref-_1dc9431ba74ac381_15-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAshley2000">Ashley, 2000</a>, p. 183.</span>
+</li>
+<li id="cite_note-_9ff0fc10d81c17b4-16"><span class="mw-cite-backlink"><a href="#cite_ref-_9ff0fc10d81c17b4_16-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAshley1976">Ashley, 1976</a>, p. 24.</span>
+</li>
+<li id="cite_note-_1ac5a2685e873bde-17"><span class="mw-cite-backlink"><a href="#cite_ref-_1ac5a2685e873bde_17-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAshley2005">Ashley, 2005</a>, p. 6.</span>
+</li>
+<li id="cite_note-_a0e660ff687f32da-18"><span class="mw-cite-backlink"><a href="#cite_ref-_a0e660ff687f32da_18-0">↑</a></span> <span class="reference-text"><a href="#CITEREFClute1995">Clute, 1995</a>, p. 101.</span>
+</li>
+<li id="cite_note-_dba3db6cd4abca4e-19"><span class="mw-cite-backlink"><a href="#cite_ref-_dba3db6cd4abca4e_19-0">↑</a></span> <span class="reference-text"><a href="#CITEREFCarter1977">Carter, 1977</a>, p. 183.</span>
+</li>
+<li id="cite_note-_07a96a530cce3954-20"><span class="mw-cite-backlink"><a href="#cite_ref-_07a96a530cce3954_20-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAldiss1986">Aldiss, 1986</a>, p. 222, 463, 464.</span>
+</li>
+<li id="cite_note-_62e11597856ec56c-21"><span class="mw-cite-backlink"><a href="#cite_ref-_62e11597856ec56c_21-0">↑</a></span> <span class="reference-text"><a href="#CITEREFAshley2005">Ashley, 2005</a>, p. 228.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Литература»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=8" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFTuck1982"><i>Tuck, Donald H.</i> The Encyclopedia of Science Fiction and Fantasy: Volume 3 <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. — Chicago: Advent: Publishers, Inc, 1982. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0911682260">ISBN 0-911682-26-0</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFTymn1985">Science Fiction, Fantasy and Weird Fiction Magazines <small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> / Tymn, Marshall B.; Ashley, Mike. — Westport CT: <a class="mw-redirect" href="/wiki/Greenwood_Press" title="Greenwood Press">Greenwood Press</a>, 1985. — <a class="internal mw-magiclink-isbn" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/031321221X">ISBN 0-313-21221-X</a>.</span></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Ссылки»"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Fantastic_Adventures&amp;action=edit&amp;section=9" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Логотип Викисклада"><img alt="Логотип Викисклада" class="mw-file-element" data-file-height="1376" data-file-width="1024" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" width="12"/></a></span> На <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Викисклад">Викискладе</a> есть медиафайлы по теме <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Fantastic_Adventures" title="commons:Category:Fantastic Adventures">Fantastic Adventures</a></li></ul>
+<div aria-labelledby="Ссылки_на_внешние_ресурсы" class="navbox" data-name="External links" role="navigation" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th class="navbox-title" colspan="2" scope="colgroup" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th class="navbox-group" scope="row" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" class="mw-file-element" data-file-height="14" data-file-width="14" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" width="14"/></a></span> <span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q3140799#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" class="mw-file-element" data-file-height="20" data-file-width="20" decoding="async" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" width="14"/></a></span></div>  Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://www.isfdb.org/cgi-bin/pe.cgi?20289" rel="nofollow">Internet Speculative Fiction Database</a></li></ul>
+</div></td></tr></tbody></table></div><p> 
+</p><table class="mbox-Хорошая_статья plainlinks metadata ambox ambox-good" id="ga-message" role="presentation" style="margin-top:1em"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D1%85_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9" title="Википедия:Список хороших статей"><img alt="✰" class="mw-file-element" data-file-height="24" data-file-width="24" decoding="async" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/24px-Blue_star_boxed.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/36px-Blue_star_boxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Blue_star_boxed.svg/48px-Blue_star_boxed.svg.png 2x" width="24"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Эта статья входит в число <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Хорошие статьи">хороших статей</a> русскоязычного раздела Википедии.</div><div class="mbox-textsmall-div hide-when-compact"></div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> -->
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Fantastic_Adventures&amp;oldid=140372021">https://ru.wikipedia.org/w/index.php?title=Fantastic_Adventures&amp;oldid=140372021</a></div></div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Журналы по алфавиту">Журналы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%87%D0%B0%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F,_%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D1%88%D0%B8%D0%B5_%D0%B2_1939_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Печатные издания, возникшие в 1939 году">Печатные издания, возникшие в 1939 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B_%D0%BD%D0%B0_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5" title="Категория:Журналы на английском языке">Журналы на английском языке</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B_%D0%A1%D0%A8%D0%90" title="Категория:Фантастические журналы США">Фантастические журналы США</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_JsonConfig" title="Категория:Страницы, использующие расширение JsonConfig">Страницы, использующие расширение JsonConfig</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Хорошие статьи по алфавиту">Википедия:Хорошие статьи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B5" title="Категория:Википедия:Хорошие статьи по литературе">Википедия:Хорошие статьи по литературе</a></li></ul></div></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Навигация</h2>
+<div id="mw-head">
+<nav aria-labelledby="p-personal-label" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" id="p-personal">
+<h3 class="vector-menu-heading" id="p-personal-label">
+<span class="vector-menu-heading-label">Персональные инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="pt-anonuserpage"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li class="mw-list-item" id="pt-anontalk"><a accesskey="n" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]"><span>Обсуждение</span></a></li><li class="mw-list-item" id="pt-anoncontribs"><a accesskey="y" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]"><span>Вклад</span></a></li><li class="mw-list-item" id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Fantastic+Adventures" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li class="mw-list-item" id="pt-login"><a accesskey="o" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Fantastic+Adventures" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]"><span>Войти</span></a></li>
+</ul>
+</div>
+</nav>
+<div id="left-navigation">
+<nav aria-labelledby="p-namespaces-label" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-namespaces">
+<h3 class="vector-menu-heading" id="p-namespaces-label">
+<span class="vector-menu-heading-label">Пространства имён</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-nstab-main"><a accesskey="c" href="/wiki/Fantastic_Adventures" title="Просмотреть контентную страницу [c]"><span>Статья</span></a></li><li class="mw-list-item" id="ca-talk"><a accesskey="t" href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Fantastic_Adventures" rel="discussion" title="Обсуждение основной страницы [t]"><span>Обсуждение</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-variants-label" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" id="p-variants">
+<input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-variants-label">
+<span class="vector-menu-heading-label">русский</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+</div>
+<div id="right-navigation">
+<nav aria-labelledby="p-views-label" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" id="p-views">
+<h3 class="vector-menu-heading" id="p-views-label">
+<span class="vector-menu-heading-label">Просмотры</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="selected mw-list-item" id="ca-view"><a href="/wiki/Fantastic_Adventures"><span>Читать</span></a></li><li class="mw-list-item" id="ca-ve-edit"><a accesskey="v" href="/w/index.php?title=Fantastic_Adventures&amp;veaction=edit" title="Редактировать данную страницу [v]"><span>Править</span></a></li><li class="collapsible mw-list-item" id="ca-edit"><a accesskey="e" href="/w/index.php?title=Fantastic_Adventures&amp;action=edit" title="Править исходный текст этой страницы [e]"><span>Править код</span></a></li><li class="mw-list-item" id="ca-history"><a accesskey="h" href="/w/index.php?title=Fantastic_Adventures&amp;action=history" title="Журнал изменений страницы [h]"><span>История</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-cactions-label" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" id="p-cactions" title="Больше возможностей">
+<input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+<label class="vector-menu-heading" id="p-cactions-label">
+<span class="vector-menu-heading-label">Ещё</span>
+</label>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+</ul>
+</div>
+</nav>
+<div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+<h3>Поиск</h3>
+<form action="/w/index.php" class="vector-search-box-form" id="searchform">
+<div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+<input accesskey="f" aria-label="Искать в Википедии" autocapitalize="sentences" class="vector-search-box-input" id="searchInput" name="search" placeholder="Искать в Википедии" title="Искать в Википедии [f]" type="search"/>
+<input name="title" type="hidden" value="Служебная:Поиск"/>
+<input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Найти страницы, содержащие указанный текст" type="submit" value="Найти"/>
+<input class="searchButton" id="searchButton" name="go" title="Перейти к странице, имеющей в точности такое название" type="submit" value="Перейти"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="vector-legacy-sidebar" id="mw-panel">
+<div id="p-logo" role="banner">
+<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a>
+</div>
+<nav aria-labelledby="p-navigation-label" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" id="p-navigation">
+<h3 class="vector-menu-heading" id="p-navigation-label">
+<span class="vector-menu-heading-label">Навигация</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-mainpage-description"><a accesskey="z" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]"><span>Заглавная страница</span></a></li><li class="mw-list-item" id="n-content"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li class="mw-list-item" id="n-featured"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li class="mw-list-item" id="n-randompage"><a accesskey="x" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]"><span>Случайная статья</span></a></li><li class="mw-list-item" id="n-currentevents"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li class="mw-list-item" id="n-sitesupport"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-participation-label" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" id="p-participation">
+<h3 class="vector-menu-heading" id="p-participation-label">
+<span class="vector-menu-heading-label">Участие</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="n-bug_in_article"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li class="mw-list-item" id="n-introduction"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li class="mw-list-item" id="n-portal"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li class="mw-list-item" id="n-forum"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li class="mw-list-item" id="n-help"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li class="mw-list-item" id="n-recentchanges"><a accesskey="r" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]"><span>Свежие правки</span></a></li><li class="mw-list-item" id="n-newpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li class="mw-list-item" id="n-specialpages"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-tb-label" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" id="p-tb">
+<h3 class="vector-menu-heading" id="p-tb-label">
+<span class="vector-menu-heading-label">Инструменты</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="t-whatlinkshere"><a accesskey="j" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Fantastic_Adventures" title="Список всех страниц, ссылающихся на данную [j]"><span>Ссылки сюда</span></a></li><li class="mw-list-item" id="t-recentchangeslinked"><a accesskey="k" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Fantastic_Adventures" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]"><span>Связанные правки</span></a></li><li class="mw-list-item" id="t-permalink"><a href="/w/index.php?title=Fantastic_Adventures&amp;oldid=140372021" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li class="mw-list-item" id="t-info"><a href="/w/index.php?title=Fantastic_Adventures&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li class="mw-list-item" id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Fantastic_Adventures&amp;id=140372021&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li class="mw-list-item" id="t-urlshortener"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FFantastic_Adventures"><span>Получить короткий URL</span></a></li><li class="mw-list-item" id="t-urlshortener-qrcode"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FFantastic_Adventures"><span>Скачать QR-код</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-coll-print_export-label" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" id="p-coll-print_export">
+<h3 class="vector-menu-heading" id="p-coll-print_export-label">
+<span class="vector-menu-heading-label">Печать/экспорт</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="mw-list-item" id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Fantastic_Adventures&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li class="mw-list-item" id="t-print"><a accesskey="p" href="/w/index.php?title=Fantastic_Adventures&amp;printable=yes" title="Версия этой страницы для печати [p]"><span>Версия для печати</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-wikibase-otherprojects-label" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" id="p-wikibase-otherprojects">
+<h3 class="vector-menu-heading" id="p-wikibase-otherprojects-label">
+<span class="vector-menu-heading-label">В других проектах</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Fantastic_Adventures" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item" id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3140799" title="Ссылка на связанный элемент репозитория данных [g]"><span>Элемент Викиданных</span></a></li>
+</ul>
+</div>
+</nav>
+<nav aria-labelledby="p-lang-label" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" id="p-lang">
+<h3 class="vector-menu-heading" id="p-lang-label">
+<span class="vector-menu-heading-label">На других языках</span>
+</h3>
+<div class="vector-menu-content">
+<ul class="vector-menu-content-list">
+<li class="interlanguage-link interwiki-en badge-Q17437796 badge-featuredarticle mw-list-item" title="избранная статья"><a class="interlanguage-link-target" data-language-autonym="English" data-language-local-name="английский" data-title="Fantastic Adventures" href="https://en.wikipedia.org/wiki/Fantastic_Adventures" hreflang="en" lang="en" title="Fantastic Adventures — английский"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Español" data-language-local-name="испанский" data-title="Fantastic Adventures" href="https://es.wikipedia.org/wiki/Fantastic_Adventures" hreflang="es" lang="es" title="Fantastic Adventures — испанский"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Français" data-language-local-name="французский" data-title="Fantastic Adventures" href="https://fr.wikipedia.org/wiki/Fantastic_Adventures" hreflang="fr" lang="fr" title="Fantastic Adventures — французский"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Italiano" data-language-local-name="итальянский" data-title="Fantastic Adventures" href="https://it.wikipedia.org/wiki/Fantastic_Adventures" hreflang="it" lang="it" title="Fantastic Adventures — итальянский"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" data-language-autonym="日本語" data-language-local-name="японский" data-title="ファンタスティック・アドベンチャーズ" href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA" hreflang="ja" lang="ja" title="ファンタスティック・アドベンチャーズ — японский"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a class="interlanguage-link-target" data-language-autonym="한국어" data-language-local-name="корейский" data-title="판타스틱 어드벤처스" href="https://ko.wikipedia.org/wiki/%ED%8C%90%ED%83%80%EC%8A%A4%ED%8B%B1_%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98%EC%8A%A4" hreflang="ko" lang="ko" title="판타스틱 어드벤처스 — корейский"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a class="interlanguage-link-target" data-language-autonym="Nederlands" data-language-local-name="нидерландский" data-title="Fantastic Adventures" href="https://nl.wikipedia.org/wiki/Fantastic_Adventures" hreflang="nl" lang="nl" title="Fantastic Adventures — нидерландский"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-zh badge-Q17437798 badge-goodarticle mw-list-item" title="хорошая статья"><a class="interlanguage-link-target" data-language-autonym="中文" data-language-local-name="китайский" data-title="奇妙历险" href="https://zh.wikipedia.org/wiki/%E5%A5%87%E5%A6%99%E5%8E%86%E9%99%A9" hreflang="zh" lang="zh" title="奇妙历险 — китайский"><span>中文</span></a></li>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3140799#sitelinks-wikipedia" title="Править ссылки на другие языки">Править ссылки</a></span></div>
+</div>
+</nav>
+</div>
+</div>
+<footer class="mw-footer" id="footer">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 24 сентября 2024 в 09:55.</li>
+<li id="footer-info-copyright">Текст доступен по <a class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru" rel="nofollow">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br/>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a class="external text" href="https://wikimediafoundation.org/ru/" rel="nofollow">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//ru.m.wikipedia.org/w/index.php?title=Fantastic_Adventures&amp;mobileaction=toggle_view_mobile">Мобильная версия</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://wikimediafoundation.org/"><picture><source height="29" media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84"/><img alt="Wikimedia Foundation" height="25" lang="en" loading="lazy" src="/static/images/footer/wikimedia.svg" width="25"/></picture></a></li>
+<li id="footer-poweredbyico"><a class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled" href="https://www.mediawiki.org/"><picture><source height="31" media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88"/><img alt="Powered by MediaWiki" height="25" lang="en" loading="lazy" src="/w/resources/assets/mediawiki_compact.svg" width="25"/></picture></a></li>
+</ul>
+</footer>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+<ul>
+</ul>
+</div>
+
+
+</body>
+</html>
